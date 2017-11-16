@@ -1,1 +1,1 @@
-#moc-wordress
+This repo contains a backup of our content. When a change is made, it will be pushed here. If you want to make a change you can submit a PR. The change can be imported with admin privilages on the website.
