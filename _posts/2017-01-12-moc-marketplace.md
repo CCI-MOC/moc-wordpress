@@ -72,8 +72,8 @@ To get involved in this project, please send an email to (<a href="mailto:team@
 
 Code is available at:
 <ul>
- 	<li><a href="https://github.com/CCI-MOC/GUI-Frontend">https://github.com/CCI-MOC/GUI-Frontend</a></li>
- 	<li><a href="https://github.com/CCI-MOC/GUI-Backend">https://github.com/CCI-MOC/GUI-Backend</a></li>
+ 	<li><a href="https://github.com/CCI-MOC/giji-frontend">https://github.com/CCI-MOC/giji-frontend</a></li>
+ 	<li><a href="https://github.com/CCI-MOC/giji-backend">https://github.com/CCI-MOC/GUI-Backend</a></li>
 </ul>
 Demo site at:
 <ul>
