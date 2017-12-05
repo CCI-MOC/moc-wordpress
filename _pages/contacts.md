@@ -12,10 +12,8 @@ Note: For the summer of 2017, we have temporarily moved to the Red Hat office lo
 
 Address: 3 Cummington Mall (Room 451), Boston, Massachusetts
 
-Email : <a href="mailto:team@lists.massopen.cloud">team@lists.massopen.cloud</a>
+Email: <a href="mailto:team@lists.massopen.cloud">team@lists.massopen.cloud</a>
 
 Phone : (617) 353-6070
-
-[wpgmza id="1"]
 
 &nbsp;
