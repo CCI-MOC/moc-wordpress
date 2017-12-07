@@ -36,4 +36,4 @@ Contributions submitted to the Project Manager. Except for the license granted h
 
 <em>In the event, and to the extent that any portion of Your Contribution is not a Public Domain Work, such as any portion of Your Contribution subject to copyright protection outside of the United States, You hereby grant to the Project Manager and to recipients of software distributed by the Project Manager a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.</em>
 
-Here is the form: https://goo.gl/forms/cXUa74OAjoHQ0QJq1
+Here is the form: <a href="https://goo.gl/forms/cXUa74OAjoHQ0QJq1">https://goo.gl/forms/cXUa74OAjoHQ0QJq1</a>
