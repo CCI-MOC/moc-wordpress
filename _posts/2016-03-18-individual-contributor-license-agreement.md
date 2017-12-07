@@ -40,4 +40,4 @@ post_date: 2016-03-18 19:56:39
  	<li>Should You wish to submit work that is not Your original creation, You may submit it to the Project Manager separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".</li>
  	<li>You agree to notify the Project Manager of any facts or circumstances of which you become aware that would make these representations inaccurate in any respect.</li>
 </ol>
-Here is the form: https://goo.gl/forms/cXUa74OAjoHQ0QJq1
+Here is the form: <a href="https://goo.gl/forms/zgbvrPjODa8V96Tp1">https://goo.gl/forms/cXUa74OAjoHQ0QJq1</a>
