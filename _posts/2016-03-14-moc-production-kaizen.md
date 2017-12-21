@@ -12,35 +12,35 @@ post_date: 2016-03-14 14:34:09
 &nbsp;
 
 [toc]
-<h3><span style="text-decoration: underline;"><strong>Overview</strong></span></h3>
+<h3><span style="text-decoration: underline"><strong>Overview</strong></span></h3>
 Kaizen, MOC's production OpenStack cluster, provides a cloud platform for the research and development projects being worked on by the MOC and its outside partners.
 
-In the spring of 2016, our cloud hosted projects for <span style="color: #000000;">approximately 90 </span>students from our <a href="http://okrieg.github.io/EC500/index-spring-2016.html">Cloud Computing courses</a> at Boston University and Northeastern University.  The class was offered again in Spring 2017 to 40 students at Boston University. It is also home to small number of longer-term projects owned by researchers at our partner institutions.  Fun fact - one of those projects is this very website, which is served by a small OpenStack instance.
+In the spring of 2016, our cloud hosted projects for <span style="color: #000000">approximately 90 </span>students from our <a href="http://okrieg.github.io/EC500/index-spring-2016.html">Cloud Computing courses</a> at Boston University and Northeastern University.  The class was offered again in Spring 2017 to 40 students at Boston University. It is also home to small number of longer-term projects owned by researchers at our partner institutions.  Fun fact - one of those projects is this very website, which is served by a small OpenStack instance.
 
 Kaizen means 'continuous improvement' in Japanese, and we chose this name to reflect the MOC's emphasis on innovation. Two core MOC projects, <a href="http://massopen.cloud/blog/project-hil/">HIL</a> and <a href="http://massopen.cloud/blog/monitoring-massachusetts-open-cloud-mocmon/">MOCMon</a>, had been integrated into Kaizen. Many other projects currently being developed on top of the existing cloud will be incorporated into the production cloud once they are ready for release.  In this way Kaizen perpetuates a cycle of improvement - each new project that is incorporated adds new features to the cloud, which in turn enables more opportunities for future development and research.
 
-To see Kaizen in action, check out our <a href="https://www.youtube.com/playlist?list=PLt4NWsdhZYQMXKXiyjEDpfxAJfFak7uC7">Video Tutorials</a>. For those who prefer text to video, we also maintain a <a href="https://github.com/CCI-MOC/moc-public/wiki/openstack-tutorial-index">text-based tutorial</a> on our public wiki.
+To see Kaizen in action, check out our <a href="https://massopen.cloud/openstack-video-tutorial/">Video Tutorials</a>. For those who prefer text to video, we also maintain a <a href="https://github.com/CCI-MOC/moc-public/wiki/openstack-tutorial-index">text-based tutorial</a> on our public wiki.
 
 <hr />
 
-<h3><span style="text-decoration: underline;"><strong>Architecture</strong></span></h3>
+<h3><span style="text-decoration: underline"><strong>Architecture</strong></span></h3>
 Kaizen is deployed on 32 compute servers and two redundant controller nodes, with an additional services node to host various tools for monitoring and deployment. It can be expanded to include more nodes from the cluster, which comprises 48 Cisco UCS C220 M3 servers.  All of these servers are located in one of Northeastern University's pods at the <a href="http://www.mghpcc.org/">Massachusetts Green High Performance Computing Center</a> (MGHPCC) in Holyoke, MA.
 
-The cluster is currently running OpenStack Mitaka on Red Hat Enterprise Linux OpenStack Platform.  <span style="line-height: 1.75;">Server configuration and OpenStack deployment on the cluster is heavily automated using Puppet.  Our production puppet scripts are hosted publicly on </span><a style="line-height: 1.75;" href="https://github.com/CCI-MOC/kilo-puppet">GitHub</a><span style="line-height: 1.75;">.</span>
+The cluster is currently running OpenStack Mitaka on Red Hat Enterprise Linux OpenStack Platform.  <span style="line-height: 1.75">Server configuration and OpenStack deployment on the cluster is heavily automated using Puppet.  Our production puppet scripts are hosted publicly on </span><a style="line-height: 1.75" href="https://github.com/CCI-MOC/kilo-puppet">GitHub</a><span style="line-height: 1.75">.</span>
 
-Kaizen OpenStack uses Ceph as a storage backend with a Fujitsu CD10000 appliance providing 136 TB storage. W<span style="line-height: 1.75;">e also expose a Swift endpoint via the RADOS Gateway client.</span>
+Kaizen OpenStack uses Ceph as a storage backend with a Fujitsu CD10000 appliance providing 136 TB storage. W<span style="line-height: 1.75">e also expose a Swift endpoint via the RADOS Gateway client.</span>
 
 <hr />
 
-<h3> <span style="text-decoration: underline;"><strong>Diagrams</strong></span></h3>
+<h3> <span style="text-decoration: underline"><strong>Diagrams</strong></span></h3>
 <img class=" wp-image-736 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/NUTopologyForWebsite-300x225.png" alt="NUTopologyForWebsite" width="873" height="655" />
 
 <img class=" wp-image-743 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/NUCD10kForWebsite-300x225.jpg" alt="NUCD10kForWebsite" width="823" height="617" />
 
 <hr />
 
-<h3 style="color: #000000;"><span style="text-decoration: underline;"><strong><span style="color: #000000; text-decoration: underline;">Project Team</span></strong></span></h3>
-<strong><span style="text-decoration: underline;">Core Project Team</span></strong>
+<h3 style="color: #000000"><span style="text-decoration: underline"><strong><span style="color: #000000;text-decoration: underline">Project Team</span></strong></span></h3>
+<strong><span style="text-decoration: underline">Core Project Team</span></strong>
 <ul>
  	<li>Radoslav Milanov, Senior Infrastructure Engineer (Boston University) <a href="mailto:radonm@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
  	<li>Laura Kamfonik, Junior Infrastructure Engineer (Boston University)  <a href="mailto:kamfonik@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
@@ -48,7 +48,7 @@ Kaizen OpenStack uses Ceph as a storage backend with a Fujitsu CD10000 appliance
  	<li>Lily Sturmann, Intern (Boston University) <!--a href="mailto:"&gt;[icon name="envelope-o" class="" unprefixed_class=""]&lt;/a--></li>
  	<li>Piyanai Saowarattitada, MOC Director of Engineering and Infrastructure</li>
 </ul>
-<strong><span style="text-decoration: underline;">Contributors</span></strong>
+<strong><span style="text-decoration: underline">Contributors</span></strong>
 <ul>
  	<li>MOC Core Team</li>
  	<li>Rajiv Shridhar, Director - System &amp; Production Services (Northeastern University)  <a href="mailto:r.shridhar@neu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
@@ -60,7 +60,7 @@ Kaizen OpenStack uses Ceph as a storage backend with a Fujitsu CD10000 appliance
 
 <hr />
 
-<h3><span style="text-decoration: underline;"><strong>Timeline</strong></span></h3>
+<h3><span style="text-decoration: underline"><strong>Timeline</strong></span></h3>
 <ul>
  	<li>April 2015 - Infrastructure began with crucial NEU IT networking (Anand Dhinga) and storage (Nilay Roy) in place to collaborate with the MOC deploying on cluster design and implementation. For starter, NEU provided 129.10.3.0/25 and 129.10.3.248/29 IP addresses for the deployment.</li>
  	<li>June 2015 - Work begins on installing Red Hat and OpenStack on the current infrastructure.  MOC welcomes a big crew of summer interns.</li>
@@ -83,12 +83,12 @@ Kaizen OpenStack uses Ceph as a storage backend with a Fujitsu CD10000 appliance
  	<li>Deploy additional services: Heat (orchestration) and Sahara (Hadoop cluster provisioning)</li>
  	<li>Deploy second controller node for redundancy</li>
  	<li>Utilize the larger set of /22 subnet made available by the MIT/CSAIL team</li>
- 	<li><span style="line-height: 1.5;">OpenStack Liberty upgrade</span></li>
+ 	<li><span style="line-height: 1.5">OpenStack Liberty upgrade</span></li>
 </ul>
 </li>
  	<li>Fall/Winter 2016
 <ul>
- 	<li><span style="line-height: 1.5;">Finish inter-pod communication </span></li>
+ 	<li><span style="line-height: 1.5">Finish inter-pod communication </span></li>
  	<li>Scoping possible solutions for instance backups</li>
  	<li>Exploring tools to automate operating system level syslog/crontab tools such as Logwatch</li>
  	<li>Scoping a possible need of hardware/firmware vulnerabilities and known solutions e.g. TPM</li>
@@ -115,5 +115,5 @@ Kaizen OpenStack uses Ceph as a storage backend with a Fujitsu CD10000 appliance
 
 <hr />
 
-<h3><strong><span style="text-decoration: underline;">Planning and Getting Involved</span></strong></h3>
+<h3><strong><span style="text-decoration: underline">Planning and Getting Involved</span></strong></h3>
 To get involved in this project, please send email to team@lists.massopen.cloud and/or join the #moc irc channel on freenode.
