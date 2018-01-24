@@ -48,7 +48,7 @@ post_date: 2016-03-17 22:52:00
 <td></td>
 <td><a href="https://www.cisco.com/"><img class="wp-image-781 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/cisco-logo-3-300x182.jpg" alt="cisco-logo-3" width="117" height="71" /></a></td>
 <td><a href="https://www.intel.com/content/www/us/en/homepage.html"><img class="wp-image-780 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="293px-Intel-logo.svg" width="116" height="77" /></a></td>
-<td></td>
+<td> <img class="alignnone size-medium wp-image-3179" src="https://massopen.cloud/wp-content/uploads/2016/03/netapp_logo_1-300x109.jpg" alt="" width="300" height="109" /></td>
 <td><a href="https://www.redhat.com/en"><img class="wp-image-787 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="redhat-logo" width="79" height="87" /></a></td>
 <td><a href="https://www.twosigma.com/"><img class="wp-image-785 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="TwoSigma-636x183" width="191" height="55" /></a></td>
 </tr>
