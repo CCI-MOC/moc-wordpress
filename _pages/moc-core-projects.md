@@ -28,3 +28,5 @@ post_date: 2016-01-14 15:02:55
 <a href="https://massopen.cloud/blog/secure-cloud/">Secure Cloud</a>
 
 <a href="https://massopen.cloud/blog/moc-marketplace/">MOC Marketplace Concept at the MOC - GIJI</a>
+
+<a href="https://massopen.cloud/d3n/">D3N</a>
