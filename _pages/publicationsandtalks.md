@@ -100,11 +100,15 @@ post_date: 2016-03-25 18:28:13
 <ul>
  	<li style="list-style-type: none;">
 <ul>
+ 	<li style="list-style-type: none;">
+<ul>
  	<li>Desnoyers, P. (2014). Building a "Multi-Landlord" Public Cloud [YouTube video]. Retrieved from <a href="https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers">https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers</a></li>
  	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
 </ul>
 </li>
-&lt;!--</ul>
+</ul>
+</li>
+</ul>
 <ul>
  	<li>&gt;K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
 </ul>
