@@ -43,7 +43,7 @@ post_date: 2016-03-25 18:28:13
 <a href="https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/yu">https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/yu</a></li>
 </ul>
 <ul>
- 	<li>P. Desnoyers, J. Hennessey, B. Holden, O. Krieger, L. Rudolph and A. Young, "Using Open Stack for an Open Cloud Exchange(OCX)," <em>Cloud Engineering (IC2E), 2015 IEEE International Conference on</em>, Tempe, AZ, 2015, pp. 48-53. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808</a>&nbsp;</li>
+ 	<li>P. Desnoyers, J. Hennessey, B. Holden, O. Krieger, L. Rudolph and A. Young, "Using Open Stack for an Open Cloud Exchange(OCX)," <em>Cloud Engineering (IC2E), 2015 IEEE International Conference on</em>, Tempe, AZ, 2015, pp. 48-53. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808</a></li>
  	<li>A. Bestavros and O. Krieger, "Toward an Open Cloud Marketplace: Vision and First Steps," in <em>IEEE Internet Computing</em>, vol. 18, no. 1, pp. 72-77, Jan.-Feb. 2014. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719</a></li>
  	<li>J. Hennessey, C. Hill, I. Denhardt, V. Venugopal, G. Silvis, O. Krieger, and P. Desnoyers, “Hardware as a service – enabling dynamic, user-level bare metal provisioning of pools of data center resources.,” in <i>2014 IEEE High Performance Extreme Computing Conference</i>, Waltham, MA, USA, 2014. [<a href="https://open.bu.edu/handle/2144/11221">Open BU</a>, <a href="https://open.bu.edu/bitstream/handle/2144/11221/haas.pdf?sequence=1&amp;isAllowed=y">PDF</a>].</li>
 </ul>
@@ -98,7 +98,13 @@ post_date: 2016-03-25 18:28:13
  	<li>Desnoyers, P., Hennessey, J., Holden, J., Krieger, O. and Raju, A. (2014). Mass Open Cloud Technical Directions [YouTube video]. Retrieved from  <a href="https://www.youtube.com/watch?v=cXKmia_iZCA">https://www.youtube.com/watch?v=cXKmia_iZCA</a></li>
 </ul>
 <ul>
+ 	<li style="list-style-type: none;">
+<ul>
  	<li>Desnoyers, P. (2014). Building a "Multi-Landlord" Public Cloud [YouTube video]. Retrieved from <a href="https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers">https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers</a></li>
  	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
- 	<li>K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
+</ul>
+</li>
+&lt;!--</ul>
+<ul>
+ 	<li>&gt;K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
 </ul>
