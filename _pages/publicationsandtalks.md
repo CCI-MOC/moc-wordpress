@@ -95,20 +95,11 @@ post_date: 2016-03-25 18:28:13
  	<li>Krieger, O. and Holzer, J. M. (2014). The Massachusetts Open Cloud (MOC) a New Model to Operate and Innovate in a Vendor Neutral [YouTube video]. Retrieved from <a href="https://www.youtube.com/watch?v=yuUb7XWnOcw">https://www.youtube.com/watch?v=yuUb7XWnOcw </a></li>
 </ul>
 <ul>
- 	<li>Desnoyers, P., Hennessey, J., Holden, J., Krieger, O. and Raju, A. (2014). Mass Open Cloud Technical Directions [YouTube video]. Retrieved from  <a href="https://www.youtube.com/watch?v=cXKmia_iZCA">https://www.youtube.com/watch?v=cXKmia_iZCA</a></li>
-</ul>
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
+ 	<li>Desnoyers, P., Hennessey, J., Holden, J., Krieger, O. and Raju, A. (2014). Mass Open Cloud Technical Directions [YouTube video]. Retrieved from  <a href="https://www.youtube.com/watch?v=cXKmia_iZCA">https://www.youtube.com/watch?v=cXKmia_iZCA
+</a></li>
  	<li>Desnoyers, P. (2014). Building a "Multi-Landlord" Public Cloud [YouTube video]. Retrieved from <a href="https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers">https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers</a></li>
  	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
 <ul>
- 	<li>&gt;K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
+ 	<li>K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
 </ul>
