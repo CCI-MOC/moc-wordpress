@@ -44,8 +44,9 @@ post_date: 2016-03-25 18:28:13
 </ul>
 <ul>
  	<li>P. Desnoyers, J. Hennessey, B. Holden, O. Krieger, L. Rudolph and A. Young, "Using Open Stack for an Open Cloud Exchange(OCX)," <em>Cloud Engineering (IC2E), 2015 IEEE International Conference on</em>, Tempe, AZ, 2015, pp. 48-53. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808
+
 </a></li>
- 	<li>A. Bestavros and O. Krieger, "Toward an Open Cloud Marketplace: Vision and First Steps," in <em>IEEE Internet Computing</em>, vol. 18, no. 1, pp. 72-77, Jan.-Feb. 2014. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719</a>&nbsp;</li>
+ 	<li>A. Bestavros and O. Krieger, "Toward an Open Cloud Marketplace: Vision and First Steps," in <em>IEEE Internet Computing</em>, vol. 18, no. 1, pp. 72-77, Jan.-Feb. 2014. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719</a></li>
  	<li>J. Hennessey, C. Hill, I. Denhardt, V. Venugopal, G. Silvis, O. Krieger, and P. Desnoyers, “Hardware as a service – enabling dynamic, user-level bare metal provisioning of pools of data center resources.,” in <i>2014 IEEE High Performance Extreme Computing Conference</i>, Waltham, MA, USA, 2014. [<a href="https://open.bu.edu/handle/2144/11221">Open BU</a>, <a href="https://open.bu.edu/bitstream/handle/2144/11221/haas.pdf?sequence=1&amp;isAllowed=y">PDF</a>].</li>
 </ul>
 &nbsp;
