@@ -13,4 +13,4 @@ Additional coverage of MOC news can be found <span style="text-decoration: under
 
 Cloud to Mass Open Cloud.
 
-Also, click <span style="color: #0000ff;"><a href="https://massopen.cloud/whats-new/"><span style="text-decoration: underline;">here</span></a></span> to see our most recent OpenShift and Kaizen announcements!
+Click <span style="color: #0000ff;"><a href="https://massopen.cloud/whats-new/"><span style="text-decoration: underline;">here</span></a></span> to see our most recent OpenShift and Kaizen announcements!
