@@ -58,7 +58,7 @@ The Architecture of HIL, while still being realized, is shown below.
  	<li>George Silvis, Boston University <a href="mailto:gsilvis@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
  	<li>Ron Unrau</li>
  	<li>Valerie Young, former Boston University</li>
- 	<li>Hang Xu, Boston Univeristy <a href="mailto:xuh@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li>Lucas(Hang) Xu, Boston Univeristy <a href="mailto:xuh@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
  	<li>George Silvis III</li>
  	<li>Ravisantosh Gudimetla</li>
  	<li>Jonathan Bernard</li>
@@ -68,7 +68,7 @@ The Architecture of HIL, while still being realized, is shown below.
 </ul>
 <strong><span style="text-decoration: underline;">Team Lead</span></strong>
 <ul>
- 	<li>Jason Hennessey, Boston University [<a href="mailto:henn@bu.edu">Email</a>]</li>
+ 	<li>Naved Ansari, Boston University [<a href="mailto:henn@bu.edu">Email</a>]</li>
 </ul>
 
 <hr />
