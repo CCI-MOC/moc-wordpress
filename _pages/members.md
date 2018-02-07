@@ -32,12 +32,12 @@ post_date: 2016-03-24 02:16:59
 <table>
 <tbody>
 <tr>
-<td><a href="http://www.brocade.com/en.html"><img class="wp-image-786 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/Brocade_Logo_New_0-636x319-300x150.jpg" alt="Brocade_Logo_New_0-636x319" width="239" height="120" /></a></td>
+<td></td>
 <td><a href="https://www.cisco.com/"><img class="wp-image-781 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/cisco-logo-3-300x182.jpg" alt="cisco-logo-3" width="214" height="130" /></a></td>
 <td><a href="https://www.intel.com/content/www/us/en/homepage.html"><img class="wp-image-780 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="293px-Intel-logo.svg" width="210" height="139" /></a></td>
 </tr>
 <tr>
-<td><a href="https://www3.lenovo.com/us/en/"><img class="wp-image-788 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/Lenovo_logo.png" alt="Lenovo_logo" width="223" height="93" /></a></td>
+<td></td>
 <td><a href="https://www.redhat.com/en"><img class="wp-image-787 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="redhat-logo" width="158" height="174" /></a></td>
 <td><a href="https://www.twosigma.com/"><img class="wp-image-785 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="TwoSigma-636x183" width="349" height="100" /></a></td>
 </tr>
