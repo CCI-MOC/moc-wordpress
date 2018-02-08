@@ -29,17 +29,17 @@ post_date: 2016-03-24 02:16:59
 </table>
 &nbsp;
 <h1>Core Partners</h1>
-<table>
+<table style="width: 1200px">
 <tbody>
 <tr>
-<td></td>
-<td><a href="https://www.cisco.com/"><img class="wp-image-781 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/cisco-logo-3-300x182.jpg" alt="cisco-logo-3" width="214" height="130" /></a></td>
-<td><a href="https://www.intel.com/content/www/us/en/homepage.html"><img class="wp-image-780 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="293px-Intel-logo.svg" width="210" height="139" /></a></td>
+<td style="width: 412.267px"> <a href="https://www.cisco.com/"><img class="wp-image-781 alignright" src="http://massopen.cloud/wp-content/uploads/2016/03/cisco-logo-3-300x182.jpg" alt="cisco-logo-3" width="214" height="130" /></a></td>
+<td style="width: 292.733px"></td>
+<td style="width: 478px"><a href="https://www.intel.com/content/www/us/en/homepage.html"><img class="wp-image-780 alignleft" src="http://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="293px-Intel-logo.svg" width="210" height="139" /></a></td>
 </tr>
 <tr>
-<td></td>
-<td><a href="https://www.redhat.com/en"><img class="wp-image-787 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="redhat-logo" width="158" height="174" /></a></td>
-<td><a href="https://www.twosigma.com/"><img class="wp-image-785 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="TwoSigma-636x183" width="349" height="100" /></a></td>
+<td style="width: 412.267px"> <img class="alignnone size-medium wp-image-3204" src="https://massopen.cloud/wp-content/uploads/2016/03/na_logo_hrz_2c_rgb_lrg1-300x120.jpg" alt="" width="300" height="120" /></td>
+<td style="width: 292.733px"><a href="https://www.redhat.com/en"><img class="wp-image-787 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="redhat-logo" width="158" height="174" /></a></td>
+<td style="width: 478px"><a href="https://www.twosigma.com/"><img class="wp-image-785 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="TwoSigma-636x183" width="349" height="100" /></a></td>
 </tr>
 </tbody>
 </table>
