@@ -50,7 +50,8 @@ post_date: 2016-03-25 18:28:13
 &nbsp;
 <h1>Talks</h1>
 <ul>
- 	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
+ 	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
+ 	<li>K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
  	<li>Crosas, M., Krieger, O., and Saowarattitada, P. (2017) Cloud Dataverse: Data Repository Software for Open Clouds [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/KhwGuJy8WDU">https://youtu.be/KhwGuJy8WDU</a></li>
 </ul>
 <ul>
