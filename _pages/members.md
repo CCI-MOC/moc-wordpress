@@ -37,7 +37,7 @@ post_date: 2016-03-24 02:16:59
 <td style="width: 478px;"><a href="https://www.intel.com/content/www/us/en/homepage.html"><img class="wp-image-780 alignleft" src="http://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="293px-Intel-logo.svg" width="210" height="139" /></a></td>
 </tr>
 <tr>
-<td style="width: 412.267px;"> <img class="alignnone wp-image-3204 size-medium" src="https://massopen.cloud/wp-content/uploads/2016/03/na_logo_hrz_2c_rgb_lrg1-300x120.jpg" alt="" width="300" height="120" /></td>
+<td style="width: 412.267px;"> <a href="https://www.netapp.com/us/index.aspx"><img class="alignnone wp-image-3204 size-medium" src="https://massopen.cloud/wp-content/uploads/2016/03/na_logo_hrz_2c_rgb_lrg1-300x120.jpg" alt="" width="300" height="120" /></a></td>
 <td style="width: 292.733px;"><a href="https://www.redhat.com/en"><img class="wp-image-787 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="redhat-logo" width="158" height="174" /></a></td>
 <td style="width: 478px;"><a href="https://www.twosigma.com/"><img class="wp-image-785 aligncenter" src="http://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="TwoSigma-636x183" width="349" height="100" /></a></td>
 </tr>
