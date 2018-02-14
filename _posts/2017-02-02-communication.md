@@ -9,6 +9,10 @@ permalink: >
 published: true
 post_date: 2017-02-02 22:34:36
 ---
+<strong>December 2017</strong>
+
+Click <span style="text-decoration: underline;"><span style="color: #0000ff;"><a href="https://massopen.cloud/whats-new/">here</a></span></span><span style="color: #0000ff;"> <span style="color: #000000;">to see the latest news on Kaizen and OpenShift!</span></span>
+
 <strong>April 14, 2017</strong>
 
 <a href="https://www.openstack.org/summit/boston-2017/summit-schedule/global-search?t=Massachusetts+Open+Cloud">Four</a> of the proposed talks from the MOC had been accepted to the Boston OpenStack Summit. They are
