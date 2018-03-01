@@ -12,7 +12,7 @@ post_date: 2016-01-08 06:21:37
 &nbsp;
 
 [toc]
-<h3><a id="overview"></a><span style="text-decoration: underline;"><strong>Overview</strong></span></h3>
+<h3><a id="overview"></a><span style="text-decoration: underline"><strong>Overview</strong></span></h3>
 <div class="page" title="Page 1">
 <div class="layoutArea">
 <div class="column">
@@ -23,7 +23,7 @@ Currently we are focused on multiple studies that will establish the foundation 
 
 <hr />
 
-<h3><a id="motivation"></a><span style="text-decoration: underline;"><strong>Sub-Projects</strong></span></h3>
+<h3><a id="motivation"></a><span style="text-decoration: underline"><strong>Sub-Projects</strong></span></h3>
 <div class="page" title="Page 1">
 <div class="layoutArea">
 <div class="column">
@@ -46,47 +46,35 @@ Usage scenarios of the dataset repository include:
 
 (2) Users will be able to download Datasets from MOC-DR: (a) A user will log into MOC-DR (using Keystone credentials), (b) browse through public datasets, (c) select a dataset to work on, (d) obtain the Swift Object Store endpoints for the selected dataset, (f) from here on out a user can either use the given endpoints to download the datasets or use MOC Big Data Processing System to analyze the data on MOC without needing to worry about the cost of storing the data or the time required to download it.
 
-<strong><em>MOC Big Data as a Service (BDaaS) on Engage1:</em></strong>
-In collaboration with MIT, NorthEastern, Lenovo, Intel, Brocade, RedHat, and CEPH teams, we are building an on demand Big Data processing system that is closely tied with the MOC public dataset repository. The service will run on the servers of the Engage1 cluster.
+<b><i>MOC Big Data as a Service (BDaaS) on Engage1:</i></b>
 
-One envisioned standard use case for this system is as follows:
+<span style="font-weight: 400">In collaboration with MIT, Northeastern University, Intel, TwoSigma  and RedHat CEPH team), we are building an on demand Big Data processing system that is closely tied with the MOC public dataset repository. The service will run on the servers of the Engage1 cluster.</span>
 
-(1) User selects a dataset to work on the MOC Big Data Processing environment: After selecting a dataset to work on, (a) users will be directed to MOC On-Demand BigData processing UI, (b) will be able to provision a BigData environment to work on the selected dataset (by setting environment configuration parameters, e,g, number of nodes, storage, processing, memory capacity, the set of Big Data processing applications (e.g. Hadoop, Pig, Spark, …) to have, etc...), (c) using the users credentials and her desired configurations, "MOC Imaging System” will create a Big Data processing cluster for the user, and (d) user will be able to use Hadoop-ecosystem applications to process and analyze the dataset she selected using provided resources.
+<span style="font-weight: 400">One envisioned standard use case for this system is as follows:</span>
 
-We envision to provide a number of options for the Big Data processing environment: (A) The Big Data processing system can be:
-(I) a bare metal environment provisioned via MOC Bare Metal Imaging (BMI) system: (II) a virtualized environment provisioned via OpenStack Sahara, or (III) a containerized environment (possibly provisioned via Bluedata’s container based solutions).
+<span style="font-weight: 400">(1) User selects a dataset to work on the MOC Big Data Processing environment: After selecting a dataset to work on, (a) users will be directed to MOC On-Demand BigData processing UI, (b) will be able to provision a BigData environment to work on the selected dataset (by setting environment configuration parameters, e,g, number of nodes, storage, processing, memory capacity, the set of Big Data processing applications (e.g. Hadoop, Pig, Spark, …) to have, etc...), (c) using the users credentials and her desired configurations, "MOC Imaging System” will create a Big Data processing cluster for the user, and (d) user will be able to use Hadoop-ecosystem applications to process and analyze the dataset she selected using provided resources.</span>
 
-(B) The dataset (or the subset of the dataset, e.g. imagery data from the last week) selected by the user can be prefetched into the caching servers in the processing cluster. This prefetching will prevent multiple small object requests to the storage backend and will guard against variance that may be caused by input fetching during computation.
+<span style="font-weight: 400">We envision to provide a number of options for the Big Data processing environment: (A) The Big Data processing system can be:</span>
 
-Example dataset types: We plan to host a number of datasets. A representative dataset type we plan to host is large read only datasets that require an extraction and transformation phase to enable further analysis such as the CMS Primary Datasets [2], MBTA Ridership, Alerts &amp; Service Quality Datasets [3], or The 3,000 Rice Genomes Project [4]. These types of datasets are by nature well divided into separately operable chunks, they get incremental updates (e.g. daily, weekly, monthly,…), the latest datasets are considered to be more ‘hot’, and most processing tasks can be done in a single pass over a number of incremental units of data (e.g. compute/compare daily aggregates for the last 10 days).
+<span style="font-weight: 400">(I) a bare metal environment provisioned via MOC Bare Metal Imaging (BMI) system: (II) a virtualized environment provisioned via OpenStack Sahara, or (III) a containerized environment (possibly provisioned via Bluedata’s container based solutions).</span>
 
-[1] http://dataverse.org
-[2] http://opendata.cern.ch/collection/CMS-Primary-Datasets
-[3] http://www.mbta.com/about_the_mbta/document_library/?search=blue+book&amp;submit_document_search=Search+Library
-[4] http://gigascience.biomedcentral.com/articles/10.1186/2047-217X-3-7
+<span style="font-weight: 400">(B) The dataset (or the subset of the dataset, e.g. imagery data from the last week) selected by the user can be prefetched into the caching servers in the processing cluster. This prefetching will prevent multiple small object requests to the storage backend and will guard against variance that may be caused by input fetching during computation.</span>
 
-Existing studies indicate that in the HDFS, a few files account for a very high number of accesses and there is a skew in access frequency across HDFS data. Thus, we believe that more sophisticated caching architecture and policies that includes the frequently accessed files will bring considerable benefit to big data analytics.
+<span style="font-weight: 400">Example dataset types: We plan to host a number of datasets. A representative dataset type we plan to host is large read only datasets that require an extraction and transformation phase to enable further analysis such as the CMS Primary Datasets [2], MBTA Ridership, Alerts &amp; Service Quality Datasets [3], or The 3,000 Rice Genomes Project [4]. These types of datasets are by nature well divided into separately operable chunks, they get incremental updates (e.g. daily, weekly, monthly,…), the latest datasets are considered to be more ‘hot’, and most processing tasks can be done in a single pass over a number of incremental units of data (e.g. compute/compare daily aggregates for the last 10 days).</span>
 
-We are working on improving the performance of Big Data processing Frameworks (e.g. Hadoop, Spark...etc) in MOC BDaaS by implementing a two level cache architecture. We currently concentrate on improving the analytics of read-only datasets that have high re-use.
+<span style="font-weight: 400">[1] http://dataverse.org</span>
 
-In Engage1 environment each Compute Rack has 18 compute servers and one caching server with two 1.6TB SSD drives. MOC-DR will be stored in the CEPH backend storage which has 10 OSD servers each of which have 9 HDD drives.
+<span style="font-weight: 400">[2] http://opendata.cern.ch/collection/CMS-Primary-Datasets</span>
 
-In the cache server, we will deploy a two level caching mechanism. For the first level cache, we plan to use a Varnish cache (or another reverse proxy can be used as well), and to enable a second level cache we plan to implement data caching capabilities into the Rados Gateway (RGW) implementation. Currently, swift bucket gateway only caches the metadata, however we will modify it and make sure data is also cached along with the metadata.
+<span style="font-weight: 400">[3] http://www.mbta.com/about_the_mbta/document_library/?search=blue+book&amp;submit_document_search=Search+Library</span>
 
-In the figure below you can see more details of the caching design we envision for the caching servers:
+<span style="font-weight: 400">[4] </span><a href="http://gigascience.biomedcentral.com/articles/10.1186/2047-217X-3-7"><span style="font-weight: 400">http://gigascience.biomedcentral.com/articles/10.1186/2047-217X-3-7</span></a>
 
-<!--img src="http://massopen.cloud/wp-content/uploads/2016/01/Screen-Shot-2016-05-25-at-4.35.15-PM.png" alt="Caching Server - Caching Architecture" width="600" class="alignnone size-full wp-image-1214" /-->
+<span style="font-weight: 400">Existing studies indicate that in the HDFS, a few files account for a very high number of accesses and there is a skew in access frequency across HDFS data. Thus, we believe that more sophisticated caching architecture and policies that includes the frequently accessed files will bring considerable benefit to big data analytics.</span>
 
-<img class="alignnone size-full wp-image-2518" src="https://massopen.cloud/wp-content/uploads/2016/01/arch.png" alt="arch" width="692" height="612" />
+<span style="font-weight: 400">We are working on improving the performance of Big Data processing Frameworks (e.g. Hadoop, Spark...etc) in MOC BDaaS by implementing a multi-level cache architecture called “D3N”. More details can be found <a href="https://massopen.cloud/d3n/">here</a>.</span>
 
-Beside the advantageous noted previously of reusing cache data, one of the main features of this project would be prefetching the entire dataset in secondary cache before or meanwhile the cluster is executing the aggregation phase (Mapper in MapReduce). By applying prefetching mechanism, we can hide or decrease two types of delay: (1) the backend network delay, (2) the backend hard drive delay.
-
-We propose to:
-Prefetch all data in secondary cache
-Cache chunks data in Varnish cache
-Varnish cache can be configured to store data in memory, file, persistent memory and massive storage engine. We suggest to store metadata in varnish and a shared data memory between cache level 2 and cache level 1 as data cache memory.
-Because of security issues, cached data chunks in Varnish data cache are duplicated by the number of users using this cache.
-Secondary cache should store prefetched data distributedly.
+&nbsp;
 
 </div>
 </div>
@@ -97,22 +85,22 @@ Secondary cache should store prefetched data distributedly.
 
 <hr />
 
-<h3><a id="core-team"></a><span style="text-decoration: underline;"><strong>Project Team</strong></span></h3>
-<strong><span style="text-decoration: underline;">Core Project Team</span></strong>
+<h3><a id="core-team"></a><span style="text-decoration: underline"><strong>Project Team</strong></span></h3>
+<strong><span style="text-decoration: underline">Core Project Team</span></strong>
 <ul>
- 	<li style="text-align: left;">Prof. Orran Krieger (Boston University) <a href="mailto:okrieg@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
- 	<li style="text-align: left;">Prof. Peter Desnoyers (Northeastern University) <a href="mailto:pjd@ccs.neu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
- 	<li style="text-align: left;">Ata Turk, PhD (Boston University) <a href="mailto:ataturk@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
- 	<li style="text-align: left;">Ugur Kaynar (Boston University) <a href="mailto:ukaynar@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
- 	<li style="text-align: left;">Ravisantosh Gudimetla (Red Hat) <a href="mailto:ravig@ccs.neu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
- 	<li style="text-align: left;">Sahil Tikale Nikhil (Boston University) <a href="mailto:tikale@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
- 	<li style="text-align: left;">Mania Abdi (Northeastern University) <a href="mailto:mania.abdi287@gmail.com">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
- 	<li style="text-align: left;">Mohammad Hossein Hajkazemi (Northeastern University) <a href="mailto:hajkazemi@gmail.com">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">Prof. Orran Krieger (Boston University) <a href="mailto:okrieg@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">Prof. Peter Desnoyers (Northeastern University) <a href="mailto:pjd@ccs.neu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">Ata Turk, PhD (Boston University) <a href="mailto:ataturk@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">E. Ugur Kaynar (Boston University) <a href="mailto:ukaynar@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">Ravisantosh Gudimetla (Red Hat) <a href="mailto:ravig@ccs.neu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">Sahil Tikale Nikhil (Boston University) <a href="mailto:tikale@bu.edu">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">Mania Abdi (Northeastern University) <a href="mailto:mania.abdi287@gmail.com">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
+ 	<li style="text-align: left">Mohammad Hossein Hajkazemi (Northeastern University) <a href="mailto:hajkazemi@gmail.com">[icon name="envelope-o" class="" unprefixed_class=""]</a></li>
 </ul>
-<span style="text-decoration: underline;"><strong>Collaborators</strong>
+<span style="text-decoration: underline"><strong>Collaborators</strong>
 </span>
 <ul>
- 	<li style="text-align: left;">David Cohen (Intel)</li>
+ 	<li style="text-align: left">David Cohen (Intel)</li>
  	<li>Gary Berger (Brocade)</li>
  	<li>William Nelson (Lenovo)</li>
  	<li><a href="http://dataverse.org/">Dataverse</a> Team (Harvard)</li>
@@ -129,7 +117,7 @@ Secondary cache should store prefetched data distributedly.
 
 <hr />
 
-<h3><a id="timetable"></a><strong><span style="text-decoration: underline;">Timeline</span></strong></h3>
+<h3><a id="timetable"></a><strong><span style="text-decoration: underline">Timeline</span></strong></h3>
 <ul>
  	<li>April--August 2017: 2-tiered caching: upstreaming developed code (CEPH).</li>
  	<li>August--November 2017: Caching write-back support.</li>
@@ -139,5 +127,5 @@ Secondary cache should store prefetched data distributedly.
 
 <hr />
 
-<h3><strong><span style="text-decoration: underline;"><a id="getting-involved"></a>Planning and Getting Involved</span></strong></h3>
+<h3><strong><span style="text-decoration: underline"><a id="getting-involved"></a>Planning and Getting Involved</span></strong></h3>
 <div class="page" title="Page 2"> To get involved in this project, please send email to (mail:<a href="mailto:team@lists.massopen.cloud">team@lists.massopen.cloud</a>) and/or join the #moc irc channel on free node.</div>
