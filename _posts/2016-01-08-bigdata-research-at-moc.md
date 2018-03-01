@@ -72,7 +72,7 @@ Usage scenarios of the dataset repository include:
 
 <span style="font-weight: 400">Existing studies indicate that in the HDFS, a few files account for a very high number of accesses and there is a skew in access frequency across HDFS data. Thus, we believe that more sophisticated caching architecture and policies that includes the frequently accessed files will bring considerable benefit to big data analytics.</span>
 
-<span style="font-weight: 400">We are working on improving the performance of Big Data processing Frameworks (e.g. Hadoop, Spark...etc) in MOC BDaaS by implementing a multi-level cache architecture called “D3N”. More details can be found <a href="https://massopen.cloud/d3n/">here</a>.</span>
+<span style="font-weight: 400">We are working on improving the performance of Big Data processing Frameworks (e.g. Hadoop, Spark...etc) in MOC BDaaS by implementing a multi-level cache architecture called “D3N”. More details can be found <span style="color: #0000ff"><a href="https://massopen.cloud/d3n/">here</a>.</span></span>
 
 &nbsp;
 
