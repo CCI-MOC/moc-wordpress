@@ -62,11 +62,11 @@ Usage scenarios of the dataset repository include:
 
 <span style="font-weight: 400">Example dataset types: We plan to host a number of datasets. A representative dataset type we plan to host is large read only datasets that require an extraction and transformation phase to enable further analysis such as the CMS Primary Datasets [2], MBTA Ridership, Alerts &amp; Service Quality Datasets [3], or The 3,000 Rice Genomes Project [4]. These types of datasets are by nature well divided into separately operable chunks, they get incremental updates (e.g. daily, weekly, monthly,…), the latest datasets are considered to be more ‘hot’, and most processing tasks can be done in a single pass over a number of incremental units of data (e.g. compute/compare daily aggregates for the last 10 days).</span>
 
-<span style="font-weight: 400">[1] http://dataverse.org</span>
+<span style="font-weight: 400">[1] <a href="http://dataverse.org">http://dataverse.org </a></span>
 
-<span style="font-weight: 400">[2] http://opendata.cern.ch/collection/CMS-Primary-Datasets</span>
+<span style="font-weight: 400">[2] <a href="http://opendata.cern.ch/collection/CMS-Primary-Datasets">http://opendata.cern.ch/collection/CMS-Primary-Datasets</a></span>
 
-<span style="font-weight: 400">[3] http://www.mbta.com/about_the_mbta/document_library/?search=blue+book&amp;submit_document_search=Search+Library</span>
+<span style="font-weight: 400">[3] <a href="http://www.mbta.com/about_the_mbta/document_library/?search=blue+book&amp;submit_document_search=Search+Library">http://www.mbta.com/about_the_mbta/document_library/?search=blue+book&amp;submit_document_search=Search+Library</a></span>
 
 <span style="font-weight: 400">[4] </span><a href="http://gigascience.biomedcentral.com/articles/10.1186/2047-217X-3-7"><span style="font-weight: 400">http://gigascience.biomedcentral.com/articles/10.1186/2047-217X-3-7</span></a>
 
