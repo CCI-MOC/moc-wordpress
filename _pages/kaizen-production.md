@@ -11,7 +11,7 @@ post_date: 2018-03-12 15:05:50
 ---
 Welcome to the Kaizen Production page! Here are the links to:
 <ol>
- 	<li><a href="https://massopen.cloud/blog/wiki/kaizenfaqs/">Kaizen FAQ</a></li>
- 	<li><a href="https://massopen.cloud:5001/reset">Password Reset</a></li>
- 	<li><a href="https://massopen.cloud/production-forum/">MOC Production Forum</a></li>
+ 	<li><span style="text-decoration: underline;"><span style="color: #0000ff;"><a href="https://massopen.cloud/blog/wiki/kaizenfaqs/">Kaizen FAQ</a></span></span></li>
+ 	<li><span style="text-decoration: underline;"><span style="color: #0000ff;"><a href="https://massopen.cloud:5001/reset">Password Reset</a></span></span></li>
+ 	<li><span style="text-decoration: underline;"><span style="color: #0000ff;"><a href="https://massopen.cloud/production-forum/">MOC Production Forum</a></span></span></li>
 </ol>
