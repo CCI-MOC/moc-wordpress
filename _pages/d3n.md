@@ -16,7 +16,7 @@ post_date: 2018-01-24 15:27:47
 
 <strong>Architecture</strong>
 
-<img class="alignnone  wp-image-3223" src="https://massopen.cloud/wp-content/uploads/2018/01/D3n-300x142.png" alt="" width="408" height="193" />
+<img class="alignnone wp-image-3223" src="https://massopen.cloud/wp-content/uploads/2018/01/D3n-300x142.png" alt="" width="408" height="193" />
 
 <span style="font-weight: 400">D3N improves the performance of big-data jobs running in analysis clusters by speeding up reads to the data lake. The D3N architecture as shown in figure above consists of many components, the primary one being the cache. Cache servers are located in the datacenter on the access side of potential network bottlenecks, and organized into pools of different sizes, with cached data, in all but Level 1, distributed across these pools via consistent hashing. The resulting logical caches form a traditional caching hierarchy, where caches nearer the client have the lowest access latency and overhead, while caches in higher levels in the hierarchy are slower (requiring multiple hops to access), potentially larger (incorporating storage from more individual cache servers), and shared by more clients. The L1 cache server nearest to the client handles object requests by breaking them into blocks, returning any blocks which are cached locally, and forwarding missed requests to the block home location (as determined by consistent hashing) in the next layer. Cache misses are forwarded to successive logical caching layers until a miss at the top layer is resolved by a request to the data lake</span>
 
@@ -27,3 +27,5 @@ post_date: 2018-01-24 15:27:47
 &nbsp;
 
 <span style="font-weight: 400">We modify RGW by adding c. 2500 lines of C++ code to implement D3N-RGW. As shown in Figure 3, two additional backends are added to RGW: local storage (SSD) for local cache access, and recursive RGW, which requests data from another RGW via S3 range requests. Client nodes send requests to their local first-level cache, which breaks the request into 4 MB blocks and handles each independently. Blocks are identified by their object ID and offset, and are cached (currently as individual files) in a local SSD-backed file system; if a block is present in cache then it is retrieved and returned directly to the client.</span>
+
+<a href="http://www.bu.edu/rhcollab/projects/d3n/">D3N</a> is also a project of the <a href="http://www.bu.edu/rhcollab/">Red Hat Collaboratory at Boston University</a>.
