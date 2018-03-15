@@ -15,7 +15,7 @@ post_date: 2017-01-12 20:59:41
 <h3><span style="text-decoration: underline;"><strong>Motivation</strong></span></h3>
 <span class="author-a-z69ziz76zz85zz71z21qmpfoz85zz78zao">OpenStack Horizon is inadequate to serve naive users who lack basic cloud knowledge and to whom the cloud is simply a tool to get computing results for their scientific research for example. </span><span class="author-a-c7d1gz122zvz79zez80zz72zjeo6z80z">This MOC marketplace GUI serves to be a simpler tool streamlining the cloud experience. It can be used by itself or alongside Horizon. </span><span class="author-a-z69ziz76zz85zz71z21qmpfoz85zz78zao">Developing a new GUI from scratch can be both time-consuming and challenging. A collaboration with the Cyverse’s Atmosphere/Troposphere project </span><span class="author-a-c7d1gz122zvz79zez80zz72zjeo6z80z">has helped</span><span class="author-a-z69ziz76zz85zz71z21qmpfoz85zz78zao"> accelerat</span><span class="author-a-c7d1gz122zvz79zez80zz72zjeo6z80z">e</span><span class="author-a-z69ziz76zz85zz71z21qmpfoz85zz78zao"> the development of the MOC GUI. </span>
 
-As part of the Open Cloud Exchange, Cloud Dataverse, OpenShift and NetEx are being integrated as services.   From this effort, a standard Rest API will be developed which will be used by 3rd party developers to develop future services.
+As part of the Open Cloud Exchange, Cloud Dataverse, OpenShift, and NetEx are being integrated as services.   From this effort, a standard Rest API will be developed which will be used by 3rd party developers to develop future services.
 
 <hr />
 
@@ -73,9 +73,9 @@ To get involved in this project, please send an email to (<a href="mailto:team@
 Code is available at:
 <ul>
  	<li><a href="https://github.com/CCI-MOC/giji-frontend">https://github.com/CCI-MOC/giji-frontend</a></li>
- 	<li><a href="https://github.com/CCI-MOC/giji-backend">https://github.com/CCI-MOC/GUI-Backend</a></li>
+ 	<li><a href="https://github.com/CCI-MOC/giji-backend">https://github.com/CCI-MOC/giji-backend</a></li>
 </ul>
-Demo site at:
+Site at:
 <ul>
  	<li><a href="https://giji.massopen.cloud/">https://giji.massopen.cloud/</a></li>
 </ul>
