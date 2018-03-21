@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2016-03-18 19:55:44
 ---
-<div></div>
-<div>Please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScM0jWjAFOWXr4ZY8FcRIVyeiAbtBaZFB5-suKqpJj0WJExOQ/viewform"><strong>this form</strong></a> to do any of the following:</div>
+<h3> Please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScM0jWjAFOWXr4ZY8FcRIVyeiAbtBaZFB5-suKqpJj0WJExOQ/viewform"><strong>this form</strong></a> to do any of the following:</h3>
 <div>    * request a new OpenStack user account</div>
 <div>    * request a new OpenStack project</div>
 <div>    * request access to an existing OpenStack project</div>
