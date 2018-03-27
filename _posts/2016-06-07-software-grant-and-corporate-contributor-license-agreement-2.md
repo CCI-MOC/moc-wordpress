@@ -45,4 +45,4 @@ other purpose.</em>
 </ol>
 [wpgform id='1380']
 
-If you have trouble to submit this form, please goes <a href="https://goo.gl/forms/4mqeIgDr7ibKRRbh2">here</a>
+If you have trouble submitting this form, please go to <a href="https://goo.gl/forms/4mqeIgDr7ibKRRbh2">here</a>
