@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-03-30 21:47:34
 ---
-<a href="https://massopen.cloud/wp-content/uploads/2018/03/MapD-libraries-on-OpenStackFinal.pdf">MapD libraries on OpenStackFinal</a>
+<a href="https://massopen.cloud/wp-content/uploads/2018/03/MapD-libraries-on-OpenStackFinal.pdf">MapD libraries on OpenStack</a>
