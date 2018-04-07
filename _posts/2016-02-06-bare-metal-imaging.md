@@ -5,7 +5,7 @@ author: ravi
 post_excerpt: ""
 layout: post
 permalink: >
-  https://massopen.cloud/blog/bare-metal-inaging/
+  https://massopen.cloud/blog/bare-metal-imaging/
 published: true
 post_date: 2016-02-06 22:00:00
 ---
