@@ -17,7 +17,7 @@ This guide explains the use of OpenStack Sahara as configured in the MOC. Sahara
 You may also use the following wizard:
 
 <a href="https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a><br />
-<a href="https://engage1.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a>
+<a href="https://engage1.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://engage1.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a>
 <h3>Plugin selection</h3>
 Three plugins are offered. Each is considered "simple".
 <ul>
@@ -32,6 +32,7 @@ Navigate to Data Processing → Clusters → Node Group Templates → Create Tem
  	<li>Name: Must follow rules for valid hostname</li>
  	<li>Flavor: Make sure to move away from default m1.nano, since this will probably cause kernel panic and crash Sahara engine</li>
  	<li>Availability Zone: Just set to "nova"</li>
+        <li>Floating IP pool: optional (you can assign it later through "Instances" area); probably only need it for master node group</li>
  	<li>Storage location: choice between Ephemeral and Cinder
 <ul style="list-style-type: circle">
  	<li>Cinder can be much bigger than ephemeral disk</li>
@@ -73,9 +74,8 @@ Navigate to Data Processing → Clusters → Cluster Templates → Launch Cluste
 </ul>
 <h3>Cluster access</h3>
 <ul>
- 	<li>Floating IP: Not assigned automatically; recommended that you assign to master node</li>
  	<li>Web UIs: SOCKS proxy may come in handy; Ubuntu images support X forwarding so it may be useful to install a lightweight browser like Midori on one of your instances</li>
- 	<li>Usernames: "ubuntu" for Ubuntu images, "cloud-user" for CentOS 6, "centos" for CentOS 7</li>
+ 	<li>Usernames: "ubuntu" for Ubuntu images, "centos" for CentOS 7</li>
 </ul>
 <h2><strong>Job execution</strong></h2>
 <h3>Swift integration</h3>
@@ -96,12 +96,11 @@ Jobs on Sahara clusters support Swift I/O. To be more specific, this means you c
  	<li>Name: no spaces</li>
  	<li>Data Source Type: Swift or HDFS, but Sahara doesn't validate that your path or credentials are valid, so be careful</li>
  	<li>URL: Just regular HDFS path, or swift://&lt;container&gt;.sahara/path</li>
- 	<li>Until approx. May 2017, Username and password will be required for Swift! (not automatically populated)</li>
 </ul>
 </li>
  	<li>Job Binaries: These are any jar file, script, etc. that you submit with your job.
 <ul style="list-style-type: circle">
- 	<li>Advised that you store in Swift, since otherwise it is going in MySQL...</li>
+ 	<li>Advised that you store in Swift</li>
 </ul>
 </li>
  	<li>Job Templates: This is where the actual job is designed
