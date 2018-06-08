@@ -125,7 +125,7 @@ Interface Arguments: If you designed these in Job Template step, you will see th
 </ul>
 </li>
 </ul>
-<a><h3>Manual interaction</h3></a>
+<a name="manual"><h3>Manual interaction</h3></a>
 For users who already know a lot about Hadoop etc., they may prefer to use their cluster "manually".
 <ul>
  	<li>Where programs live
