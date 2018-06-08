@@ -16,12 +16,13 @@ This guide explains the use of OpenStack Sahara as configured in the MOC. Sahara
 <h2><strong>Cluster creation</strong></h2>
 You may also use the following wizard:
 
-<a href="https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a>
+<a href="https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a><br />
+<a href="https://engage1.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a>
 <h3>Plugin selection</h3>
 Three plugins are offered. Each is considered "simple".
 <ul>
  	<li>Vanilla: Offers Hadoop 2.7.1 plus Pig, Hive, Oozie, and YARN</li>
- 	<li>Spark: Offers Spark 2.1.0 (<strong>without</strong>YARN)</li>
+ 	<li>Spark: Offers Spark 2.1.0 (<strong>without</strong> YARN)</li>
  	<li>Storm: Offers Storm 1.0.1</li>
 </ul>
 New plugin versions are offered each time MOC's OpenStack version is upgraded. (Last upgrade: January 2018.)
@@ -42,7 +43,7 @@ Navigate to Data Processing → Clusters → Node Group Templates → Create Tem
 <ul style="list-style-type: circle">
  	<li>Vanilla: master=[namenode, resourcemanager,historyserver, oozie], worker=[datanode, nodemanager]
  	<li>Spark: master=[namenode, master], worker=[datanode,slave]</li>
- 	<li>Storm: master=[nimbus], worker=[supervisor, zookeeper]/li&gt;
+ 	<li>Storm: master=[nimbus], worker=[supervisor, zookeeper]</li>
 </ul>
 </li>
  	<li>Parameters: Available settings depend on which processes have been selected; you may wish to set dfs.datanode.du.reserved, Heap Size for various processes</li>
@@ -52,11 +53,10 @@ Navigate to Data Processing → Clusters → Node Group Templates → Create Tem
 Navigate to Data Processing → Clusters → Cluster Templates → Create Template
 <ul>
  	<li>Name: Must follow rules for valid hostname</li>
- 	<li>Anti-Affinity: Makes sure that instances start on different compute hosts. This is good for reliable HDFS replication. You are bound by number of compute hosts (32 in Kaizen!)</li>
+ 	<li>Anti-Affinity (optional): Makes sure that instances start on different compute hosts. This is good for reliable HDFS replication. You are bound by number of compute hosts</li>
  	<li>Node Groups:
 <ul style="list-style-type: circle">
  	<li>Plugin must match</li>
- 	<li>Note that if you edit a Node Group Template, you must delete and readd from Cluster Template</li>
 </ul>
 </li>
  	<li>Parameters: Available settings depend on which processes have been selected; you may wish to set dfs.replication (defaults to number of data/worker nodes), dfs.blocksize</li>
@@ -66,11 +66,10 @@ Navigate to Data Processing → Clusters → Cluster Templates → Launch Cluste
 <ul>
  	<li>Name: Must follow rules for valid hostname</li>
  	<li>Cluster Template: Plugin must match</li>
- 	<li>Cluster Count: Create "separate" clusters - if you want more nodes, then you can scale cluster later, or edit cluster template</li>
- 	<li>Base Image: There is a choice of Ubuntu 14.04 or CentOS 6.6/7 for Vanilla plugin; Spark and Storm offer Ubuntu 14.04 only</li>
+ 	<li>Cluster Count: Create "separate" clusters - (alternatively, keep in mind if you want more nodes, then you can scale cluster later, or edit cluster template)</li>
+ 	<li>Base Image: Usually there is just one choice of OS/version per plugin, but sometimes more</li>
  	<li>Keypair: Highly recommended, since images do not have default passwords</li>
- 	<li>Neutron Management Network: DNS highly recommended; network must have been created redundantly across both OpenStack controllers</li>
- 	<li>Scale Cluster: Validation rules still apply</li>
+ 	<li>Neutron Management Network: make sure to choose a private (tenant) network, not the floating network</li>
 </ul>
 <h3>Cluster access</h3>
 <ul>
