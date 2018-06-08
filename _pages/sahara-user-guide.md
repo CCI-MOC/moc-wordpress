@@ -76,12 +76,12 @@ Navigate to Data Processing → Clusters → Cluster Templates → Launch Cluste
 <ul>
  	<li>Usernames: "ubuntu" for Ubuntu images, "centos" for CentOS 7</li>
         <li>Web UIs: Data Processing -&gt; Clusters -&gt; Clusters -&gt; [cluster name] -&gt; General Info -&gt; (scroll down) shows what ports various services expose Web UIs on
-        <li>
+        <li><a href="#manual">Skip ahead to "Manual Interaction" section if you don't plan to use Sahara Job API</a><li>
 
 </ul>
 <h2><strong>Job execution</strong></h2>
 <h3>Swift integration</h3>
-Jobs on Sahara clusters support Swift I/O. To be more specific, this means you can write a Swift path instead of an HDFS path in any MapReduce or Spark job. (Hive support coming soon, hopefully.) Here are some helpful hints regarding the use of Swift:
+Jobs on Sahara clusters support Swift I/O. To be more specific, this means you can write a Swift path instead of an HDFS path in any MapReduce or Spark job. Here are some helpful hints regarding the use of Swift:
 <ul>
  	<li>Paths: Format is swift://&lt;container&gt;.sahara/path/to/file</li>
  	<li>Authentication: Username and password must be passed at runtime. If you are using the Sahara API/UI to submit jobs, then this may be able to be abstracted away by creating a "Data Source" (More about this in the next section). Username and password are set by fs.swift.service.sahara.username and fs.swift.service.sahara.password. The value fs.swift.service.sahara.tenant is automatically set when the cluster is first created, but you can override it if needed.</li>
@@ -125,7 +125,7 @@ Interface Arguments: If you designed these in Job Template step, you will see th
 </ul>
 </li>
 </ul>
-<h3>Manual interaction</h3>
+<a><h3>Manual interaction</h3></a>
 For users who already know a lot about Hadoop etc., they may prefer to use their cluster "manually".
 <ul>
  	<li>Where programs live
