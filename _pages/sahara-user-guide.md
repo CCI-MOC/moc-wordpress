@@ -74,8 +74,10 @@ Navigate to Data Processing → Clusters → Cluster Templates → Launch Cluste
 </ul>
 <h3>Cluster access</h3>
 <ul>
- 	<li>Web UIs: SOCKS proxy may come in handy; Ubuntu images support X forwarding so it may be useful to install a lightweight browser like Midori on one of your instances</li>
  	<li>Usernames: "ubuntu" for Ubuntu images, "centos" for CentOS 7</li>
+        <li>Web UIs: Data Processing -&gt; Clusters -&gt; Clusters -&gt; [cluster name] -&gt; General Info -&gt; (scroll down) shows what ports various services expose Web UIs on
+        <li>
+
 </ul>
 <h2><strong>Job execution</strong></h2>
 <h3>Swift integration</h3>
