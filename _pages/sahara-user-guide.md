@@ -18,6 +18,9 @@ You may also use the following wizard:
 
 <a href="https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a><br />
 <a href="https://engage1.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://engage1.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a>
+<br />
+
+You can also watch this video: <a href="https://www.youtube.com/watch?v=xkYkxGGvxAo">https://www.youtube.com/watch?v=xkYkxGGvxAo</a>
 <h3>Plugin selection</h3>
 Three plugins are offered. Each is considered "simple".
 <ul>
@@ -76,7 +79,7 @@ Navigate to Data Processing → Clusters → Cluster Templates → Launch Cluste
 <ul>
  	<li>Usernames: "ubuntu" for Ubuntu images, "centos" for CentOS 7</li>
         <li>Web UIs: Data Processing -&gt; Clusters -&gt; Clusters -&gt; [cluster name] -&gt; General Info -&gt; (scroll down) shows what ports various services expose Web UIs on
-        <li><a href="#manual">Skip ahead to "Manual Interaction" section if you don't plan to use Sahara Job API</a><li>
+        <li><a href="#Manual_interaction">click here to skip ahead to "Manual Interaction" section if you don't plan to use Sahara Job API</a><li>
 
 </ul>
 <h2><strong>Job execution</strong></h2>
@@ -125,7 +128,7 @@ Interface Arguments: If you designed these in Job Template step, you will see th
 </ul>
 </li>
 </ul>
-<a name="manual"><h3>Manual interaction</h3></a>
+<h3>Manual interaction</h3>
 For users who already know a lot about Hadoop etc., they may prefer to use their cluster "manually".
 <ul>
  	<li>Where programs live
