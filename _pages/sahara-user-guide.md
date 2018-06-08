@@ -9,21 +9,22 @@ permalink: >
 published: true
 post_date: 2016-08-16 14:42:53
 ---
-This guide explains the use of OpenStack Sahara as configured in the MOC. Sahara provides virtualized Big Data as a Service. The following will be a walkthrough of both the cluster and job operations that Sahara provides, with plenty of helpful tips (and warnings) sprinkled throughout. If you have questions or discover bugs, email MOC at moc-team-list at bu.edu.
+This guide explains the use of OpenStack Sahara as configured in the MOC. Sahara provides virtualized Big Data as a Service. The following will be a walkthrough of both the cluster and job operations that Sahara provides, with plenty of helpful tips (and warnings) sprinkled throughout. If you have questions or discover bugs, please OPEN A TICKET: <a href="https://osticket.massopen.cloud/">https://osticket.massopen.cloud/</a>
 
 *Accessing the Sahara UI:* Sahara actions are contained within the "Data Processing" section in the "Project" section of Horizon.
 <h1>Sahara End-User Guide</h1>
 <h2><strong>Cluster creation</strong></h2>
 You may also use the following wizard:
 
-<a href="https://controller-0.kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://controller-0.kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a>
+<a href="https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide">https://kaizen.massopen.cloud/dashboard/project/data_processing/clusters/cluster_guide</a>
 <h3>Plugin selection</h3>
-Initially, three plugins are offered. Each is considered "simple". Eventually vendor plugins from Cloudera and Hortonworks will be offered.
+Three plugins are offered. Each is considered "simple".
 <ul>
- 	<li>Vanilla: Offers upstream Hadoop 2.7.1, Pig 0.16.0, and Hive 0.11.0, plus Oozie and YARN for job management</li>
- 	<li>Spark: Offers Spark 1.6.0 on a Cloudera fork of HDFS</li>
- 	<li>Storm: Offers Storm 0.9.2</li>
+ 	<li>Vanilla: Offers Hadoop 2.7.1 plus Pig, Hive, Oozie, and YARN</li>
+ 	<li>Spark: Offers Spark 2.1.0 (<strong>without</strong>YARN)</li>
+ 	<li>Storm: Offers Storm 1.0.1</li>
 </ul>
+New plugin versions are offered each time MOC's OpenStack version is upgraded. (Last upgrade: January 2018.)
 <h3>Node group template design</h3>
 Navigate to Data Processing → Clusters → Node Group Templates → Create Template
 <ul>
@@ -32,15 +33,16 @@ Navigate to Data Processing → Clusters → Node Group Templates → Create Tem
  	<li>Availability Zone: Just set to "nova"</li>
  	<li>Storage location: choice between Ephemeral and Cinder
 <ul style="list-style-type: circle">
- 	<li>Ephemeral for speed</li>
- 	<li>Cinder more reliable for HDFS replicas (make sure to set Availabilty Zone)</li>
+ 	<li>Cinder can be much bigger than ephemeral disk</li>
+ 	<li>Make sure to set Cinder Availabilty Zone and Volume Type</li>
 </ul>
+        <li>Make sure to select base image</li>
 </li>
- 	<li>Node processes: Keep in mind validation rules
+ 	<li>Node processes: typical topology...
 <ul style="list-style-type: circle">
- 	<li>Vanilla: namenode == 1, (resourcemanager, secondary namenode, historyserver, oozie, hiveserver) &lt;= 1; Oozie depends on resourcemanger and historyserver, Nodemanager depends on resourcemanager</li>
- 	<li>Spark: namenode == 1, master == 1, datanode &gt;= 1, worker &gt;= 1</li>
- 	<li>Storm: nimbus == 1, zookeeper == 1</li>
+ 	<li>Vanilla: master=[namenode, resourcemanager,historyserver, oozie], worker=[datanode, nodemanager]
+ 	<li>Spark: master=[namenode, master], worker=[datanode,slave]</li>
+ 	<li>Storm: master=[nimbus], worker=[supervisor, zookeeper]/li&gt;
 </ul>
 </li>
  	<li>Parameters: Available settings depend on which processes have been selected; you may wish to set dfs.datanode.du.reserved, Heap Size for various processes</li>
