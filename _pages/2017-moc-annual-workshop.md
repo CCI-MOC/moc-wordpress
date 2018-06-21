@@ -218,7 +218,7 @@ Only if you want, take a look at the "Getting Started" part of the wiki, to revi
 
 <strong><u>Session Descriptions and Materials</u></strong>
 <ul>
- 	<li><strong>OpenStack</strong>: The MOC offers an Infrastructure as a Service (IaaS) offering based on OpenStack, providing users with self-service access to virtual machines, object storage, and on-demand Big Data environments (Hadoop, Spark, Pig etc.). This tutorial will show you how to get started using this environment. OpenStack Tutorial and Demo Video</li>
+ 	<li><strong>OpenStack</strong>: The MOC offers an Infrastructure as a Service (IaaS) offering based on OpenStack, providing users with self-service access to virtual machines, object storage, and on-demand Big Data environments (Hadoop, Spark, Pig etc.). This tutorial will show you how to get started using this environment. <a href="https://www.youtube.com/channel/UCalL-e8-FgFAxo3P8BB-N9w">OpenStack Tutorial and Demo Video</a></li>
 </ul>
 <ul>
  	<li><strong>Cloud Dataverse &amp; Big Data</strong>: Cloud Dataverse is a collaboration between the MOC and the Harvard Institute for Quantitative Social Science (IQSS) to enable a repository for storing and sharing datasets hosted in a cloud. This tutorial will show users how to access and share datasets using Cloud Dataverse as well as how to spin up different computational tools on those datasets using the MOC. <a href="https://massopen.cloud/wp-content/uploads/2017/09/Cloud-Dataverse.pdf">Cloud Dataverse Training Presentation</a></li>
