@@ -7,7 +7,7 @@ author: Lucas
 post_excerpt: ""
 layout: page
 permalink: >
-  https://massopen.cloud/2017-moc-annual-workshop/
+  https://massopen.cloud/2017-moc-annual-workshop-retrospective/
 published: true
 post_date: 2017-09-15 15:16:30
 ---
