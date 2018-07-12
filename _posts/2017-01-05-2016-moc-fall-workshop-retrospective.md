@@ -1,6 +1,6 @@
 ---
 ID: 2186
-post_title: 2016 MOC Fall Workshop Retrospective
+post_title: 2016 MOC Annual Workshop Retrospective
 author: Lucas
 post_excerpt: ""
 layout: post
