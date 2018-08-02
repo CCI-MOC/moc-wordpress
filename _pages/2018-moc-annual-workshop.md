@@ -10,7 +10,7 @@ published: true
 post_date: 2018-07-12 07:26:48
 ---
 <header class="entry-header">
-<h1 class="entry-title">2018 Mass Open Cloud Annual Workshop and Tutorials</h1>
+<h1 class="entry-title" style="text-align: center">2018 Mass Open Cloud Annual Workshop and Tutorials</h1>
 </header>
 <div class="entry-content">
 
