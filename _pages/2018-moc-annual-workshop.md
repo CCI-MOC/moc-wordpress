@@ -22,14 +22,13 @@ The MOC is now inviting members of the MOC Community to submit proposals for 10-
 <ul>
  	<li style="font-weight: 400"><span style="font-weight: 400">Overview of the MOC's vision and updates on the MOC's technologies and offerings</span></li>
  	<li style="font-weight: 400"><span style="font-weight: 400">10-minute Micro-Talks - at the end of each session, speakers will participate in a brief Q&amp;A panel </span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">Posters will be displayed throughout the day to allow for deeper technical interaction</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">A Roundtable Session will provide additional opportunities for all attendees to explore MOC-related topics on a deeper level and provide an opportunity for open dialogue</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">During the Industry Partner Panel, attendees will hear from the MOC’s industry partners who will discuss their relationship with the MOC and the value their companies are deriving from this unique partnership</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">The event will close with a reception, providing additional time to discuss talks and posters and for networking</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">Posters will be on display throughout the day to allow for deeper technical interaction</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">Roundtables will allow attendees to explore topics on a deeper level and enable open dialogue</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">The Industry Partner Panel will feature the MOC’s industry partners who will discuss their relationship with the MOC and the value their companies are deriving from this unique partnership</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">The event will close with a reception, providing additional time for networking</span></li>
 </ul>
 <b>October 31 (Morning)</b>
 <ul>
- 	<li style="font-weight: 400"><span style="font-weight: 400">The MOC Leadership, Academic Advisory Board and Core Partners will meet to discuss strategic and business related initiatives. (Invitation only)</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">Tutorials sessions will be offered.</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">Tutorials sessions </span></li>
 </ul>
 Please continue to check this page for updates.  To add your name to the MOC Workshop Mailing list either register or email <a href="jstacy@bu.edu">Jennifer Stacy</a>.
