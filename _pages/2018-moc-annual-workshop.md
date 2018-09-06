@@ -20,12 +20,12 @@ For the first time, the MOC is inviting members of the MOC Community to submit p
 
 <b>October 30</b>
 <ul>
- 	<li style="font-weight: 400"><span style="font-weight: 400">The day kicks off with an overview of the MOC's vision and orients users with the latest on the MOC's technologies and offerings.</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">Over the course of the day, 10-minute Ted-style talks will be presented in Micro-Talk Sessions. These talks are designed to give the audience a high-level overview of a given topic.  At the end of each session, its speakers will unite as a panel for a brief Q&amp;A.</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">Throughout the conference space posters designed by talk presenters will be displayed. Anyone interested in exploring the content covered in a talk on a deeper, more technical level will be encouraged to find the accompanying poster to engage with the speaker.</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">A Roundtable Session will provide additional opportunities for all attendees to explore MOC-related topics on a deeper level and provide an opportunity for open dialogue. </span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">The success of the MOC hinges upon its strong partnerships. During the Industry Partner Panel, attendees will hear from the MOC’s industry partners who will discuss their relationship with the MOC and the value their companies are deriving from this unique partnership.</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">The event will close with a reception, providing additional time to discuss talks and posters and for networking.</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">Overview of the MOC's vision and orient users with the latest on the MOC's technologies and offerings</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">10-minute Ted-style talks will be presented in Micro-Talk Sessions designed to give the audience a high-level overview of a given topic - at the end of each session, its speakers will unite as a panel for a brief Q&amp;A</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">Posters will be displayed throughout the day to allow for deeper technical interaction</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">A Roundtable Session will provide additional opportunities for all attendees to explore MOC-related topics on a deeper level and provide an opportunity for open dialogue</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">During the Industry Partner Panel, attendees will hear from the MOC’s industry partners who will discuss their relationship with the MOC and the value their companies are deriving from this unique partnership</span></li>
+ 	<li style="font-weight: 400"><span style="font-weight: 400">The event will close with a reception, providing additional time to discuss talks and posters and for networking</span></li>
 </ul>
 <b>October 31 (Morning)</b>
 <ul>
