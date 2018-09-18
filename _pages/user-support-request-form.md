@@ -14,8 +14,8 @@ post_date: 2018-09-13 20:16:24
 
 2) If have an OS Ticket login, do a quick search of reports to see if your issue has been previously addressed
 
-3) Review the "Trouble Shooting Tips" on <a href="https://osticket.massopen.cloud/kb/index.php">OS Ticket Knowledge Base</a>.
+3) Review the "Trouble Shooting Tips" on <span style="color: #0000ff;"><a href="https://osticket.massopen.cloud/kb/index.php">OS Ticket Knowledge Base</a>.</span>
 
 4) If you are a student, ask  TA or professor before contacting MOC support
 
-5) If you are still unable to resolve your issue, please submit a ticket on <a href="https://osticket.massopen.cloud/index.php">OS Ticket </a>. Please make sure to identify the specific project, VM, volume, etc. A report that says “I can’t mount my volume on my VM” isn’t specific enough.
+5) If you are still unable to resolve your issue, please submit a ticket on <a href="https://osticket.massopen.cloud/index.php">OS Ticket <span style="color: #0000ff;"></span></a>. Please make sure to identify the specific project, VM, volume, etc. A report that says “I can’t mount my volume on my VM” isn’t specific enough.
