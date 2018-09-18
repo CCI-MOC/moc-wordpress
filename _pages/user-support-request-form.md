@@ -14,7 +14,7 @@ post_date: 2018-09-13 20:16:24
 
 2) If have an OS Ticket login, do a quick search of reports to see if your issue has been previously addressed
 
-3) Review the "Trouble Shooting Tips" on OS Ticket
+3) Review the "Trouble Shooting Tips" on <a href="https://osticket.massopen.cloud/kb/index.php">OS Ticket Knowledge Base</a>.
 
 4) If you are a student, ask  TA or professor before contacting MOC support
 
