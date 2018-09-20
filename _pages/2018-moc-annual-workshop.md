@@ -31,4 +31,28 @@ The MOC is now inviting members of the MOC Community to submit proposals for 10-
 <ul>
  	<li style="font-weight: 400"><span style="font-weight: 400">Tutorials sessions </span></li>
 </ul>
+
+<hr />
+
+<strong>Getting Around and Staying in Boston
+</strong>
+<ul>
+ 	<li><a href="https://www.bu.edu/tech/services/support/networks/wireless/guest/">Guest Wireless Access</a></li>
+ 	<li><a href="https://www.bu.edu/parking/lots-locations/family-guests-and-visitor-parking/">Parking</a> – You may park in any public lot on campus.  The Granby and Kenmore Lots are closest to CILSE, but due to capacity, it is possible you may need to park at the Agganis Lot and take the Green Line train inbound to Blandford St/plan for a 20 minute walk.</li>
+ 	<li><a href="http://www.bu.edu/admissions/student-life/city-of-boston/transportation/">Getting around Boston</a> – General info</li>
+ 	<li><a href="http://www.mbta.com/">Massachusetts Bay Transportation Authority</a> – If you will be using the subway, Boston University is located along the “B” route of the Green Line. CILSE is at “Blandford Street” (first stop after Kenmore Square).</li>
+ 	<li><a href="http://www.bu.edu/alumni/benefits-resources/travel/#hotels">Accommodations</a> – We did not block space at any specific hotels, but recommend any of the options provided on this page</li>
+ 	<li><a href="http://www.bu.edu/maps/">Map of Boston University</a></li>
+ 	<li>Both Uber and Lyft operate in Boston, in addition to taxi options.</li>
+ 	<li><a href="http://www.bu.edu/admissions/student-life/city-of-boston/">Other Things to do in Boston</a></li>
+</ul>
+
+<hr />
+
+The MOC Workshop is made possible by the generosity of our Core Partners
+
+<img class="alignnone  wp-image-781" src="https://massopen.cloud/wp-content/uploads/2016/03/cisco-logo-3-300x182.jpg" alt="" width="130" height="79" />   <img class="alignnone  wp-image-780" src="https://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="" width="117" height="77" />    <img class="alignnone  wp-image-3204" src="https://massopen.cloud/wp-content/uploads/2016/03/na_logo_hrz_2c_rgb_lrg1-300x120.jpg" alt="" width="176" height="71" />   <img class="alignnone  wp-image-787" src="https://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="" width="86" height="95" />    <img class="alignnone  wp-image-785" src="https://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="" width="178" height="51" />
+
+&nbsp;
+
 Please continue to check this page for updates.  To add your name to the MOC Workshop Mailing list either register or email <a href="jstacy@bu.edu">Jennifer Stacy</a>.
