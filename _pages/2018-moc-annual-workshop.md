@@ -1,6 +1,6 @@
 ---
 ID: 3315
-post_title: '2018 Mass Open Cloud Annual Workshop &amp; Tutorials'
+post_title: '2018 MOC Annual Workshop &amp; Tutorials'
 author: nathanmo
 post_excerpt: ""
 layout: page
@@ -51,7 +51,7 @@ The MOC is now inviting members of the MOC Community to submit proposals for 10-
 
 The MOC Workshop is made possible by the generosity of our Core Partners
 
-<img class="alignnone  wp-image-781" src="https://massopen.cloud/wp-content/uploads/2016/03/cisco-logo-3-300x182.jpg" alt="" width="130" height="79" />   <img class="alignnone  wp-image-780" src="https://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="" width="117" height="77" />    <img class="alignnone  wp-image-3204" src="https://massopen.cloud/wp-content/uploads/2016/03/na_logo_hrz_2c_rgb_lrg1-300x120.jpg" alt="" width="176" height="71" />   <img class="alignnone  wp-image-787" src="https://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="" width="86" height="95" />    <img class="alignnone  wp-image-785" src="https://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="" width="178" height="51" />
+<img class="alignnone wp-image-781" src="https://massopen.cloud/wp-content/uploads/2016/03/cisco-logo-3-300x182.jpg" alt="" width="130" height="79" />   <img class="alignnone wp-image-780" src="https://massopen.cloud/wp-content/uploads/2016/03/293px-Intel-logo.svg.png" alt="" width="117" height="77" />    <img class="alignnone wp-image-3204" src="https://massopen.cloud/wp-content/uploads/2016/03/na_logo_hrz_2c_rgb_lrg1-300x120.jpg" alt="" width="176" height="71" />   <img class="alignnone wp-image-787" src="https://massopen.cloud/wp-content/uploads/2016/03/redhat-logo-273x300.jpg" alt="" width="86" height="95" />    <img class="alignnone wp-image-785" src="https://massopen.cloud/wp-content/uploads/2016/03/TwoSigma-636x183-300x86.png" alt="" width="178" height="51" />
 
 &nbsp;
 
