@@ -15,7 +15,7 @@ post_date: 2016-03-25 18:28:13
 </ul>
 <ul>
  	<li>R. Pienaar, A. Turk, J. Bernal-Rusiel, N. Rannou, D. Haehn, P. E. Grant and O. Krieger, CHIPS – A Service for Collecting, Organizing, Processing, and Sharing Medical Image Data in the Cloud, in VLDB DMAH, 2017. <a href="https://arxiv.org/abs/1710.00734">https://arxiv.org/abs/1710.00734</a></li>
- 	<li style="list-style-type: none;"></li>
+ 	<li style="list-style-type: none"></li>
 </ul>
 <ul>
  	<li>D. Turkoglu, A. Turk, Edge-Based Wedge Sampling to Estimate Triangle Counts in Very Large Graphs, in IEEE ICDM, 2017.</li>
@@ -51,7 +51,11 @@ post_date: 2016-03-25 18:28:13
 <h1>Talks</h1>
 <ul>
  	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
+</ul>
+<ul>
  	<li>K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
+</ul>
+<ul>
  	<li>Crosas, M., Krieger, O., and Saowarattitada, P. (2017) Cloud Dataverse: Data Repository Software for Open Clouds [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/KhwGuJy8WDU">https://youtu.be/KhwGuJy8WDU</a></li>
 </ul>
 <ul>
