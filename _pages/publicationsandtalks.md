@@ -50,6 +50,8 @@ post_date: 2016-03-25 18:28:13
 &nbsp;
 <h1>Talks</h1>
 <ul>
+ 	<li>Mosayyebzadeh, Amin, "Bolted:  Security as a Service", 3rd Annual New England Network and Systems Day (NENS 2017).</li>
+ 	<li>Mohan, Apoorve. “Marrying HPC and Cloud for Long-Term Happiness”. 2017 IBM Research Workshop on Architectures for Cognitive Computing and Datacenters.</li>
  	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
 </ul>
 <ul>
