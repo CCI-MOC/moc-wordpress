@@ -11,6 +11,15 @@ post_date: 2016-03-25 18:28:13
 ---
 <h1>Publications</h1>
 <ul>
+ 	<li>Mosayyebzadeh, Amin, Gerardo Ravago, Apoorve Mohan, Ali Raza, Sahil Tikale, Nabil Schear, Trammell Hudson et al. "A Secure Cloud with Minimal Provider Trust." In 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18). USENIX} Association, 2018.</li>
+</ul>
+<ul>
+ 	<li>Mohan, Apoorve, Ata Turk, Ravi S. Gudimetla, Sahil Tikale, Jason Hennessey, Emine Ugur Kaynar, Gene Cooperman, Peter Desnoyers, and Orran Krieger. “M2: Malleable Metal as a Service.” 2018 IEEE International Conference on Cloud Engineering (IC2E)(2018): 61-71.</li>
+</ul>
+<ul>
+ 	<li>Garg, Rohan, Apoorve Mohan, Michael Sullivan, and Gene Cooperman. “CRUM: Checkpoint-Restart Support for CUDA's Unified Memory.” CoRR abs/1808.00117 (2018).</li>
+</ul>
+<ul>
  	<li>A. Turk, M. Varia, and G. Kellaris, Revealing the Unseen: How to Expose Cloud Usage While Protecting User Privacy, in ICDM PAIS, 2017 <a href="https://arxiv.org/pdf/1710.00714.pdf">https://arxiv.org/abs/1710.00714</a></li>
 </ul>
 <ul>
@@ -51,7 +60,11 @@ post_date: 2016-03-25 18:28:13
 <h1>Talks</h1>
 <ul>
  	<li>Mosayyebzadeh, Amin, "Bolted:  Security as a Service", 3rd Annual New England Network and Systems Day (NENS 2017).</li>
+</ul>
+<ul>
  	<li>Mohan, Apoorve. “Marrying HPC and Cloud for Long-Term Happiness”. 2017 IBM Research Workshop on Architectures for Cognitive Computing and Datacenters.</li>
+</ul>
+<ul>
  	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
 </ul>
 <ul>
@@ -105,5 +118,12 @@ post_date: 2016-03-25 18:28:13
 <ul>
  	<li>Desnoyers, P., Hennessey, J., Holden, J., Krieger, O. and Raju, A. (2014). Mass Open Cloud Technical Directions [YouTube video]. Retrieved from  <a href="https://www.youtube.com/watch?v=cXKmia_iZCA">https://www.youtube.com/watch?v=cXKmia_iZCA
 </a></li>
+</ul>
+<ul>
  	<li>Desnoyers, P. (2014). Building a "Multi-Landlord" Public Cloud [YouTube video]. Retrieved from <a href="https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers">https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers</a></li>
+</ul>
+<h2></h2>
+<h1>Posters</h1>
+<ul>
+ 	<li>Mohan, Apoorve, Rohan Garg, Said Taazi, and Gene Cooperman. “Recycling Lost CPU Cycles: Managing Multiple Many-core Jobs.” 3rd Annual New England Network and Systems Day (NENS 2017).</li>
 </ul>
