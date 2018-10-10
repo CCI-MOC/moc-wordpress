@@ -58,10 +58,10 @@ post_date: 2016-03-25 18:28:13
 &nbsp;
 <h1>Talks</h1>
 <ul>
- 	<li>Mosayyebzadeh, Amin, "Bolted:  Security as a Service", 3rd Annual New England Network and Systems Day (NENS 2017).</li>
+ 	<li>Mosayyebzadeh, Amin, "Bolted:  Security as a Service", 3rd Annual New England Network and Systems Day (NENS 2017). [<a href="http://systems.cs.brown.edu/nens/2017/program/">Video]</a></li>
 </ul>
 <ul>
- 	<li>Mohan, Apoorve. “Marrying HPC and Cloud for Long-Term Happiness”. 2017 IBM Research Workshop on Architectures for Cognitive Computing and Datacenters.</li>
+ 	<li>Mohan, Apoorve. “Marrying HPC and Cloud for Long-Term Happiness”. 2017 IBM Research Workshop on Architectures for Cognitive Computing and Datacenters. [<a href="https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8189#Apoorve">Video</a>]</li>
 </ul>
 <ul>
  	<li>H. Xu, R. Kumar, P. Saowarattitada, "HTC Service on Underutilized OpenStack Cloud Resources," in <em>OpenStack Summit </em><em>Sydney, </em>Australia, 2017. [<a href="https://youtu.be/jBJtrvLpGNA">Video</a>]</li>
@@ -70,56 +70,55 @@ post_date: 2016-03-25 18:28:13
  	<li>K Nikolla and L. Bragstad, "Keystone - Project Update," in <em>OpenStack Summit Sydney, </em>Australia, 2017. [<a href="https://youtu.be/q0OSF_URbC0">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Crosas, M., Krieger, O., and Saowarattitada, P. (2017) Cloud Dataverse: Data Repository Software for Open Clouds [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/KhwGuJy8WDU">https://youtu.be/KhwGuJy8WDU</a></li>
+ 	<li>Crosas, M., Krieger, O., and Saowarattitada, P. (2017) Cloud Dataverse: Data Repository Software for Open Clouds [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/KhwGuJy8WDU">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Tikale, S., Mohan, A. (2017) Elastic OpenStack Deployments [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/xlbOKUwtnYM">https://youtu.be/xlbOKUwtnYM</a></li>
+ 	<li>Tikale, S., Mohan, A. (2017) Elastic OpenStack Deployments [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/xlbOKUwtnYM">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Xu, H., Baron, R., Gregory, S. (2017) MOC Simple GUI: An "And" to OpenStack Horizon [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/gXyUFrnL-U4">https://youtu.be/gXyUFrnL-U4</a></li>
+ 	<li>Xu, H., Baron, R., Gregory, S. (2017) MOC Simple GUI: An "And" to OpenStack Horizon [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/gXyUFrnL-U4">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Kumar, R. (2017) HPC/HTC and Cloud: Making Them Work Together Efficiently [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/q9ZyH755R9w">https://youtu.be/q9ZyH755R9w</a></li>
+ 	<li>Kumar, R. (2017) HPC/HTC and Cloud: Making Them Work Together Efficiently [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/q9ZyH755R9w">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Kumar, R. (2017) Serverless Performance with Containers: Docker Swarm on OpenStack [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/K8TFN0WU_rM">https://youtu.be/K8TFN0WU_rM</a></li>
+ 	<li>Kumar, R. (2017) Serverless Performance with Containers: Docker Swarm on OpenStack [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/K8TFN0WU_rM">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Durand, G., Freudberg, J., Andreev, L. (2017) When Dataverse Meets OpenStack... [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/16hRBms24xA">https://youtu.be/16hRBms24xA</a></li>
+ 	<li>Durand, G., Freudberg, J., Andreev, L. (2017) When Dataverse Meets OpenStack... [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/16hRBms24xA">Video]</a></li>
 </ul>
 <ul>
- 	<li>Turk, A., Sambasivan, R., Cohen, D. (2017) Big Data as a Service at Mass Open Cloud [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/G_YP6NmxGsU">https://youtu.be/G_YP6NmxGsU</a></li>
+ 	<li>Turk, A., Sambasivan, R., Cohen, D. (2017) Big Data as a Service at Mass Open Cloud [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/G_YP6NmxGsU">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Young, A., Nikolla, K. (2017) Per API Role Based Access Control [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/EYYzl0rFCVU">https://youtu.be/EYYzl0rFCVU</a></li>
+ 	<li>Young, A., Nikolla, K. (2017) Per API Role Based Access Control [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/EYYzl0rFCVU">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Maleki, H., Rahaeimehr, R. (2017) Universal Composability Analysis of OpenStack [Video]. From 2017 OpenStack Summit Boston. Retrieved from <a href="https://youtu.be/94oxZqhyGFA">https://youtu.be/94oxZqhyGFA</a></li>
+ 	<li>Maleki, H., Rahaeimehr, R. (2017) Universal Composability Analysis of OpenStack [Video]. From 2017 OpenStack Summit Boston. [<a href="https://youtu.be/94oxZqhyGFA">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Crosas, M., Krieger, O., and Saowarattitada, P. (2016) Cloud Dataverse [Video].  From 2016 OpenStack Barcelona.  Retrieved from <a href="https://www.youtube.com/watch?v=POBHcC2iPe8">https://www.youtube.com/watch?v=POBHcC2iPe8</a></li>
+ 	<li>Crosas, M., Krieger, O., and Saowarattitada, P. (2016) Cloud Dataverse [Video].  From 2016 OpenStack Barcelona.  [<a href="https://www.youtube.com/watch?v=POBHcC2iPe8">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Nikolla, K. and Silvis III, G. (2016) Resource Federation in a Multi-Landlord Cloud [Video].  From 2016 OpenStack Barcelona.  Retrieved from <a href="https://www.youtube.com/watch?v=O0euqskJJ_8">https://www.youtube.com/watch?v=O0euqskJJ_8</a></li>
+ 	<li>Nikolla, K. and Silvis III, G. (2016) Resource Federation in a Multi-Landlord Cloud [Video].  From 2016 OpenStack Barcelona.  [<a href="https://www.youtube.com/watch?v=O0euqskJJ_8">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Krieger, O. (2016) Massachusetts Open Cloud, Intel Cloud Day Talk [Video]. Retrieved from <a href="http://www.intel.com/content/www/us/en/cloud-computing/massachusetts-open-cloud-computing-video.html?cache=no">http://www.intel.com/content/www/us/en/cloud-computing/massachusetts-open-cloud-computing-video.html?cache=no</a></li>
+ 	<li>Krieger, O. (2016) Massachusetts Open Cloud, Intel Cloud Day Talk [<a href="http://www.intel.com/content/www/us/en/cloud-computing/massachusetts-open-cloud-computing-video.html?cache=no">Video</a>].</li>
 </ul>
 <ul>
- 	<li>Krieger, O. (2016). Driving Innovation and Exploration with The Massachusetts Open Cloud – Intel® Chip Chat episode 454 [Soundcloud audio]. Retrieved from <a href="https://soundcloud.com/intelchipchat/driving-innovation-and-exploration-with-the-massachusetts-open-cloud-intel-chip-chat-episode-454">https://soundcloud.com/intelchipchat/driving-innovation-and-exploration-with-the-massachusetts-open-cloud-intel-chip-chat-episode-454</a></li>
+ 	<li>Krieger, O. (2016). Driving Innovation and Exploration with The Massachusetts Open Cloud – Intel® Chip Chat episode 454 <a href="https://soundcloud.com/intelchipchat/driving-innovation-and-exploration-with-the-massachusetts-open-cloud-intel-chip-chat-episode-454">[Soundcloud audio</a>].</li>
 </ul>
 <ul>
- 	<li>Krieger, O. (2016). A marketplace driven direction for SDI:Towards an “Open Cloud Exchange [Powerpoint slides] Keynote address from National Science Foundation Workshop on Software-defined Infrastructure and Software-defined Exchanges.  Retrieved from <a href="https://www.flux.utah.edu/beyond-internet-workshops/sdi/">https://www.flux.utah.edu/beyond-internet-workshops/sdi/ </a></li>
+ 	<li>Krieger, O. (2016). A marketplace driven direction for SDI:Towards an “Open Cloud Exchange [Powerpoint slides] Keynote address from National Science Foundation Workshop on Software-defined Infrastructure and Software-defined Exchanges.  [<a href="https://www.flux.utah.edu/beyond-internet-workshops/sdi/">Video</a>]</li>
 </ul>
 <ul>
- 	<li>Krieger, O. and Holzer, J. M. (2014). The Massachusetts Open Cloud (MOC) a New Model to Operate and Innovate in a Vendor Neutral [YouTube video]. Retrieved from <a href="https://www.youtube.com/watch?v=yuUb7XWnOcw">https://www.youtube.com/watch?v=yuUb7XWnOcw </a></li>
+ 	<li>Krieger, O. and Holzer, J. M. (2014). The Massachusetts Open Cloud (MOC) a New Model to Operate and Innovate in a Vendor Neutral [<a href="https://www.youtube.com/watch?v=yuUb7XWnOcw">Video</a>].</li>
 </ul>
 <ul>
- 	<li>Desnoyers, P., Hennessey, J., Holden, J., Krieger, O. and Raju, A. (2014). Mass Open Cloud Technical Directions [YouTube video]. Retrieved from  <a href="https://www.youtube.com/watch?v=cXKmia_iZCA">https://www.youtube.com/watch?v=cXKmia_iZCA
-</a></li>
+ 	<li>Desnoyers, P., Hennessey, J., Holden, J., Krieger, O. and Raju, A. (2014). Mass Open Cloud Technical Directions [<a href="https://www.youtube.com/watch?v=cXKmia_iZCA">Video</a>].</li>
 </ul>
 <ul>
- 	<li>Desnoyers, P. (2014). Building a "Multi-Landlord" Public Cloud [YouTube video]. Retrieved from <a href="https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers">https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers</a></li>
+ 	<li>Desnoyers, P. (2014). Building a "Multi-Landlord" Public Cloud [<a href="https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers">Video</a>].</li>
 </ul>
 <h2></h2>
 <h1>Posters</h1>
