@@ -11,20 +11,19 @@ post_date: 2016-03-25 18:28:13
 ---
 <h1>Publications</h1>
 <ul>
- 	<li><a href="https://www.usenix.org/conference/hotcloud18/presentation/mosayyebzadeh">Mosayyebzadeh, Amin, Gerardo Ravago, Apoorve Mohan, Ali Raza, Sahil Tikale, Nabil Schear, Trammell Hudson et al. "A Secure Cloud with Minimal Provider Trust." In 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18). USENIX} Association, 2018.</a></li>
+ 	<li>Mosayyebzadeh, Amin, Gerardo Ravago, Apoorve Mohan, Ali Raza, Sahil Tikale, Nabil Schear, Trammell Hudson et al. <a href="https://www.usenix.org/conference/hotcloud18/presentation/mosayyebzadeh">"A Secure Cloud with Minimal Provider Trust."</a> In 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18). USENIX} Association, 2018.</li>
 </ul>
 <ul>
- 	<li>Mohan, Apoorve, Ata Turk, Ravi S. Gudimetla, Sahil Tikale, Jason Hennessey, Emine Ugur Kaynar, Gene Cooperman, Peter Desnoyers, and Orran Krieger. “M2: Malleable Metal as a Service.” 2018 IEEE International Conference on Cloud Engineering (IC2E)(2018): 61-71.</li>
+ 	<li>Mohan, Apoorve, Ata Turk, Ravi S. Gudimetla, Sahil Tikale, Jason Hennessey, Emine Ugur Kaynar, Gene Cooperman, Peter Desnoyers, and Orran Krieger. “<a href="https://ieeexplore.ieee.org/document/8360313">M2: Malleable Metal as a Service</a>.” 2018 IEEE International Conference on Cloud Engineering (IC2E)(2018): 61-71.</li>
 </ul>
 <ul>
- 	<li>Garg, Rohan, Apoorve Mohan, Michael Sullivan, and Gene Cooperman. “CRUM: Checkpoint-Restart Support for CUDA's Unified Memory.” CoRR abs/1808.00117 (2018).</li>
+ 	<li>Garg, Rohan, Apoorve Mohan, Michael Sullivan, and Gene Cooperman. <a href="https://arxiv.org/pdf/1808.00117.pdf">“CRUM: Checkpoint-Restart Support for CUDA's Unified Memory.”</a> CoRR abs/1808.00117 (2018).</li>
 </ul>
 <ul>
- 	<li>A. Turk, M. Varia, and G. Kellaris, Revealing the Unseen: How to Expose Cloud Usage While Protecting User Privacy, in ICDM PAIS, 2017 <a href="https://arxiv.org/pdf/1710.00714.pdf">https://arxiv.org/abs/1710.00714</a></li>
+ 	<li>A. Turk, M. Varia, and G. Kellaris, <a href="https://arxiv.org/abs/1710.00714">Revealing the Unseen: How to Expose Cloud Usage While Protecting User Privacy</a>, in ICDM PAIS, 2017</li>
 </ul>
 <ul>
- 	<li>R. Pienaar, A. Turk, J. Bernal-Rusiel, N. Rannou, D. Haehn, P. E. Grant and O. Krieger, CHIPS – A Service for Collecting, Organizing, Processing, and Sharing Medical Image Data in the Cloud, in VLDB DMAH, 2017. <a href="https://arxiv.org/abs/1710.00734">https://arxiv.org/abs/1710.00734</a></li>
- 	<li style="list-style-type: none"></li>
+ 	<li>R. Pienaar, A. Turk, J. Bernal-Rusiel, N. Rannou, D. Haehn, P. E. Grant and O. Krieger, <a href="https://arxiv.org/abs/1710.00734">CHIPS – A Service for Collecting, Organizing, Processing, and Sharing Medical Image Data in the Cloud</a>, in VLDB DMAH, 2017.</li>
 </ul>
 <ul>
  	<li>D. Turkoglu, A. Turk, Edge-Based Wedge Sampling to Estimate Triangle Counts in Very Large Graphs, in IEEE ICDM, 2017.</li>
@@ -36,29 +35,25 @@ post_date: 2016-03-25 18:28:13
  	<li>J. Hennessey, S.Tikale, A. Turk, E. U. Kaynar, C. Hill, P. Desnoyers, and O. Krieger. 2016. <a href="https://open.bu.edu/handle/2144/19198">HIL: Designing an Exokernel for the Data Center</a>. In Proceedings of the Seventh ACM Symposium on Cloud Computing (SoCC '16). DOI: <a href="https://dx.doi.org/10.1145/2987550.2987588">10.1145/2987550.2987588</a></li>
 </ul>
 <ul>
- 	<li>A. Turk, H. Chen, O. Tuncer, H. Li, Q. Li, O. Krieger, A. K. Coskun, “Seeing into a Public Cloud: Monitoring the Massachusetts Open Cloud”, in USENIX CoolDC 2016.
-<a href="https://www.usenix.org/system/files/conference/cooldc16/cooldc16-paper-turk.pdf">https://www.usenix.org/system/files/conference/cooldc16/cooldc16-paper-turk.pdf</a></li>
+ 	<li>A. Turk, H. Chen, O. Tuncer, H. Li, Q. Li, O. Krieger, A. K. Coskun, <a href="https://www.usenix.org/system/files/conference/cooldc16/cooldc16-paper-turk.pdf">“Seeing into a Public Cloud: Monitoring the Massachusetts Open Cloud”</a>, in USENIX CoolDC 2016.</li>
 </ul>
 <ul>
- 	<li>A. Turk, R. Gudimetla, E.U. Kaynar, J. Hennessey, S. Tikale, P. Desnoyers, O Krieger, “An experiment on Bare-Metal BigData Provisioning”. in USENIX HotCloud 2016.
-<a href="https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/turk">https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/turk</a></li>
+ 	<li>A. Turk, R. Gudimetla, E.U. Kaynar, J. Hennessey, S. Tikale, P. Desnoyers, O Krieger, <a href="https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/turk">“An experiment on Bare-Metal BigData Provisioning”</a>. in USENIX HotCloud 2016.</li>
 </ul>
 <ul>
- 	<li>Apoorve Mohan, Ravi S. Gudimetla, Ata Turk, Sourabh Bollapragada, Rajul Kumar, Jason Hennessey, Evan Weinberg, Dimitri Makrigiorgos, Christopher N. Hill, Gene Cooperman, Peter Desnoyers, Richard Brower and Orran Krieger, “Marrying HPC and Cloud for Long Term Happiness”, technical poster in Supercomputing 2016.
-<a href="http://sc16.supercomputing.org/sc-archive/tech_poster/poster_files/post271s2-file3.pdf">http://sc16.supercomputing.org/sc-archive/tech_poster/poster_files/post271s2-file3.pdf</a></li>
+ 	<li>Apoorve Mohan, Ravi S. Gudimetla, Ata Turk, Sourabh Bollapragada, Rajul Kumar, Jason Hennessey, Evan Weinberg, Dimitri Makrigiorgos, Christopher N. Hill, Gene Cooperman, Peter Desnoyers, Richard Brower and Orran Krieger, <a href="http://sc16.supercomputing.org/sc-archive/tech_poster/poster_files/post271s2-file3.pdf">“Marrying HPC and Cloud for Long Term Happiness</a>”, technical poster in Supercomputing 2016.</li>
 </ul>
 <ul>
- 	<li>D. Yu, L. Mai, S. Arianfar, R. Fonseca, O. Krieger, D. Oran, "Towards a Network Marketplace in a Cloud", in USENIX HotCloud 2016.
-<a href="https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/yu">https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/yu</a></li>
+ 	<li>D. Yu, L. Mai, S. Arianfar, R. Fonseca, O. Krieger, D. Oran, <a href="https://www.usenix.org/conference/hotcloud16/workshop-program/presentation/yu">"Towards a Network Marketplace in a Cloud"</a>, in USENIX HotCloud 2016.</li>
 </ul>
 <ul>
- 	<li>P. Desnoyers, J. Hennessey, B. Holden, O. Krieger, L. Rudolph and A. Young, "Using Open Stack for an Open Cloud Exchange(OCX)," <em>Cloud Engineering (IC2E), 2015 IEEE International Conference on</em>, Tempe, AZ, 2015, pp. 48-53. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808</a></li>
+ 	<li>P. Desnoyers, J. Hennessey, B. Holden, O. Krieger, L. Rudolph and A. Young, <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7092898&amp;isnumber=7092808">"Using Open Stack for an Open Cloud Exchange(OCX),"</a> <em>Cloud Engineering (IC2E), 2015 IEEE International Conference on</em>, Tempe, AZ, 2015, pp. 48-53.</li>
 </ul>
 <ul>
- 	<li>A. Bestavros and O. Krieger, "Toward an Open Cloud Marketplace: Vision and First Steps," in <em>IEEE Internet Computing</em>, vol. 18, no. 1, pp. 72-77, Jan.-Feb. 2014. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719</a></li>
+ 	<li>A. Bestavros and O. Krieger, <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6756876&amp;isnumber=6756719">"Toward an Open Cloud Marketplace: Vision and First Steps,"</a> in <em>IEEE Internet Computing</em>, vol. 18, no. 1, pp. 72-77, Jan.-Feb. 2014.</li>
 </ul>
 <ul>
- 	<li>J. Hennessey, C. Hill, I. Denhardt, V. Venugopal, G. Silvis, O. Krieger, and P. Desnoyers, “Hardware as a service – enabling dynamic, user-level bare metal provisioning of pools of data center resources.,” in <i>2014 IEEE High Performance Extreme Computing Conference</i>, Waltham, MA, USA, 2014. [<a href="https://open.bu.edu/handle/2144/11221">Open BU</a>, <a href="https://open.bu.edu/bitstream/handle/2144/11221/haas.pdf?sequence=1&amp;isAllowed=y">PDF</a>].</li>
+ 	<li>J. Hennessey, C. Hill, I. Denhardt, V. Venugopal, G. Silvis, O. Krieger, and P. Desnoyers, <a href="https://open.bu.edu/bitstream/handle/2144/11221/haas.pdf?sequence=1&amp;isAllowed=y">“Hardware as a service – enabling dynamic, user-level bare metal provisioning of pools of data center resources.,”</a> in <i>2014 IEEE High Performance Extreme Computing Conference</i>, Waltham, MA, USA, 2014. [<a href="https://open.bu.edu/handle/2144/11221">Open BU</a>].</li>
 </ul>
 &nbsp;
 <h1>Talks</h1>
@@ -129,5 +124,5 @@ post_date: 2016-03-25 18:28:13
 <h2></h2>
 <h1>Posters</h1>
 <ul>
- 	<li>Mohan, Apoorve, Rohan Garg, Said Taazi, and Gene Cooperman. “Recycling Lost CPU Cycles: Managing Multiple Many-core Jobs.” 3rd Annual New England Network and Systems Day (NENS 2017).</li>
+ 	<li>Mohan, Apoorve, Rohan Garg, Said Taazi, and Gene Cooperman. <a href="https://apoorvemohan.github.io/media/imgs/nens2017.png">“Recycling Lost CPU Cycles: Managing Multiple Many-core Jobs.”</a> 3rd Annual New England Network and Systems Day (NENS 2017).</li>
 </ul>
