@@ -11,7 +11,7 @@ post_date: 2016-03-25 18:28:13
 ---
 <h1>Publications</h1>
 <ul>
- 	<li>Mosayyebzadeh, Amin, Gerardo Ravago, Apoorve Mohan, Ali Raza, Sahil Tikale, Nabil Schear, Trammell Hudson et al. "A Secure Cloud with Minimal Provider Trust." In 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18). USENIX} Association, 2018.</li>
+ 	<li><a href="https://www.usenix.org/conference/hotcloud18/presentation/mosayyebzadeh">Mosayyebzadeh, Amin, Gerardo Ravago, Apoorve Mohan, Ali Raza, Sahil Tikale, Nabil Schear, Trammell Hudson et al. "A Secure Cloud with Minimal Provider Trust." In 10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18). USENIX} Association, 2018.</a></li>
 </ul>
 <ul>
  	<li>Mohan, Apoorve, Ata Turk, Ravi S. Gudimetla, Sahil Tikale, Jason Hennessey, Emine Ugur Kaynar, Gene Cooperman, Peter Desnoyers, and Orran Krieger. “M2: Malleable Metal as a Service.” 2018 IEEE International Conference on Cloud Engineering (IC2E)(2018): 61-71.</li>
