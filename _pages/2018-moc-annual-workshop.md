@@ -34,6 +34,58 @@ The MOC is now inviting members of the MOC Community to submit proposals for 10-
 
 <hr />
 
+<strong>October 30, 2018 – Main Workshop</strong>
+
+<em>Location</em>
+George Sherman Union
+Metcalf Audtorium (2nd floor)
+Boston University
+775 Commonwealth Avenue
+Boston, MA 02215
+
+<em>Agenda and Schedule </em>
+<table style="width: 1184px">
+<tbody>
+<tr>
+<td style="width: 123.111px"><strong>7:30 – 8:00 AM</strong></td>
+<td style="width: 1045.78px"><strong>Check-in and Breakfast </strong></td>
+</tr>
+<tr>
+<td style="width: 123.111px"><strong>8:00 – 6:00 PM</strong></td>
+<td style="width: 1045.78px"><b>MOC Workshop </b></td>
+</tr>
+<tr>
+<td style="width: 123.111px"><strong>6:00 - 7:00 PM</strong></td>
+<td style="width: 1045.78px"><b>Reception</b></td>
+</tr>
+</tbody>
+</table>
+Details to be added soon!
+
+&nbsp;
+
+<hr />
+
+<strong>October 4, 2017 – Tutorials and (Invitation-Only) Meeting of the MOC Academic Advisory Board and Core Partners</strong>
+
+<strong><em>Events</em></strong>
+
+<strong><em>Special Meeting of the Academic Advisory Board and Core Partner Executives</em></strong>
+<ul>
+ 	<li>8AM – 1PM</li>
+ 	<li>Invitation only</li>
+ 	<li>Location: Center for Integrated Life Sciences and Engineering, 610 Commonwealth Ave., Boston, MA 02215</li>
+</ul>
+<strong><em>Tutorial Sessions</em> </strong>
+<ul>
+ 	<li>Open to all interested parties that register in advance</li>
+ 	<li>9:00 AM – 12:00 PM</li>
+ 	<li>Three sessions will be offered back-to-back in the same room.  You are welcome to come attend as many of the sessions as you’d like and you are welcome leave and return.</li>
+</ul>
+The three tutorial sessions will be announced soon.
+
+<hr />
+
 <strong>Getting Around and Staying in Boston
 </strong>
 <ul>
