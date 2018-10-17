@@ -117,7 +117,7 @@ Boston, MA 02215
 <ul>
  	<li><em>Creating isolation in the Cloud</em> - Kerry Long, IARPA</li>
  	<li><em>Malleable Metal: Integrating San-booting with Foreman</em> - Ian Ballou, BU/MOC</li>
- 	<li><span>Agentless bare metal introspection - Apoorve Mohan, NEU/MOC</span></li>
+ 	<li>Agentless bare metal introspection - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
  	<li>Rushi Patel, BU</li>
  	<li>David Starobinski, BU &amp; Sahil Tikale, BU/MOC</li>
@@ -156,8 +156,7 @@ Boston, MA 02215
 <ul>
  	<li>Roundtables TBA</li>
 </ul>
-<strong>
-</strong></td>
+</td>
 </tr>
 <tr>
 <td style="width: 118.667px"><strong>5:20 - 5:40 PM</strong></td>
@@ -177,7 +176,7 @@ Boston, MA 02215
 
 <hr />
 
-<strong>October 4, 2017 – Tutorials and (Invitation-Only) Meeting of the MOC Academic Advisory Board and Core Partners</strong>
+<strong>October 31, 2018 – Tutorials and (Invitation-Only) Meeting of the MOC Academic Advisory Board and Core Partners</strong>
 
 <strong><em>Events</em></strong>
 
