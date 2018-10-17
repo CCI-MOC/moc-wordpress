@@ -41,7 +41,7 @@ Boston, MA 02215
 7:30 AM - 7:00 PM
 
 <em>Agenda and Schedule </em>
-<table style="width: 1184px;height: 751px">
+<table style="width: 1184px;height: 847px">
 <tbody>
 <tr style="height: 18px">
 <td style="width: 141.778px;height: 18px"><strong>7:30 - 8:00 </strong></td>
@@ -94,11 +94,11 @@ Boston, MA 02215
 <td style="width: 141.778px;height: 173px"><strong> </strong></td>
 <td style="width: 1027.11px;height: 173px">
 <ul>
- 	<li><em>Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</em> - Hugh Brock, Red Hat <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</a> - Hugh Brock, Red Hat</li>
  	<li>Kristi Nikolla, BU/MOC</li>
  	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
- 	<li><em>Bump-in-the-Wire FPGAs and HPC in the Cloud -</em> Ahmed Sanaullah, BU <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
- 	<li><em>Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</em> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat  <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Bump-in-the-Wire FPGAs and HPC in the Cloud</a> <em>-</em> Ahmed Sanaullah, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
  	<li><em>D3N: A multi-layer cache for improving big-data applications’ performance in data centers with imbalanced networks - </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
  	<li>Q&amp;A Panel</li>
 </ul>
@@ -116,7 +116,7 @@ Boston, MA 02215
 <td style="width: 141.778px;height: 18px"><strong> </strong></td>
 <td style="width: 1027.11px;height: 18px">
 <ul>
- 	<li><em>Creating isolation in the Cloud</em> - Kerry Long, IARPA  <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Long-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Long-Abstract-and-Bio.pdf">Creating Isolation in the Cloud</a> - Kerry Long, IARPA</li>
  	<li><em>Malleable Metal: Integrating San-booting with Foreman</em> - Ian Ballou, BU/MOC</li>
  	<li>Agentless bare metal introspection - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
@@ -138,7 +138,7 @@ Boston, MA 02215
  	<li><em>Secure Multi-Party Computation in the Cloud</em> - Ben Getchell, BU</li>
  	<li><em>FaaS: Think Outside the Container</em> - Tommy Unger, BU</li>
  	<li><em>A demonstration of adapting HW to SW needs for network workloads</em> - Han Dong, BU</li>
- 	<li><em>A Unikernel based on Linux</em> - Ali Raza, BU &amp; Parul Sohal, BU <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sohal-and-Raza-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
+ 	<li><em>A Unikernel based on Linux</em> - Ali Raza, BU &amp; Parul Sohal, BU</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
@@ -151,25 +151,25 @@ Boston, MA 02215
 <td style="width: 141.778px;height: 18px"><strong>4:20 - 5:20 </strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Roundtables</strong></td>
 </tr>
-<tr>
-<td style="width: 141.778px"><strong> </strong></td>
-<td style="width: 1027.11px">
+<tr style="height: 42px">
+<td style="width: 141.778px;height: 42px"><strong> </strong></td>
+<td style="width: 1027.11px;height: 42px">
 <ul>
  	<li>Roundtables TBA</li>
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 141.778px"><strong>5:20 - 5:40</strong></td>
-<td style="width: 1027.11px"><strong>Roundtable Report Outs</strong></td>
+<tr style="height: 18px">
+<td style="width: 141.778px;height: 18px"><strong>5:20 - 5:40</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Roundtable Report Outs</strong></td>
 </tr>
-<tr>
-<td style="width: 141.778px"><strong>5:40 - 5:50</strong></td>
-<td style="width: 1027.11px"><strong>Closing Remarks</strong></td>
+<tr style="height: 18px">
+<td style="width: 141.778px;height: 18px"><strong>5:40 - 5:50</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Closing Remarks</strong></td>
 </tr>
-<tr>
-<td style="width: 141.778px"><strong>5:50 - 7:00</strong></td>
-<td style="width: 1027.11px"><strong>Reception</strong></td>
+<tr style="height: 18px">
+<td style="width: 141.778px;height: 18px"><strong>5:50 - 7:00</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Reception</strong></td>
 </tr>
 </tbody>
 </table>
