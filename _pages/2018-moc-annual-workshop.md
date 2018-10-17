@@ -136,7 +136,7 @@ Boston, MA 02215
 <ul>
  	<li><em>Medical Image Processing on the MOC</em> - Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
  	<li><em>Secure Multi-Party Computation in the Cloud</em> - Ben Getchell, BU</li>
- 	<li><em>FaaS: Think Outside the Container</em> - Tommy Unger, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf">FaaS: Think Outside the Container </a>- Tommy Unger, BU</li>
  	<li><em>A demonstration of adapting HW to SW needs for network workloads</em> - Han Dong, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sohal-and-Raza-Abstract-and-Bio.pdf">A Unikernel based on Linux</a> - Ali Raza, BU &amp; Parul Sohal, BU</li>
  	<li>Q&amp;A Panel</li>
