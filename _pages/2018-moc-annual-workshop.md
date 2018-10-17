@@ -71,7 +71,7 @@ Boston, MA 02215
 <td style="width: 141.778px;height: 173px"><strong> </strong></td>
 <td style="width: 1027.11px;height: 173px">
 <ul>
- 	<li>Jim Culbert, MGHPCC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a> - Jim Culbert, MGHPCC</li>
  	<li>Lars Kellogg-Stedman, Red Hat</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a> - Dave Cohen, Intel</li>
  	<li>Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
