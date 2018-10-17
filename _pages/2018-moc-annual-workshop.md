@@ -58,7 +58,7 @@ Boston, MA 02215
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
  	<li>OCX Vision</li>
- 	<li>Keynote - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
+ 	<li>Keynote: <em>Scaling Challenges at Two Sigma</em> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments <a href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf"><em>Abstract and Bio</em></a></li>
 </ul>
 </td>
 </tr>
