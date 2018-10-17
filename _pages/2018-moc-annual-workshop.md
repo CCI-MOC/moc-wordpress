@@ -172,7 +172,9 @@ Boston, MA 02215
 </tr>
 </tbody>
 </table>
-&nbsp;
+<ul>
+ 	<li><em>Please note the details above are subject to change.  Additional information will continue to be added as it becomes available.</em></li>
+</ul>
 
 <hr />
 
