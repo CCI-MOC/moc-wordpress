@@ -43,17 +43,17 @@ Boston, MA 02215
 <table style="width: 1184px;height: 751px">
 <tbody>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>7:30 - 8:00 AM</strong></td>
-<td style="width: 1050.22px;height: 18px"><strong>Check-in and Breakfast </strong></td>
+<td style="width: 141.778px;height: 18px"><strong>7:30 - 8:00 AM</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Check-in and Breakfast </strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>8:00 - 8:50 AM</strong><strong>
+<td style="width: 141.778px;height: 18px"><strong>8:00 - 8:50 AM</strong><strong>
 </strong></td>
-<td style="width: 1050.22px;height: 18px"><strong>Welcome and Overview</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Welcome and Overview</strong></td>
 </tr>
 <tr style="height: 72px">
-<td style="width: 118.667px;height: 72px"><strong> </strong></td>
-<td style="width: 1050.22px;height: 72px">
+<td style="width: 141.778px;height: 72px"><strong> </strong></td>
+<td style="width: 1027.11px;height: 72px">
 <ul>
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
@@ -63,12 +63,12 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>8:50 - 10:25 AM</strong></td>
-<td style="width: 1050.22px;height: 18px"><b>Micro-talks: What's Coming on the MOC</b></td>
+<td style="width: 141.778px;height: 18px"><strong>8:50 - 10:25 AM</strong></td>
+<td style="width: 1027.11px;height: 18px"><b>Micro-talks: What's Coming on the MOC</b></td>
 </tr>
 <tr style="height: 173px">
-<td style="width: 118.667px;height: 173px"><strong> </strong></td>
-<td style="width: 1050.22px;height: 173px">
+<td style="width: 141.778px;height: 173px"><strong> </strong></td>
+<td style="width: 1027.11px;height: 173px">
 <ul>
  	<li>Jim Culbert, MGHPCC</li>
  	<li>Lars Kellogg-Stedman, Red Hat</li>
@@ -82,16 +82,16 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>10:25 - 10:55 AM</strong></td>
-<td style="width: 1050.22px;height: 18px"><b>Break</b></td>
+<td style="width: 141.778px;height: 18px"><strong>10:25 - 10:55 AM</strong></td>
+<td style="width: 1027.11px;height: 18px"><b>Break</b></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>10:55 - 12:10 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><b>Micro-talks: Research in an Open Cloud</b></td>
+<td style="width: 141.778px;height: 18px"><strong>10:55 - 12:10 PM</strong></td>
+<td style="width: 1027.11px;height: 18px"><b>Micro-talks: Research in an Open Cloud</b></td>
 </tr>
 <tr style="height: 173px">
-<td style="width: 118.667px;height: 173px"><strong> </strong></td>
-<td style="width: 1050.22px;height: 173px">
+<td style="width: 141.778px;height: 173px"><strong> </strong></td>
+<td style="width: 1027.11px;height: 173px">
 <ul>
  	<li><em>Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</em> - Hugh Brock, Red Hat <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
  	<li>Kristi Nikolla, BU/MOC</li>
@@ -104,16 +104,16 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>12:10 - 1:30 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><strong>Lunch &amp; Networking</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>12:10 - 1:30 PM</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Lunch &amp; Networking</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>1:30 - 2:45 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><strong>Micro-talks: Elastic Hardware and Security</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>1:30 - 2:45 PM</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Micro-talks: Elastic Hardware and Security</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong> </strong></td>
-<td style="width: 1050.22px;height: 18px">
+<td style="width: 141.778px;height: 18px"><strong> </strong></td>
+<td style="width: 1027.11px;height: 18px">
 <ul>
  	<li><em>Creating isolation in the Cloud</em> - Kerry Long, IARPA  <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Long-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
  	<li><em>Malleable Metal: Integrating San-booting with Foreman</em> - Ian Ballou, BU/MOC</li>
@@ -126,12 +126,12 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>2:45 - 3:50 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><strong>Micro-talks: Research on an Open Cloud</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>2:45 - 3:50 PM</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Micro-talks: Research on an Open Cloud</strong></td>
 </tr>
 <tr style="height: 135px">
-<td style="width: 118.667px;height: 135px"><strong> </strong></td>
-<td style="width: 1050.22px;height: 135px">
+<td style="width: 141.778px;height: 135px"><strong> </strong></td>
+<td style="width: 1027.11px;height: 135px">
 <ul>
  	<li><em>Medical Image Processing on the MOC</em> - Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
  	<li><em>Secure Multi-Party Computation in the Cloud</em> - Ben Getchell, BU</li>
@@ -143,32 +143,32 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>3:50 - 4:20 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><strong>Break</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>3:50 - 4:20 PM</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Break</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>4:20 - 5:20 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><strong>Roundtables</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>4:20 - 5:20 PM</strong></td>
+<td style="width: 1027.11px;height: 18px"><strong>Roundtables</strong></td>
 </tr>
 <tr>
-<td style="width: 118.667px"><strong> </strong></td>
-<td style="width: 1050.22px">
+<td style="width: 141.778px"><strong> </strong></td>
+<td style="width: 1027.11px">
 <ul>
  	<li>Roundtables TBA</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td style="width: 118.667px"><strong>5:20 - 5:40 PM</strong></td>
-<td style="width: 1050.22px"><strong>Roundtable Report Outs</strong></td>
+<td style="width: 141.778px"><strong>5:20 - 5:40 PM</strong></td>
+<td style="width: 1027.11px"><strong>Roundtable Report Outs</strong></td>
 </tr>
 <tr>
-<td style="width: 118.667px"><strong>5:40 - 5:50 PM</strong></td>
-<td style="width: 1050.22px"><strong>Closing Remarks</strong></td>
+<td style="width: 141.778px"><strong>5:40 - 5:50 PM</strong></td>
+<td style="width: 1027.11px"><strong>Closing Remarks</strong></td>
 </tr>
 <tr>
-<td style="width: 118.667px"><strong>5:50 - 6:50 PM</strong></td>
-<td style="width: 1050.22px"><strong>Reception</strong></td>
+<td style="width: 141.778px"><strong>5:50 - 6:50 PM</strong></td>
+<td style="width: 1027.11px"><strong>Reception</strong></td>
 </tr>
 </tbody>
 </table>
