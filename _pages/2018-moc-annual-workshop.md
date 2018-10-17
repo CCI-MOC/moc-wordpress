@@ -72,7 +72,7 @@ Boston, MA 02215
 <ul>
  	<li>Jim Culbert, MGHPCC</li>
  	<li>Lars Kellogg-Stedman, Red Hat</li>
- 	<li><em>Intel’s Data Management Platform @MOC</em> - Dave Cohen, Intel</li>
+ 	<li><em>Intel’s Data Management Platform @MOC</em> - Dave Cohen, Intel <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
  	<li>Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Mercé Crosas, Harvard University</li>
  	<li><em>Using the Mass Open Cloud to perform Data Science Experiments</em> - Steven Huels, Red Hat <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Abstract and Bio</a></em></li>
@@ -93,7 +93,7 @@ Boston, MA 02215
 <td style="width: 118.667px;height: 173px"><strong> </strong></td>
 <td style="width: 1050.22px;height: 173px">
 <ul>
- 	<li><em>Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</em> - Hugh Brock, Red Hat</li>
+ 	<li><em>Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</em> - Hugh Brock, Red Hat <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
  	<li>Kristi Nikolla, BU/MOC</li>
  	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
  	<li><em>Bump-in-the-Wire FPGAs and HPC in the Cloud -</em> Ahmed Sanaullah, BU <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
