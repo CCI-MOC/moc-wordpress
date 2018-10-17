@@ -40,19 +40,20 @@ Boston University
 Boston, MA 02215
 
 <em>Agenda and Schedule </em>
-<table style="width: 1184px;height: 211px">
+<table style="width: 1184px;height: 144px">
 <tbody>
 <tr style="height: 18px">
 <td style="width: 118.667px;height: 18px"><strong>7:30 - 8:00 AM</strong></td>
 <td style="width: 1050.22px;height: 18px"><strong>Check-in and Breakfast </strong></td>
 </tr>
-<tr style="height: 157px">
-<td style="width: 118.667px;height: 157px"><strong>8:00 - 8:50 AM</strong>
-
-&nbsp;
-
-&nbsp;</td>
-<td style="width: 1050.22px;height: 157px"><strong>Welcome and Overview</strong>
+<tr style="height: 18px">
+<td style="width: 118.667px;height: 18px"><strong>8:00 - 8:50 AM</strong><strong>
+</strong></td>
+<td style="width: 1050.22px;height: 18px"><strong>Welcome and Overview</strong></td>
+</tr>
+<tr style="height: 72px">
+<td style="width: 118.667px;height: 72px"><strong> </strong></td>
+<td style="width: 1050.22px;height: 72px">
 <ul>
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
@@ -61,36 +62,46 @@ Boston, MA 02215
 </ul>
 </td>
 </tr>
+<tr style="height: 18px">
+<td style="width: 118.667px;height: 18px"><strong>8:50 - 10:25 AM</strong></td>
+<td style="width: 1050.22px;height: 18px"><b>Micro-Talks: What's Coming on the MOC</b></td>
+</tr>
 <tr>
-<td style="width: 118.667px"><strong>8:50 - 10:25 AM</strong>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;</td>
-<td style="width: 1050.22px"><b>Micro-Talks: What's Coming on the MOC</b>
+<td style="width: 118.667px"><strong> </strong></td>
+<td style="width: 1050.22px">
 <ul>
  	<li>Jim Culbert, MGHPCC</li>
  	<li>Lars Kellogg-Stedman, Red Hat</li>
- 	<li>Intel’s Data Management Platform @MOC - Dave Cohen, Intel</li>
+ 	<li><em>Intel’s Data Management Platform @MOC</em> - Dave Cohen, Intel</li>
  	<li>Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Mercé Crosas, Harvard University</li>
- 	<li>Using the Mass Open Cloud to perform Data Science Experiments - Steven Huels, Red Hat</li>
- 	<li>Making the MOC self-sustaining - Michael Daitzman, BU/MOC</li>
+ 	<li><em>Using the Mass Open Cloud to perform Data Science Experiments</em> - Steven Huels, Red Hat</li>
+ 	<li><em>Making the MOC self-sustaining</em> - Michael Daitzman, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>8:00 - 6:00 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><b>MOC Workshop </b></td>
+<td style="width: 118.667px;height: 18px"><strong>10:25 - 10:55 AM</strong></td>
+<td style="width: 1050.22px;height: 18px"><b>Break</b></td>
 </tr>
-<tr style="height: 18px">
-<td style="width: 118.667px;height: 18px"><strong>6:00 - 7:00 PM</strong></td>
-<td style="width: 1050.22px;height: 18px"><b>Reception</b></td>
+<tr>
+<td style="width: 118.667px"><strong>10:55 - 12:10 PM</strong></td>
+<td style="width: 1050.22px"><b>Micro-Talks: Research in an Open Cloud</b></td>
+</tr>
+<tr>
+<td style="width: 118.667px"><strong> </strong></td>
+<td style="width: 1050.22px">
+<ul>
+ 	<li><em>Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</em> - Hugh Brock, Red Hat</li>
+ 	<li>Kristi Nikolla, BU/MOC</li>
+ 	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
+ 	<li><em>Bump-in-the-Wire FPGAs and HPC in the Cloud -</em> Ahmed Sanaullah, BU</li>
+ 	<li><em>Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</em> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
+ 	<li><em>D3N: A multi-layer cache for improving big-data applications’ performance in data centers with imbalanced networks - </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
+ 	<li>Q&amp;A Panel</li>
+</ul>
+</td>
 </tr>
 </tbody>
 </table>
