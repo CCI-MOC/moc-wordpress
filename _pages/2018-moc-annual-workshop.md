@@ -138,7 +138,7 @@ Boston, MA 02215
  	<li><em>FaaS: Think Outside the Container</em> - Tommy Unger, BU</li>
  	<li><em>A demonstration of adapting HW to SW needs for network workloads</em> - Han Dong, BU</li>
  	<li>A Unikernel based on Linux - Ali Raza, BU &amp; Parul Sohal, BU</li>
- 	<li>Panel Q&amp;A</li>
+ 	<li>Q&amp;A Panel</li>
 </ul>
 </td>
 </tr>
