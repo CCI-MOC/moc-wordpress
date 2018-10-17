@@ -70,13 +70,15 @@ Over the past year there have been significant advances in the core MOC developm
  	<li>Sahil Tikale, Naved Ansari, MOC and Boston University, and Sourabh Bollapragada, MOC and Northeastern University,<em> Hardware Isolation Layer (HIL) &amp; Bare Metal Imaging (BMI) </em><a href="https://massopen.cloud/wp-content/uploads/2017/09/Naved-Sahil-Bios.pdf">Bios</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/4.-Tikale-Ansari-and-Bollapragada-1.pdf">Slides</a></li>
  	<li>Lucas Xu, MOC, <em>MOC Simple GUI:GIJI</em> <a href="https://massopen.cloud/wp-content/uploads/2017/09/Lucas-Xu-Abstract-and-Bio.pdf">Abstract and Bio</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/6.-Xu.pdf">Slides</a></li>
 </ul>
-<strong>9:40 - 10:00 AM</strong><strong>Break</strong><strong>10:00 - 10:20 AM</strong><strong>Micro-Talks: Related Initiatives</strong>
+<strong>9:40 - 10:00 AM  </strong><strong>Break</strong>
+
+<strong>10:00 - 10:20 AM  </strong><strong>Micro-Talks: Related Initiatives</strong>
 This session will focus on initiatives with connections to the MOC.
 <ul>
  	<li>Jim Culbert, MGHPCC, <em>MGHPCC as a Platform for MOC</em> <a href="https://massopen.cloud/wp-content/uploads/2017/09/Culbert-Abstract-and-Bio.pdf">Abstract and Bio</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/1.-Culbert.pdf">Slides</a></li>
  	<li>Saul Youssef, Boston University, <em>Large Scale Shared Regional Storage for the Northeast </em><a href="https://massopen.cloud/wp-content/uploads/2017/09/S.-Youssef-Abstract-and-Bio.pdf">Abstract and Bio</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/2.-Youssef.pdf">Slides</a></li>
 </ul>
-<strong>10:20 - 10:25 AM</strong><strong>MOC Team and Alum Video</strong><strong>10:25 - 11:05 AM</strong><strong>Micro-Talks: Key User Stories I</strong>
+<strong>10:20 - 10:25 AM  </strong><strong>MOC Team and Alum Video</strong><strong>10:25 - 11:05 AM</strong><strong>Micro-Talks: Key User Stories I</strong>
 The MOC today supports a growing and diverse community of users. This session highlights some of the current uses of the MOC  as well as some of the user stories that are driving our evolution.
 <ul>
  	<li>Chris Hill, MIT, <em>Deploying HIL as an automated self-service isolation tool in a Slurm HPC environment </em><a href="https://massopen.cloud/wp-content/uploads/2017/09/Hill-Bio-and-Abstract.pdf">Abstract and Bio</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/1.-Hill.pdf">Slides</a></li>
@@ -84,7 +86,7 @@ The MOC today supports a growing and diverse community of users. This session hi
  	<li>Ben Lewis, Harvard University and Aaron Williams, MapD, <em>Building systems for harvesting, storing, and analyzing big data in support of research </em><a href="https://massopen.cloud/wp-content/uploads/2017/09/Lewis-and-Bios.pdf">Bios</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/3.-Lewis-and-WIlliams.pdf">Slides</a></li>
  	<li>Larry Rudolph, Two Sigma, Trammell Hudson, Two Sigma and Nabil Schear, MIT Lincoln Lab, <em>Secure Cloud/Bolted, </em><a href="https://massopen.cloud/wp-content/uploads/2016/01/4.-Rudolph-Hudson-and-Schear.pdf">Slides</a></li>
 </ul>
-<strong>11:10 - 11:50 AM</strong><strong>Topic Roundtables I</strong>
+<strong>11:10 - 11:50 AM  </strong><strong>Topic Roundtables I</strong>
 Topic Roundtables provide an opportunity to participate in a deeper open discussion on a specific topic.  Select one topic during this session.
 <ul>
  	<li>Big Data and Machine Learning
@@ -103,7 +105,7 @@ Topic Roundtables provide an opportunity to participate in a deeper open discuss
 </ul>
 </li>
 </ul>
-<strong>11:50 - 1:00 PM</strong><strong>Lunch, Posters and Networking</strong><span style="font-weight: 400">
+<strong>11:50 - 1:00 PM   </strong><strong>Lunch, Posters and Networking</strong><span style="font-weight: 400">
 Posters will be on display throughout the floor. Attendees are encouraged to find speakers to ask questions or go deeper than what was covered in the talk.</span><strong>1:05 - 2:05 PM</strong><strong>Micro-Talks: Cloud Infrastructure Research</strong> <span style="font-weight: 400">
 The MOC has created an open platform that enables cloud research and innovation. During this session we will hear from several research teams about their research and its connections to the MOC.</span>
 <ul>
@@ -114,13 +116,15 @@ The MOC has created an open platform that enables cloud research and innovation.
  	<li>Emine Ugur Kaynar, MOC and Boston University, Mania Abdi and Mohammad Hajkazemi, MOC and Northeastern University, <em>D3N: A Datacenter-scale Data Delivery Network  </em><a href="https://massopen.cloud/wp-content/uploads/2017/09/D3N-Bios.pdf">Bios</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/5.-Kaynar-Mania-and-Hajkazemi.pdf">Slides</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/D3N-e.pdf">e-board</a></li>
  	<li>Rodrigo Fonseca, Brown University, <em>FlexNet: Enabling Flexible Datacenter Networks </em><a href="https://massopen.cloud/wp-content/uploads/2016/01/6.-MOC-2017-Fonseca-Networking.pdf">Slides</a></li>
 </ul>
-<strong>2:05 - 2:15 PM</strong><strong>Break </strong><strong>2:15 - 2:20 PM</strong><strong>MOC Team and Alum Video</strong><strong>2:20 - 2:25 PM</strong>
+<strong>2:05 - 2:15 PM  </strong><strong>Break</strong>
 
-<strong>IBM Announcement</strong>
+<strong> </strong><strong>2:15 - 2:20 PM  </strong><strong>MOC Team and Alum Video</strong>
+
+<strong>2:20 - 2:25 PM  </strong><strong>IBM Announcement</strong>
 <ul>
  	<li>Fred Allman, IBM</li>
 </ul>
-<strong>2:25 - 3:20 PM</strong><strong>Micro-Talks: Key User Stories II</strong>
+<strong>2:25 - 3:20 PM  </strong><strong>Micro-Talks: Key User Stories II</strong>
 The MOC today supports a growing and diverse community of users. This session highlights some of the current uses of the MOC  as well as some of the user stories that are driving our evolution.
 <ul>
  	<li>Mike Weintraub, Northeastern University, <em>Using Mass Open.Cloud for Course Infrastructure</em> <a href="https://massopen.cloud/wp-content/uploads/2017/09/Michael-Weintraub-bio.pdf">Bio</a>, <a href="https://massopen.cloud/wp-content/uploads/2016/01/1.-Weintraub.pdf">Slides</a></li>
@@ -135,7 +139,7 @@ The MOC today supports a growing and diverse community of users. This session hi
 <ul>
  	<li>Tim Connelly, Executive Director, Massachusetts Technology Collaborative, <em>Economic Development in the Digital Age</em> <a href="https://massopen.cloud/wp-content/uploads/2017/09/Connelly-Abstract.pdf">Abstract</a>, <a href="https://massopen.cloud/wp-content/uploads/2017/09/Tim-Connelly-Bio-PDF.pdf">Bio</a></li>
 </ul>
-<strong>3:40 - 4:20 PM</strong><strong>Topic Roundtables II</strong>
+<strong>3:40 - 4:20 PM  </strong><strong>Topic Roundtables II</strong>
 Topic Roundtables provide an opportunity to participate in a deeper open discussion on a specific topic.  Select one topic during this session.
 <ul>
  	<li>Use Cases
@@ -154,7 +158,11 @@ Topic Roundtables provide an opportunity to participate in a deeper open discuss
 </ul>
 </li>
 </ul>
-<strong>4:20 - 4:30 PM</strong><strong>Break</strong><strong>4:30 - 4:35 PM</strong><strong>MOC Team Video</strong><strong>4:35 - 5:25 PM</strong><strong>Industry Updates and Core Partner Pane</strong>l
+<strong>4:20 - 4:30 PM  </strong><strong>Break</strong><strong>4:30 - 4:35 PM  </strong>
+
+<strong>MOC Team Video</strong>
+
+<strong>4:35 - 5:25 PM </strong><strong>Industry Updates and Core Partner Pane</strong>l
 Partners have been integral to the success of the MOC.  During this segment, we will feature Industry updates and hear directly from the MOC's partners.
 <ul>
  	<li>Video, Rory McNeil, RSpace</li>
@@ -168,9 +176,9 @@ The Core Partner Panel will feature the representative from the MOC Core Partne
  	<li>Gretchen Stewart, Intel</li>
  	<li>Leon Zachary, Cisco</li>
 </ul>
-<strong>5:25 - 5:35 PM</strong><strong>Closing Remarks/Open Floor</strong><strong>5:35 - 6:30 PM</strong>
+<strong>5:25 - 5:35 PM  </strong><strong>Closing Remarks/Open Floor</strong>
 
-<strong>Reception, Posters and Networking</strong>
+<strong>5:35 - 6:30 PM  </strong><strong>Reception, Posters and Networking</strong>
 
 Hariri Institute
 111 Cummington Mall
