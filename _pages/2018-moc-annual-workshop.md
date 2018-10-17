@@ -12,10 +12,6 @@ post_date: 2018-07-12 07:26:48
 <p class="entry-header">The Fourth Annual Mass Open Cloud (MOC) Workshop will be held on October 30-31, 2018 at Boston University. The MOC workshop welcomes users of the MOC, researchers and startups interested in cloud computing, students, and industry partners.  The workshop provides an opportunity for the MOC's growing and active community to learn about the latest MOC developments, help shape the priorities of the project moving forward and kick-off new collaborations.</p>
 <span style="color: #0000ff"><strong><a href="https://goo.gl/forms/Odoo53AIpieStTBx2">Click Here to Register for the Workshop</a></strong></span>
 
-The MOC is now inviting members of the MOC Community to submit proposals for 10-minute Ted-style talks, posters, and facilitated roundtables.  Please fill out the form below by Friday September 21.  If you have questions or need more time, contact <a href="jstacy@bu.edu">Jennifer Stacy</a>.
-
-<span style="color: #0000ff"><strong><a href="https://goo.gl/forms/6i2yoFQDaE7OiNmz1">Click Here to Submit a Talk, Poster, or Roundtable Proposal</a></strong></span>
-
 <span style="font-weight: 400">The workshop is designed to engage parties with interest in the MOC – it does not matter if you have been a part of the MOC’s development from the start, or are just hearing about it and want to learn more. The workshop segments are described below:</span>
 
 <b>October 30</b>
@@ -44,23 +40,61 @@ Boston University
 Boston, MA 02215
 
 <em>Agenda and Schedule </em>
-<table style="width: 1184px">
+<table style="width: 1184px;height: 211px">
 <tbody>
-<tr>
-<td style="width: 123.111px"><strong>7:30 – 8:00 AM</strong></td>
-<td style="width: 1045.78px"><strong>Check-in and Breakfast </strong></td>
+<tr style="height: 18px">
+<td style="width: 118.667px;height: 18px"><strong>7:30 - 8:00 AM</strong></td>
+<td style="width: 1050.22px;height: 18px"><strong>Check-in and Breakfast </strong></td>
+</tr>
+<tr style="height: 157px">
+<td style="width: 118.667px;height: 157px"><strong>8:00 - 8:50 AM</strong>
+
+&nbsp;
+
+&nbsp;</td>
+<td style="width: 1050.22px;height: 157px"><strong>Welcome and Overview</strong>
+<ul>
+ 	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
+ 	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
+ 	<li>OCX Vision</li>
+ 	<li>Keynote - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
+</ul>
+</td>
 </tr>
 <tr>
-<td style="width: 123.111px"><strong>8:00 – 6:00 PM</strong></td>
-<td style="width: 1045.78px"><b>MOC Workshop </b></td>
+<td style="width: 118.667px"><strong>8:50 - 10:25 AM</strong>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;</td>
+<td style="width: 1050.22px"><b>Micro-Talks: What's Coming on the MOC</b>
+<ul>
+ 	<li>Jim Culbert, MGHPCC</li>
+ 	<li>Lars Kellogg-Stedman, Red Hat</li>
+ 	<li>Intel’s Data Management Platform @MOC - Dave Cohen, Intel</li>
+ 	<li>Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
+ 	<li>Mercé Crosas, Harvard University</li>
+ 	<li>Using the Mass Open Cloud to perform Data Science Experiments - Steven Huels, Red Hat</li>
+ 	<li>Making the MOC self-sustaining - Michael Daitzman, BU/MOC</li>
+ 	<li>Q&amp;A Panel</li>
+</ul>
+</td>
 </tr>
-<tr>
-<td style="width: 123.111px"><strong>6:00 - 7:00 PM</strong></td>
-<td style="width: 1045.78px"><b>Reception</b></td>
+<tr style="height: 18px">
+<td style="width: 118.667px;height: 18px"><strong>8:00 - 6:00 PM</strong></td>
+<td style="width: 1050.22px;height: 18px"><b>MOC Workshop </b></td>
+</tr>
+<tr style="height: 18px">
+<td style="width: 118.667px;height: 18px"><strong>6:00 - 7:00 PM</strong></td>
+<td style="width: 1050.22px;height: 18px"><b>Reception</b></td>
 </tr>
 </tbody>
 </table>
-Details to be added soon!
+&nbsp;
 
 &nbsp;
 
