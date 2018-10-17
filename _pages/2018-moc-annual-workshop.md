@@ -97,7 +97,7 @@ Boston, MA 02215
  	<li>Kristi Nikolla, BU/MOC</li>
  	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
  	<li><em>Bump-in-the-Wire FPGAs and HPC in the Cloud -</em> Ahmed Sanaullah, BU</li>
- 	<li><em>Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</em> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
+ 	<li><em>Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</em> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
  	<li><em>D3N: A multi-layer cache for improving big-data applications’ performance in data centers with imbalanced networks - </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
  	<li>Q&amp;A Panel</li>
 </ul>
