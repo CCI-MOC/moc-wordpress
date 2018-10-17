@@ -38,16 +38,17 @@ Metcalf Audtorium (2nd floor)
 Boston University
 775 Commonwealth Avenue
 Boston, MA 02215
+7:30 AM - 7:00 PM
 
 <em>Agenda and Schedule </em>
 <table style="width: 1184px;height: 751px">
 <tbody>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>7:30 - 8:00 AM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>7:30 - 8:00 </strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Check-in and Breakfast </strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>8:00 - 8:50 AM</strong><strong>
+<td style="width: 141.778px;height: 18px"><strong>8:00 - 8:50 </strong><strong>
 </strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Welcome and Overview</strong></td>
 </tr>
@@ -58,12 +59,12 @@ Boston, MA 02215
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
  	<li>OCX Vision</li>
- 	<li>Keynote: <em>Scaling Challenges at Two Sigma</em> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments <a href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf"><em>Abstract and Bio</em></a></li>
+ 	<li>Keynote: <a href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
 </ul>
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>8:50 - 10:25 AM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>8:50 - 10:25 </strong></td>
 <td style="width: 1027.11px;height: 18px"><b>Micro-talks: What's Coming on the MOC</b></td>
 </tr>
 <tr style="height: 173px">
@@ -72,21 +73,21 @@ Boston, MA 02215
 <ul>
  	<li>Jim Culbert, MGHPCC</li>
  	<li>Lars Kellogg-Stedman, Red Hat</li>
- 	<li><em>Intel’s Data Management Platform @MOC</em> - Dave Cohen, Intel <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Abstract and Bio</a></em></li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a> - Dave Cohen, Intel</li>
  	<li>Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Mercé Crosas, Harvard University</li>
- 	<li><em>Using the Mass Open Cloud to perform Data Science Experiments</em> - Steven Huels, Red Hat <em><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Abstract and Bio</a></em></li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> - Steven Huels, Red Hat</li>
  	<li><em>Making the MOC self-sustaining</em> - Michael Daitzman, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>10:25 - 10:55 AM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>10:25 - 10:55 </strong></td>
 <td style="width: 1027.11px;height: 18px"><b>Break</b></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>10:55 - 12:10 PM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>10:55 - 12:10</strong></td>
 <td style="width: 1027.11px;height: 18px"><b>Micro-talks: Research in an Open Cloud</b></td>
 </tr>
 <tr style="height: 173px">
@@ -104,11 +105,11 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>12:10 - 1:30 PM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>12:10 - 1:30 </strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Lunch &amp; Networking</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>1:30 - 2:45 PM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>1:30 - 2:45 </strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Micro-talks: Elastic Hardware and Security</strong></td>
 </tr>
 <tr style="height: 18px">
@@ -126,7 +127,7 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>2:45 - 3:50 PM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>2:45 - 3:50 </strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Micro-talks: Research on an Open Cloud</strong></td>
 </tr>
 <tr style="height: 135px">
@@ -143,11 +144,11 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>3:50 - 4:20 PM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>3:50 - 4:20</strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Break</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>4:20 - 5:20 PM</strong></td>
+<td style="width: 141.778px;height: 18px"><strong>4:20 - 5:20 </strong></td>
 <td style="width: 1027.11px;height: 18px"><strong>Roundtables</strong></td>
 </tr>
 <tr>
@@ -159,15 +160,15 @@ Boston, MA 02215
 </td>
 </tr>
 <tr>
-<td style="width: 141.778px"><strong>5:20 - 5:40 PM</strong></td>
+<td style="width: 141.778px"><strong>5:20 - 5:40</strong></td>
 <td style="width: 1027.11px"><strong>Roundtable Report Outs</strong></td>
 </tr>
 <tr>
-<td style="width: 141.778px"><strong>5:40 - 5:50 PM</strong></td>
+<td style="width: 141.778px"><strong>5:40 - 5:50</strong></td>
 <td style="width: 1027.11px"><strong>Closing Remarks</strong></td>
 </tr>
 <tr>
-<td style="width: 141.778px"><strong>5:50 - 6:50 PM</strong></td>
+<td style="width: 141.778px"><strong>5:50 - 7:00</strong></td>
 <td style="width: 1027.11px"><strong>Reception</strong></td>
 </tr>
 </tbody>
