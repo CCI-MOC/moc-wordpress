@@ -12,6 +12,8 @@ post_date: 2018-07-12 07:26:48
 <p class="entry-header">The Fourth Annual Mass Open Cloud (MOC) Workshop will be held on October 30-31, 2018 at Boston University. The MOC workshop welcomes users of the MOC, researchers, and startups interested in cloud computing, students, and industry partners.  The workshop provides an opportunity for the MOC's growing and active community to learn about the latest MOC developments, and help shape the priorities of the project moving forward and kick-off new collaborations.</p>
 <span style="color: #0000ff"><strong><a href="https://goo.gl/forms/Odoo53AIpieStTBx2">Click Here to Register for the Workshop</a></strong></span>
 
+<span style="font-weight: 400"><strong>Please note the registration will be closed on October 22 at 5PM - After that date we will not be able to guarantee we can accomodate any additional registrants.</strong></span>
+
 <span style="font-weight: 400">The workshop is designed to engage parties with interest in the MOC – it does not matter if you have been a part of the MOC’s development from the start, or are just hearing about it and want to learn more. The workshop segments are described below:</span>
 
 <b>October 30</b>
@@ -41,7 +43,7 @@ Boston, MA 02215
 7:30 AM - 7:00 PM
 
 <em>Agenda and Schedule </em>
-<table style="width: 1184px;height: 847px">
+<table style="width: 1184px;height: 837px">
 <tbody>
 <tr style="height: 18px">
 <td style="width: 141.778px;height: 18px"><strong>7:30 - 8:00 </strong></td>
@@ -91,11 +93,10 @@ Boston, MA 02215
 <td style="width: 1027.11px;height: 18px"><b>Micro-talks: Research in an Open Cloud</b></td>
 </tr>
 <tr style="height: 173px">
-<td style="width: 141.778px;height: 173px"><strong> </strong></td>
-<td style="width: 1027.11px;height: 173px">
+<td style="width: 141.778px;height: 163px"><strong> </strong></td>
+<td style="width: 1027.11px;height: 163px">
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</a> - Hugh Brock, Red Hat</li>
- 	<li>Kristi Nikolla, BU/MOC</li>
  	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Bump-in-the-Wire FPGAs and HPC in the Cloud</a> <em>-</em> Ahmed Sanaullah, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
