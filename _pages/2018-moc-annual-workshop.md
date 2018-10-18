@@ -135,7 +135,7 @@ Boston, MA 02215
 <td style="width: 141.778px;height: 135px"><strong> </strong></td>
 <td style="width: 1027.11px;height: 135px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio.pdf">Medical Image Processing on the MOC with ChRIS and OpenShift</a> - Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio-1.pdf">Medical Image Processing on the MOC with ChRIS and OpenShift </a>- Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
  	<li><em>Secure Multi-Party Computation in the Cloud</em> - Ben Getchell, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf">FaaS: Think Outside the Container </a>- Tommy Unger, BU</li>
  	<li><em>A demonstration of adapting HW to SW needs for network workloads</em> - Han Dong, BU</li>
