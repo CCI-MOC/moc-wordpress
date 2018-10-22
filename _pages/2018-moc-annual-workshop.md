@@ -117,7 +117,6 @@ Boston, MA 02215
 <td style="width: 141.778px;height: 18px"><strong> </strong></td>
 <td style="width: 1027.11px;height: 18px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Long-Abstract-and-Bio.pdf">Creating Isolation in the Cloud</a> - Kerry Long, IARPA</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a> - Ian Ballou, BU/MOC</li>
  	<li>Agentless bare metal introspection - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
