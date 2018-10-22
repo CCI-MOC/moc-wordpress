@@ -120,7 +120,7 @@ Boston, MA 02215
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a> - Ian Ballou, BU/MOC</li>
  	<li>Agentless bare metal introspection - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
- 	<li>Rushi Patel, BU</li>
+ 	<li>Strong Isolation, Verification, and Control in Future Public Clouds - Rushi Patel, BU</li>
  	<li>David Starobinski, BU &amp; Sahil Tikale, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
