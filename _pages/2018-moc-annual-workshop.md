@@ -30,8 +30,7 @@ post_date: 2018-07-12 07:26:48
 
 <hr />
 
-<strong>October 30, 2018 – Main Workshop</strong>
-
+<h3><strong>October 30, 2018 – Main Workshop</strong></h3>
 <em>Location</em>
 George Sherman Union
 Metcalf Audtorium (2nd floor)
@@ -39,8 +38,7 @@ Boston University
 775 Commonwealth Avenue
 Boston, MA 02215
 7:30 AM - 7:00 PM
-
-<em>Agenda and Schedule </em>
+<h3><em>Agenda and Schedule </em></h3>
 <table style="width: 1184px;height: 837px">
 <tbody>
 <tr style="height: 18px">
@@ -178,17 +176,20 @@ Boston, MA 02215
 
 <hr />
 
-<strong>October 31, 2018 – Tutorials and (Invitation-Only) Meeting of the MOC Academic Advisory Board and Core Partners</strong>
 
-<span style="text-decoration: underline"><strong><em>Events</em></strong></span>
 
-<strong><em>Special Meeting of the Academic Advisory Board and Core Partner Executives</em></strong>
+<hr />
+
+<h3><strong>October 31, 2018 – Tutorials and (Invitation-Only) Meeting of the MOC Academic Advisory Board and Core Partners</strong></h3>
+<h4><span style="text-decoration: underline"><strong><em>Events</em></strong></span></h4>
+<h4><strong><em>Special Meeting of the Academic Advisory Board and Core Partner Executives</em></strong></h4>
 <ul>
  	<li>8AM – 1PM</li>
  	<li>Invitation only</li>
  	<li>Location: Center for Integrated Life Sciences and Engineering, 610 Commonwealth Ave., Boston, MA 02215</li>
 </ul>
-<strong><em>Tutorial Sessions</em> </strong>
+&nbsp;
+<h4><strong><em>Tutorial Sessions</em> </strong></h4>
 <p style="padding-left: 30px">Open to all interested parties that register in advance</p>
 <p style="padding-left: 30px"><strong><u>Schedule</u></strong></p>
 
@@ -197,8 +198,28 @@ Boston, MA 02215
  	<li>10:00 – 10:55 AM        Open DataHub - Sherard Griffin, Red Hat</li>
  	<li>11:00 – 11:55 AM        OpenShift led by Robert Baron, BU/MOC and Dan McPherson, Red Hat</li>
 </ul>
+<p style="padding-left: 30px"><strong><u>Location</u></strong>
+Hariri Institute for Computing
+111 Cummington Mall
+Seminar Room (in suite 180)
+Boston, MA 02215</p>
+<p style="padding-left: 30px"><strong><u>Bring</u></strong>
+A laptop if you would like to follow along and create an account/set up a VM.</p>
+<p style="padding-left: 30px"><strong><u>If you are interested in learning more before the Tutorials (NOT required)</u></strong>
+Only if you want, take a look at the “Getting Started” part of the wiki, to review what will be covered during the OpenStack tutorial:
+<a href="https://github.com/CCI-MOC/moc-public/wiki/Getting-started">https://github.com/CCI-MOC/moc-public/wiki/Getting-started</a></p>
 <p style="padding-left: 30px">Three sessions will be offered back-to-back in the same room.  You are welcome to come attend as many of the sessions as you’d like and you are welcome leave and return.</p>
-&nbsp;
+<p style="padding-left: 30px"><strong><u>Session Descriptions and Materials</u></strong></p>
+
+<ul>
+ 	<li><strong>OpenStack</strong>: More info coming soon!</li>
+</ul>
+<ul>
+ 	<li><strong>Open DataHub</strong>: More info coming soon!</li>
+</ul>
+<ul>
+ 	<li><strong>MOC OpenShift</strong>: On top of our OpenStack service, for the past year the MOC and Red Hat have been offering an OpenShift service. OpenShift offers users a self-scaling container platform with support for anything that can be containerized including web frameworks, databases, and messaging queues. In seconds, one can spin up new containers along with rich Continuous Integration and Continuous Deployment capabilities built in. This tutorial will introduce you to the essentials of OpenShift and the underlying Kubernetes/Docker technologies upon which it is built.</li>
+</ul>
 
 <hr />
 
