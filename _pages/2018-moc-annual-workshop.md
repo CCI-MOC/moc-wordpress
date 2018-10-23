@@ -74,7 +74,7 @@ Boston, MA 02215
 <td style="width: 1027.11px;height: 173px">
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a> - Jim Culbert, MGHPCC</li>
- 	<li>Kaizen 2 - Lars Kellogg-Stedman, Red Hat</li>
+ 	<li>Deploying OpenStack in the MOC - Lars Kellogg-Stedman, Red Hat</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a> - Dave Cohen, Intel</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> - Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercé Crosas, Harvard University</li>
@@ -119,8 +119,8 @@ Boston, MA 02215
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a> - Ian Ballou, BU/MOC</li>
  	<li>Agentless bare metal introspection - Apoorve Mohan, NEU/MOC</li>
- 	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
- 	<li>Strong Isolation, Verification, and Control in Future Public Clouds - Rushi Patel, BU</li>
+ 	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC &amp; Nabil Schear, MIT Lincoln Labs</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf">Strong Isolation, Verification, and Control in Future Public Clouds</a> - Rushi Patel, BU</li>
  	<li>David Starobinski, BU &amp; Sahil Tikale, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
