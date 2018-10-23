@@ -117,7 +117,7 @@ Boston, MA 02215
 <td style="width: 1027.11px;height: 18px">
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
- 	<li>Agentless Bare-Metal Introspection<a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf">Agentless Bare-Metal Introspection</a> - Apoorve Mohan, NEU/MOC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf">Agentless Bare-Metal Introspection</a> - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf">Strong Isolation, Verification, and Control in Future Public Clouds</a> - Rushi Patel, BU</li>
  	<li>David Starobinski, BU &amp; Sahil Tikale, BU/MOC</li>
@@ -133,7 +133,7 @@ Boston, MA 02215
 <td style="width: 141.778px;height: 135px"><strong> </strong></td>
 <td style="width: 1027.11px;height: 135px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio-1.pdf">Medical Image Processing on the MOC with ChRIS and OpenShift </a>- Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio-2.pdf">Medical Image Processing on the MOC with ChRIS and OpenShift </a>- Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Getchell-Abstract-and-Bio.pdf">Secure Multi-Party Computing in the Cloud</a> - Ben Getchell, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf">FaaS: Think Outside the Container </a>- Tommy Unger, BU</li>
  	<li><em>A demonstration of adapting HW to SW needs for network workloads</em> - Han Dong, BU</li>
