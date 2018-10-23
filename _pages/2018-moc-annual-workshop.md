@@ -180,7 +180,7 @@ Boston, MA 02215
 
 <strong>October 31, 2018 – Tutorials and (Invitation-Only) Meeting of the MOC Academic Advisory Board and Core Partners</strong>
 
-<strong><em>Events</em></strong>
+<span style="text-decoration: underline"><strong><em>Events</em></strong></span>
 
 <strong><em>Special Meeting of the Academic Advisory Board and Core Partner Executives</em></strong>
 <ul>
@@ -189,12 +189,16 @@ Boston, MA 02215
  	<li>Location: Center for Integrated Life Sciences and Engineering, 610 Commonwealth Ave., Boston, MA 02215</li>
 </ul>
 <strong><em>Tutorial Sessions</em> </strong>
+<p style="padding-left: 30px">Open to all interested parties that register in advance</p>
+<p style="padding-left: 30px"><strong><u>Schedule</u></strong></p>
+
 <ul>
- 	<li>Open to all interested parties that register in advance</li>
- 	<li>9:00 AM – 12:00 PM</li>
- 	<li>Three sessions will be offered back-to-back in the same room.  You are welcome to come attend as many of the sessions as you’d like and you are welcome leave and return.</li>
+ 	<li> 9:00 – 9:55 AM           OpenStack led by Hannah Gibson, Red Hat</li>
+ 	<li>10:00 – 10:55 AM        Open DataHub - Sherard Griffin, Red Hat</li>
+ 	<li>11:00 – 11:55 AM        OpenShift led by Robert Baron, BU/MOC and Dan McPherson, Red Hat</li>
 </ul>
-The three tutorial sessions will be announced soon.
+<p style="padding-left: 30px">Three sessions will be offered back-to-back in the same room.  You are welcome to come attend as many of the sessions as you’d like and you are welcome leave and return.</p>
+&nbsp;
 
 <hr />
 
