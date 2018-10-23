@@ -76,6 +76,7 @@ Boston, MA 02215
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a> - Jim Culbert, MGHPCC</li>
  	<li>Deploying OpenStack in the MOC - Lars Kellogg-Stedman, Red Hat</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a> - Dave Cohen, Intel</li>
+ 	<li>IBM’s Deep Learning Investment in the MOC - Craig Bickerstaff, IBM and Greg Wallace, IBM</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> - Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercé Crosas, Harvard University</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> - Steven Huels, Red Hat</li>
