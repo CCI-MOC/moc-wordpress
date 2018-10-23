@@ -176,10 +176,6 @@ Boston, MA 02215
 
 <hr />
 
-
-
-<hr />
-
 <h3><strong>October 31, 2018 – Tutorials and (Invitation-Only) Meeting of the MOC Academic Advisory Board and Core Partners</strong></h3>
 <h4><span style="text-decoration: underline"><strong><em>Events</em></strong></span></h4>
 <h4><strong><em>Special Meeting of the Academic Advisory Board and Core Partner Executives</em></strong></h4>
