@@ -214,7 +214,7 @@ Only if you want, take a look at the “Getting Started” part of the wiki, to 
  	<li><strong>Open DataHub</strong>: More info coming soon!</li>
 </ul>
 <ul>
- 	<li><strong>MOC OpenShift</strong>: On top of our OpenStack service, for the past year the MOC and Red Hat have been offering an OpenShift service. OpenShift offers users a self-scaling container platform with support for anything that can be containerized including web frameworks, databases, and messaging queues. In seconds, one can spin up new containers along with rich Continuous Integration and Continuous Deployment capabilities built in. This tutorial will introduce you to the essentials of OpenShift and the underlying Kubernetes/Docker technologies upon which it is built.</li>
+ 	<li><strong>MOC OpenShift</strong>: More info coming soon!</li>
 </ul>
 
 <hr />
