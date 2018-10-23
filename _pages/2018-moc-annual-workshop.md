@@ -120,7 +120,7 @@ Boston, MA 02215
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a> - Ian Ballou, BU/MOC</li>
  	<li>Agentless bare metal introspection - Apoorve Mohan, NEU/MOC</li>
- 	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC &amp; Nabil Schear, MIT Lincoln Labs</li>
+ 	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf">Strong Isolation, Verification, and Control in Future Public Clouds</a> - Rushi Patel, BU</li>
  	<li>David Starobinski, BU &amp; Sahil Tikale, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
