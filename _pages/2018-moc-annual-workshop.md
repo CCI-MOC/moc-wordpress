@@ -114,11 +114,11 @@ Boston, MA 02215
 <td style="width: 1031.73px;height: 18px">
 <ul>
  	<li>Nabil Schear, MIT Lincoln Lab</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating <span style="text-decoration: underline"><span style="color: #0000ff">San-booting</span></span> with Foreman</a> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf">Agentless Bare-Metal <span style="text-decoration: underline;color: #0000ff">Introspection</span></a> - Apoorve Mohan, NEU/MOC</li>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating <span>San-booting</span> with Foreman</a></span> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Agentless Bare-Metal Introspection</span></span></a> - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf">Strong Isolation, Verification, and Control in Future Public Clouds</a> - Rushi Patel, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Tikale-Abstract-and-Bio.pdf">FLOCX: Enabling marketplace at the bottom of the cloud </a>- Sahil Tikale, BU/MOC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Strong Isolation, Verification, and Control in Future Public Clouds</span></a> - Rushi Patel, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Tikale-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FLOCX: Enabling marketplace at the bottom of the cloud</span> </span></a>- Sahil Tikale, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
@@ -131,11 +131,11 @@ Boston, MA 02215
 <td style="width: 141.067px;height: 135px"><strong> </strong></td>
 <td style="width: 1031.73px;height: 135px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio-2.pdf">Medical Image Processing on the MOC with ChRIS and OpenShift </a>- Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Getchell-Abstract-and-Bio.pdf">Secure Multi-Party Computing in the Cloud</a> - Ben Getchell, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf">FaaS: Think Outside the Container </a>- Tommy Unger, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Dong-Abstract-and-Bio.pdf">A demonstration of adapting HW to SW needs for network workloads</a> - Han Dong, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/UKL__A_Unikernel_based_on_Linux.pdf">A Unikernal based on Linux</a> - Ali Raza, BU &amp; Parul Sohal, BU</li>
+ 	<li><span style="text-decoration: underline"><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio-2.pdf"><span style="color: #0000ff;text-decoration: underline">Medical Image Processing on the MOC with ChRIS and OpenShift</span> </a></span>- Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Getchell-Abstract-and-Bio.pdf">Secure Multi-Party Computing in the Cloud</a></span></span> - Ben Getchell, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FaaS: Think Outside the Container</span> </span></a>- Tommy Unger, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Dong-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">A demonstration of adapting HW to SW needs for network workloads</span></a> - Han Dong, BU</li>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/UKL__A_Unikernel_based_on_Linux.pdf">A Unikernal based on Linux</a></span> - Ali Raza, BU &amp; Parul Sohal, BU</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
@@ -153,8 +153,8 @@ Boston, MA 02215
 <td style="width: 1031.73px;height: 42px">
 <ul>
  	<li>Cloud Research - facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Data-Science-and-the-MOC-Roundtable-1.pdf">Data Science and the MOC</a> - facilitated by Merce Crosas, Harvard University &amp; Sherard Griffin, Red Hat</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/NECI-Roundtable.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> - facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Data-Science-and-the-MOC-Roundtable-1.pdf"><span style="text-decoration: underline;color: #0000ff">Data Science and the MOC</span></a> - facilitated by Merce Crosas, Harvard University &amp; Sherard Griffin, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/NECI-Roundtable.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</span></span></a> - facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University</li>
 </ul>
 </td>
 </tr>
@@ -207,7 +207,7 @@ Boston, MA 02215</p>
 A laptop if you would like to follow along and create an account/set up a VM.</p>
 <p style="padding-left: 30px"><strong><u>If you are interested in learning more before the Tutorials (NOT required)</u></strong>
 Only if you want, take a look at the “Getting Started” part of the wiki, to review what will be covered during the OpenStack tutorial:
-<a href="https://github.com/CCI-MOC/moc-public/wiki/Getting-started">https://github.com/CCI-MOC/moc-public/wiki/Getting-started</a></p>
+<span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://github.com/CCI-MOC/moc-public/wiki/Getting-started">https://github.com/CCI-MOC/moc-public/wiki/Getting-started</a></span></span></p>
 <p style="padding-left: 30px">Three sessions will be offered back-to-back in the same room.  You are welcome to come attend as many of the sessions as you’d like and you are welcome leave and return.</p>
 <p style="padding-left: 30px"><strong><u>Session Descriptions and Materials</u></strong></p>
 
@@ -222,14 +222,14 @@ Only if you want, take a look at the “Getting Started” part of the wiki, to 
 <strong>Getting Around and Staying in Boston
 </strong>
 <ul>
- 	<li><a href="https://www.bu.edu/tech/services/support/networks/wireless/guest/">Guest Wireless Access</a></li>
- 	<li><a href="https://www.bu.edu/parking/lots-locations/family-guests-and-visitor-parking/">Parking</a> – You may park in any public lot on campus.  The Granby and Kenmore Lots are closest to CILSE, but due to capacity, it is possible you may need to park at the Agganis Lot and take the Green Line train inbound to Blandford St/plan for a 20 minute walk.</li>
- 	<li><a href="http://www.bu.edu/admissions/student-life/city-of-boston/transportation/">Getting around Boston</a> – General info</li>
- 	<li><a href="http://www.mbta.com/">Massachusetts Bay Transportation Authority</a> – If you will be using the subway, Boston University is located along the “B” route of the Green Line. CILSE is at “Blandford Street” (first stop after Kenmore Square).</li>
- 	<li><a href="http://www.bu.edu/alumni/benefits-resources/travel/#hotels">Accommodations</a> – We did not block space at any specific hotels, but recommend any of the options provided on this page</li>
- 	<li><a href="http://www.bu.edu/maps/">Map of Boston University</a></li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://www.bu.edu/tech/services/support/networks/wireless/guest/">Guest Wireless Access</a></span></span></li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://www.bu.edu/parking/lots-locations/family-guests-and-visitor-parking/">Parking</a></span></span> – You may park in any public lot on campus.  The Granby and Kenmore Lots are closest to CILSE, but due to capacity, it is possible you may need to park at the Agganis Lot and take the Green Line train inbound to Blandford St/plan for a 20 minute walk.</li>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://www.bu.edu/admissions/student-life/city-of-boston/transportation/">Getting around Boston</a></span> – General info</li>
+ 	<li><a href="http://www.mbta.com/"><span style="text-decoration: underline;color: #0000ff">Massachusetts Bay Transportation Authority</span></a> – If you will be using the subway, Boston University is located along the “B” route of the Green Line. CILSE is at “Blandford Street” (first stop after Kenmore Square).</li>
+ 	<li><a href="http://www.bu.edu/alumni/benefits-resources/travel/#hotels"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Accommodations</span></span></a> – We did not block space at any specific hotels, but recommend any of the options provided on this page</li>
+ 	<li><a href="http://www.bu.edu/maps/"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Map of Boston University</span></span></a></li>
  	<li>Both Uber and Lyft operate in Boston, in addition to taxi options.</li>
- 	<li><a href="http://www.bu.edu/admissions/student-life/city-of-boston/">Other Things to do in Boston</a></li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="http://www.bu.edu/admissions/student-life/city-of-boston/">Other Things to do in Boston</a></span></span></li>
 </ul>
 
 <hr />
