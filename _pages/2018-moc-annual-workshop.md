@@ -70,7 +70,7 @@ Boston, MA 02215
 <ul>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a></span></span> - Jim Culbert, MGHPCC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Deploying OpenStack in <span style="text-decoration: underline">the</span> MOC</span></a> - Lars Kellogg-Stedman, Red Hat</li>
- 	<li><span style="text-decoration: underline"><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management <span style="color: #0000ff;text-decoration: underline">Platform</span> @MOC</a></span> - Dave Cohen, Intel</li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a></span> - Dave Cohen, Intel</li>
  	<li>IBM’s Deep Learning Investment in the MOC - Craig Bickerstaff, IBM and Greg Wallace, IBM</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> </span></span>- Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercè Crosas, Harvard University</li>
@@ -92,11 +92,11 @@ Boston, MA 02215
 <td style="width: 141.067px;height: 163px"><strong> </strong></td>
 <td style="width: 1031.73px;height: 163px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Working on an <span style="text-decoration: underline;color: #0000ff">Open</span> Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</a> - Hugh Brock, Red Hat</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff">Logging</span></span> What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf"><span style="color: #0000ff">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</span></a> - Hugh Brock, Red Hat</li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a></span> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
  	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Benjamin-Kaynar-and-Maredia-Abstract-and-Bio.pdf">D3N: A multi-layer cache for improving big-data <span style="text-decoration: underline;color: #0000ff">applications’</span> performance in data centers with imbalanced networks</a><em>- </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Bump-in-the-Wire</span> FPGAs and HPC in the Cloud</a> <em>-</em> Ahmed Sanaullah, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Benjamin-Kaynar-and-Maredia-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">D3N: A multi-layer cache for improving big-data applications’ performance in data centers with imbalanced networks</span></span></a><em>- </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Bump-in-the-Wire FPGAs and HPC in the Cloud</a></span> <em>-</em> Ahmed Sanaullah, BU</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
