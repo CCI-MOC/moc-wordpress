@@ -114,7 +114,7 @@ Boston, MA 02215
 <td style="width: 1031.73px;height: 18px">
 <ul>
  	<li>Nabil Schear, MIT Lincoln Lab</li>
- 	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating <span>San-booting</span> with Foreman</a></span> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a></span> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Agentless Bare-Metal Introspection</span></span></a> - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Strong Isolation, Verification, and Control in Future Public Clouds</span></a> - Rushi Patel, BU</li>
@@ -214,7 +214,7 @@ Only if you want, take a look at the “Getting Started” part of the wiki, to 
 <ul>
  	<li><strong>Open DataHub</strong>: The Mass Open Cloud and Red Hat have partnered up to provide the Open Data Hub, an open source AI as a Service platform.  Users will access the Data Hub for artificial intelligence and machine learning research.  In this tutorial you will learn how to upload data to the Data Hub, use JupyterHub to create models using machine learning libraries, and store the results.</li>
  	<li><strong>MOC OpenShift</strong>: OpenShift offers users a self-scaling container platform with support for anything that can be containerized including web frameworks, databases, and messaging queues. In seconds, one can spin up new containers along with rich continuous integration/deployment capabilities built in. This tutorial will introduce you to the essentials of the OpenShift offering that's been available in the MOC for the past year.</li>
- 	<li><strong>OpenStack</strong>: The MOC offers an Infrastructure as a Service (IaaS) offering based on OpenStack, providing users with self-service access to virtual machines, object storage, and on-demand Big Data environments (Hadoop, Spark, Pig etc.). This tutorial will show you how to get started using this environment. <a href="https://www.youtube.com/channel/UCalL-e8-FgFAxo3P8BB-N9w">OpenStack Tutorial and Demo Video</a></li>
+ 	<li><strong>OpenStack</strong>: The MOC offers an Infrastructure as a Service (IaaS) offering based on OpenStack, providing users with self-service access to virtual machines, object storage, and on-demand Big Data environments (Hadoop, Spark, Pig etc.). This tutorial will show you how to get started using this environment.</li>
 </ul>
 
 <hr />
