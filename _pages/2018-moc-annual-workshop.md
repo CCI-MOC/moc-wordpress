@@ -20,7 +20,6 @@ post_date: 2018-07-12 07:26:48
  	<li style="font-weight: 400"><span style="font-weight: 400">10-minute Micro-Talks - at the end of each session, speakers will participate in a brief Q&amp;A panel </span></li>
  	<li style="font-weight: 400"><span style="font-weight: 400">Posters will be on display throughout the day to allow for deeper technical interaction</span></li>
  	<li style="font-weight: 400"><span style="font-weight: 400">Roundtables will allow attendees to explore topics on a deeper level and enable open dialogue</span></li>
- 	<li style="font-weight: 400"><span style="font-weight: 400">The Industry Partner Panel will feature the MOC’s industry partners who will discuss their relationship with the MOC and the value their companies are deriving from this unique partnership</span></li>
  	<li style="font-weight: 400"><span style="font-weight: 400">The event will close with a reception, providing additional time for networking</span></li>
 </ul>
 <b>October 31 (Morning)</b>
