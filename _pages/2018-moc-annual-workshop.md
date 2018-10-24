@@ -201,8 +201,8 @@ Hariri Institute for Computing
 111 Cummington Mall
 Seminar Room (in suite 180)
 Boston, MA 02215</p>
-<p style="padding-left: 30px"><strong><u>In Advance of the Tutorial</u></strong></p>
-Sign up for an MOC account <span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/blog/user-account-request-form/">here.</a></span>
+<p style="padding-left: 30px"><strong><u>In Advance of the Tutorial
+</u></strong>Sign up for an MOC account <span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/blog/user-account-request-form/">here.</a></span></p>
 <p style="padding-left: 30px"><strong><u>Bring</u></strong>
 A laptop if you would like to follow along and create an account/set up a VM.</p>
 <p style="padding-left: 30px"><strong><u>If you are interested in learning more before the Tutorials (NOT required)</u></strong>
@@ -215,10 +215,10 @@ Only if you want, take a look at the “Getting Started” part of the wiki, to 
  	<li><strong>OpenStack</strong>: More info coming soon!</li>
 </ul>
 <ul>
- 	<li><strong>Open DataHub</strong>: More info coming soon!</li>
+ 	<li><strong>Open DataHub</strong>: The Mass Open Cloud and Red Hat have partnered up to provide the Open Data Hub, an open source AI as a Service platform.  Users will access the Data Hub for artificial intelligence and machine learning research.  In this tutorial you will learn how to upload data to the Data Hub, use JupyterHub to create models using machine learning libraries, and store the results.</li>
 </ul>
 <ul>
- 	<li><strong>MOC OpenShift</strong>: More info coming soon!</li>
+ 	<li><strong>MOC OpenShift</strong>: OpenShift offers users a self-scaling container platform with support for anything that can be containerized including web frameworks, databases, and messaging queues. In seconds, one can spin up new containers along with rich continuous integration/deployment capabilities built in. This tutorial will introduce you to the essentials of the OpenShift offering that's been available in the MOC for the past year.</li>
 </ul>
 
 <hr />
