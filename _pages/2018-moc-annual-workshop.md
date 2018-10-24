@@ -10,7 +10,7 @@ published: true
 post_date: 2018-07-12 07:26:48
 ---
 <p class="entry-header">The Fourth Annual Mass Open Cloud (MOC) Workshop will be held on October 30-31, 2018 at Boston University. The MOC workshop welcomes users of the MOC, researchers, and startups interested in cloud computing, students, and industry partners.  The workshop provides an opportunity for the MOC's growing and active community to learn about the latest MOC developments, and help shape the priorities of the project moving forward and kick-off new collaborations.</p>
-<strong>Registration will be closed October 24 at 4PM - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCxHLEwnNFMOeYruGVV6EOIWzg-ON1vpJzJ1VkNreOpz6LpA/viewform?usp=sf_link">Register Today by Clicking here</a></strong>
+<strong>Registration will be closed October 24 at 4PM -<span style="text-decoration: underline"><span style="color: #0000ff"> <a style="color: #0000ff;text-decoration: underline" href="https://docs.google.com/forms/d/e/1FAIpQLSfCxHLEwnNFMOeYruGVV6EOIWzg-ON1vpJzJ1VkNreOpz6LpA/viewform?usp=sf_link">Register Today by Clicking here</a></span></span></strong>
 
 <span style="font-weight: 400">The workshop is designed to engage parties with interest in the MOC – it does not matter if you have been a part of the MOC’s development from the start, or are just hearing about it and want to learn more. The workshop segments are described below:</span>
 
@@ -56,7 +56,7 @@ Boston, MA 02215
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
  	<li>OCX Vision</li>
- 	<li>Keynote: <a href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
+ 	<li>Keynote: <span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
 </ul>
 </td>
 </tr>
@@ -68,13 +68,13 @@ Boston, MA 02215
 <td style="width: 141.067px;height: 173px"><strong> </strong></td>
 <td style="width: 1031.73px;height: 173px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a> - Jim Culbert, MGHPCC</li>
- 	<li>Deploying OpenStack in the MOC - Lars Kellogg-Stedman, Red Hat</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a> - Dave Cohen, Intel</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for <span style="text-decoration: underline;color: #0000ff">Collaboration</span></a> - Jim Culbert, MGHPCC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio.pdf">Deploying OpenStack in <span style="text-decoration: underline"><span style="color: #0000ff">the</span></span> MOC</a> - Lars Kellogg-Stedman, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management <span style="text-decoration: underline;color: #0000ff">Platform</span> @MOC</a> - Dave Cohen, Intel</li>
  	<li>IBM’s Deep Learning Investment in the MOC - Craig Bickerstaff, IBM and Greg Wallace, IBM</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> - Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercè Crosas, Harvard University</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> - Sherard Griffin, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science <span style="text-decoration: underline"><span style="color: #0000ff">Experiments</span></span></a> - Sherard Griffin, Red Hat</li>
  	<li><em>Making the MOC self-sustaining</em> - Michael Daitzman, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
@@ -92,11 +92,11 @@ Boston, MA 02215
 <td style="width: 141.067px;height: 163px"><strong> </strong></td>
 <td style="width: 1031.73px;height: 163px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</a> - Hugh Brock, Red Hat</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Working on an <span style="text-decoration: underline;color: #0000ff">Open</span> Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</a> - Hugh Brock, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff">Logging</span></span> What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
  	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Benjamin-Kaynar-and-Maredia-Abstract-and-Bio.pdf">D3N: A multi-layer cache for improving big-data applications’ performance in data centers with imbalanced networks</a><em>- </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Bump-in-the-Wire FPGAs and HPC in the Cloud</a> <em>-</em> Ahmed Sanaullah, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Benjamin-Kaynar-and-Maredia-Abstract-and-Bio.pdf">D3N: A multi-layer cache for improving big-data <span style="text-decoration: underline;color: #0000ff">applications’</span> performance in data centers with imbalanced networks</a><em>- </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Bump-in-the-Wire</span> FPGAs and HPC in the Cloud</a> <em>-</em> Ahmed Sanaullah, BU</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
@@ -114,8 +114,8 @@ Boston, MA 02215
 <td style="width: 1031.73px;height: 18px">
 <ul>
  	<li>Nabil Schear, MIT Lincoln Lab</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf">Agentless Bare-Metal Introspection</a> - Apoorve Mohan, NEU/MOC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating <span style="text-decoration: underline"><span style="color: #0000ff">San-booting</span></span> with Foreman</a> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf">Agentless Bare-Metal <span style="text-decoration: underline;color: #0000ff">Introspection</span></a> - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf">Strong Isolation, Verification, and Control in Future Public Clouds</a> - Rushi Patel, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Tikale-Abstract-and-Bio.pdf">FLOCX: Enabling marketplace at the bottom of the cloud </a>- Sahil Tikale, BU/MOC</li>
@@ -192,9 +192,9 @@ Boston, MA 02215
 <p style="padding-left: 30px"><strong><u>Schedule</u></strong></p>
 
 <ul>
- 	<li> 9:00 – 9:55 AM         OpenStack led by Hannah Gibson, Red Hat</li>
- 	<li>10:00 – 10:55 AM        Open DataHub - Sherard Griffin, Red Hat</li>
- 	<li>11:00 – 11:55 AM        OpenShift led by Robert Baron, BU/MOC and Dan McPherson, Red Hat</li>
+ 	<li> 9:00 – 9:55 AM           Open DataHub - Sherard Griffin, Red Hat</li>
+ 	<li>10:00 – 10:55 AM        OpenShift led by Robert Baron, BU/MOC and Dan McPherson, Red Hat</li>
+ 	<li>11:00 – 11:55 AM        OpenStack led by Hannah Gibson, Red Hat</li>
 </ul>
 <p style="padding-left: 30px"><strong><u>Location</u></strong>
 Hariri Institute for Computing
@@ -212,13 +212,9 @@ Only if you want, take a look at the “Getting Started” part of the wiki, to 
 <p style="padding-left: 30px"><strong><u>Session Descriptions and Materials</u></strong></p>
 
 <ul>
- 	<li><strong>OpenStack</strong>: More info coming soon!</li>
-</ul>
-<ul>
  	<li><strong>Open DataHub</strong>: The Mass Open Cloud and Red Hat have partnered up to provide the Open Data Hub, an open source AI as a Service platform.  Users will access the Data Hub for artificial intelligence and machine learning research.  In this tutorial you will learn how to upload data to the Data Hub, use JupyterHub to create models using machine learning libraries, and store the results.</li>
-</ul>
-<ul>
  	<li><strong>MOC OpenShift</strong>: OpenShift offers users a self-scaling container platform with support for anything that can be containerized including web frameworks, databases, and messaging queues. In seconds, one can spin up new containers along with rich continuous integration/deployment capabilities built in. This tutorial will introduce you to the essentials of the OpenShift offering that's been available in the MOC for the past year.</li>
+ 	<li><strong>OpenStack</strong>: The MOC offers an Infrastructure as a Service (IaaS) offering based on OpenStack, providing users with self-service access to virtual machines, object storage, and on-demand Big Data environments (Hadoop, Spark, Pig etc.). This tutorial will show you how to get started using this environment. <a href="https://www.youtube.com/channel/UCalL-e8-FgFAxo3P8BB-N9w">OpenStack Tutorial and Demo Video</a></li>
 </ul>
 
 <hr />
