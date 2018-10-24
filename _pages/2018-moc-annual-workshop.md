@@ -42,17 +42,17 @@ Boston, MA 02215
 <table style="width: 1184px;height: 837px">
 <tbody>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>7:30 - 8:00 </strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Check-in and Breakfast </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>7:30 - 8:00 </strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Check-in and Breakfast </strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>8:00 - 8:50 </strong><strong>
+<td style="width: 141.067px;height: 18px"><strong>8:00 - 8:50 </strong><strong>
 </strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Welcome and Overview</strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Welcome and Overview</strong></td>
 </tr>
 <tr style="height: 72px">
-<td style="width: 141.778px;height: 72px"><strong> </strong></td>
-<td style="width: 1027.11px;height: 72px">
+<td style="width: 141.067px;height: 72px"><strong> </strong></td>
+<td style="width: 1031.73px;height: 72px">
 <ul>
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
@@ -62,12 +62,12 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>8:50 - 10:25 </strong></td>
-<td style="width: 1027.11px;height: 18px"><b>Micro-talks: What's Coming on the MOC</b></td>
+<td style="width: 141.067px;height: 18px"><strong>8:50 - 10:25 </strong></td>
+<td style="width: 1031.73px;height: 18px"><b>Micro-talks: What's Coming on the MOC</b></td>
 </tr>
 <tr style="height: 173px">
-<td style="width: 141.778px;height: 173px"><strong> </strong></td>
-<td style="width: 1027.11px;height: 173px">
+<td style="width: 141.067px;height: 173px"><strong> </strong></td>
+<td style="width: 1031.73px;height: 173px">
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a> - Jim Culbert, MGHPCC</li>
  	<li>Deploying OpenStack in the MOC - Lars Kellogg-Stedman, Red Hat</li>
@@ -82,16 +82,16 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>10:25 - 10:55 </strong></td>
-<td style="width: 1027.11px;height: 18px"><b>Break</b></td>
+<td style="width: 141.067px;height: 18px"><strong>10:25 - 10:55 </strong></td>
+<td style="width: 1031.73px;height: 18px"><b>Break</b></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>10:55 - 12:10</strong></td>
-<td style="width: 1027.11px;height: 18px"><b>Micro-talks: Research in an Open Cloud</b></td>
+<td style="width: 141.067px;height: 18px"><strong>10:55 - 12:10</strong></td>
+<td style="width: 1031.73px;height: 18px"><b>Micro-talks: Research in an Open Cloud</b></td>
 </tr>
 <tr style="height: 173px">
-<td style="width: 141.778px;height: 163px"><strong> </strong></td>
-<td style="width: 1027.11px;height: 163px">
+<td style="width: 141.067px;height: 163px"><strong> </strong></td>
+<td style="width: 1031.73px;height: 163px">
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</a> - Hugh Brock, Red Hat</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
@@ -103,16 +103,16 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>12:10 - 1:30 </strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Lunch &amp; Networking</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>12:10 - 1:30 </strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Lunch &amp; Networking</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>1:30 - 2:45 </strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Micro-talks: Elastic Hardware and Security</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>1:30 - 2:45 </strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Micro-talks: Elastic Hardware and Security</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong> </strong></td>
-<td style="width: 1027.11px;height: 18px">
+<td style="width: 141.067px;height: 18px"><strong> </strong></td>
+<td style="width: 1031.73px;height: 18px">
 <ul>
  	<li>Nabil Schear, MIT Lincoln Lab</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
@@ -125,12 +125,12 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>2:45 - 3:50 </strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Micro-talks: Research on an Open Cloud</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>2:45 - 3:50 </strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Micro-talks: Research on an Open Cloud</strong></td>
 </tr>
 <tr style="height: 135px">
-<td style="width: 141.778px;height: 135px"><strong> </strong></td>
-<td style="width: 1027.11px;height: 135px">
+<td style="width: 141.067px;height: 135px"><strong> </strong></td>
+<td style="width: 1031.73px;height: 135px">
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio-2.pdf">Medical Image Processing on the MOC with ChRIS and OpenShift </a>- Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Getchell-Abstract-and-Bio.pdf">Secure Multi-Party Computing in the Cloud</a> - Ben Getchell, BU</li>
@@ -142,32 +142,34 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>3:50 - 4:20</strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Break</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>3:50 - 4:20</strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Break</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>4:20 - 5:20 </strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Roundtables</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>4:20 - 5:20 </strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Roundtables (Attendees will pick one to attend)</strong></td>
 </tr>
 <tr style="height: 42px">
-<td style="width: 141.778px;height: 42px"><strong> </strong></td>
-<td style="width: 1027.11px;height: 42px">
+<td style="width: 141.067px;height: 42px"><strong> </strong></td>
+<td style="width: 1031.73px;height: 42px">
 <ul>
- 	<li>Roundtables TBA</li>
+ 	<li>Cloud Research - facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU</li>
+ 	<li>Data Science and the MOC - facilitated by Merce Crosas, Harvard University &amp;  Sherard Griffin, Red Hat</li>
+ 	<li>Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab - facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University</li>
 </ul>
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>5:20 - 5:40</strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Roundtable Report Outs</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>5:20 - 5:40</strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Roundtable Report Outs</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>5:40 - 5:50</strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Closing Remarks</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>5:40 - 5:50</strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Closing Remarks</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.778px;height: 18px"><strong>5:50 - 7:00</strong></td>
-<td style="width: 1027.11px;height: 18px"><strong>Reception</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>5:50 - 7:00</strong></td>
+<td style="width: 1031.73px;height: 18px"><strong>Reception</strong></td>
 </tr>
 </tbody>
 </table>
