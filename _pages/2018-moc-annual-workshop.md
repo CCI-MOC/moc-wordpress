@@ -94,10 +94,10 @@ Boston, MA 02215
 <td style="width: 1027.11px;height: 163px">
 <ul>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</a> - Hugh Brock, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
  	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Bump-in-the-Wire FPGAs and HPC in the Cloud</a> <em>-</em> Ahmed Sanaullah, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Benjamin-Kaynar-and-Maredia-Abstract-and-Bio.pdf">D3N: A multi-layer cache for improving big-data applications’ performance in data centers with imbalanced networks</a><em>- </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Bump-in-the-Wire FPGAs and HPC in the Cloud</a> <em>-</em> Ahmed Sanaullah, BU</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
