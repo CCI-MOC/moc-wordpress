@@ -118,7 +118,7 @@ Boston, MA 02215
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf">Agentless Bare-Metal Introspection</a> - Apoorve Mohan, NEU/MOC</li>
  	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf">Strong Isolation, Verification, and Control in Future Public Clouds</a> - Rushi Patel, BU</li>
- 	<li>David Starobinski, BU &amp; Sahil Tikale, BU/MOC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Tikale-Abstract-and-Bio.pdf">FLOCX: Enabling marketplace at the bottom of the cloud </a>- Sahil Tikale, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
 </td>
