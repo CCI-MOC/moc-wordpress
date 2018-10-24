@@ -56,7 +56,7 @@ Boston, MA 02215
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
  	<li>OCX Vision</li>
- 	<li>Keynote: <span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
+ 	<li>Keynote: <span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
 </ul>
 </td>
 </tr>
@@ -68,13 +68,13 @@ Boston, MA 02215
 <td style="width: 141.067px;height: 173px"><strong> </strong></td>
 <td style="width: 1031.73px;height: 173px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for <span style="text-decoration: underline;color: #0000ff">Collaboration</span></a> - Jim Culbert, MGHPCC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio.pdf">Deploying OpenStack in <span style="text-decoration: underline"><span style="color: #0000ff">the</span></span> MOC</a> - Lars Kellogg-Stedman, Red Hat</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management <span style="text-decoration: underline;color: #0000ff">Platform</span> @MOC</a> - Dave Cohen, Intel</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a></span></span> - Jim Culbert, MGHPCC</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Deploying OpenStack in <span style="text-decoration: underline">the</span> MOC</span></a> - Lars Kellogg-Stedman, Red Hat</li>
+ 	<li><span style="text-decoration: underline"><a href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management <span style="color: #0000ff;text-decoration: underline">Platform</span> @MOC</a></span> - Dave Cohen, Intel</li>
  	<li>IBM’s Deep Learning Investment in the MOC - Craig Bickerstaff, IBM and Greg Wallace, IBM</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> - Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> </span></span>- Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercè Crosas, Harvard University</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science <span style="text-decoration: underline"><span style="color: #0000ff">Experiments</span></span></a> - Sherard Griffin, Red Hat</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> </span></span>- Sherard Griffin, Red Hat</li>
  	<li><em>Making the MOC self-sustaining</em> - Michael Daitzman, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
