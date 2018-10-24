@@ -192,7 +192,7 @@ Boston, MA 02215
 <p style="padding-left: 30px"><strong><u>Schedule</u></strong></p>
 
 <ul>
- 	<li> 9:00 – 9:55 AM           OpenStack led by Hannah Gibson, Red Hat</li>
+ 	<li> 9:00 – 9:55 AM         OpenStack led by Hannah Gibson, Red Hat</li>
  	<li>10:00 – 10:55 AM        Open DataHub - Sherard Griffin, Red Hat</li>
  	<li>11:00 – 11:55 AM        OpenShift led by Robert Baron, BU/MOC and Dan McPherson, Red Hat</li>
 </ul>
