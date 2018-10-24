@@ -202,7 +202,7 @@ Hariri Institute for Computing
 Seminar Room (in suite 180)
 Boston, MA 02215</p>
 <p style="padding-left: 30px"><strong><u>In Advance of the Tutorial</u></strong></p>
-Sign up for an MOC account <span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/blog/user-account-request-form/">here.</a></span></p>
+Sign up for an MOC account <span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/blog/user-account-request-form/">here.</a></span>
 <p style="padding-left: 30px"><strong><u>Bring</u></strong>
 A laptop if you would like to follow along and create an account/set up a VM.</p>
 <p style="padding-left: 30px"><strong><u>If you are interested in learning more before the Tutorials (NOT required)</u></strong>
