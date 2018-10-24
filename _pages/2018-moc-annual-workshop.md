@@ -74,7 +74,7 @@ Boston, MA 02215
  	<li>IBM’s Deep Learning Investment in the MOC - Craig Bickerstaff, IBM and Greg Wallace, IBM</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> - Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercè Crosas, Harvard University</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> - Steven Huels, Red Hat</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> - Sherard Griffin, Red Hat</li>
  	<li><em>Making the MOC self-sustaining</em> - Michael Daitzman, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
 </ul>
@@ -201,6 +201,8 @@ Hariri Institute for Computing
 111 Cummington Mall
 Seminar Room (in suite 180)
 Boston, MA 02215</p>
+<p style="padding-left: 30px"><strong><u>In advance of the Tutorial</u></strong></p>
+<p style="padding-left: 30px">Sign up for an MOC account <a href="https://massopen.cloud/blog/user-account-request-form/">here.</a></p>
 <p style="padding-left: 30px"><strong><u>Bring</u></strong>
 A laptop if you would like to follow along and create an account/set up a VM.</p>
 <p style="padding-left: 30px"><strong><u>If you are interested in learning more before the Tutorials (NOT required)</u></strong>
