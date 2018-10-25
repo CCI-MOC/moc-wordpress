@@ -131,7 +131,7 @@ Boston, MA 02215
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Mossayebzedah-Abstract-and-Bio.pdf">Bolted: A Secure Cloud with Minimal Provider Trust </a></span></span>- Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Strong Isolation, Verification, and Control in Future Public Clouds</span></a> - Rushi Patel, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Tikale-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FLOCX: Enabling marketplace at the bottom of the cloud</span> </span></a>- Sahil Tikale, BU/MOC</li>
- 	<li>Q&amp;A Panel</li>
+ 	<li>Q&amp;A Panel - Moderated by Orran Krieger, BU/MOC</li>
 </ul>
 </td>
 </tr>
@@ -148,7 +148,7 @@ Boston, MA 02215
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FaaS: Think Outside the Container</span> </span></a>- Tommy Unger, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Dong-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">A demonstration of adapting HW to SW needs for network workloads</span></a> - Han Dong, BU</li>
  	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/UKL__A_Unikernel_based_on_Linux.pdf">A Unikernal based on Linux</a></span> - Ali Raza, BU &amp; Parul Sohal, BU</li>
- 	<li>Q&amp;A Panel</li>
+ 	<li>Q&amp;A Panel - Moderated by Pater Desnoyers, NEU/MOC</li>
 </ul>
 </td>
 </tr>
