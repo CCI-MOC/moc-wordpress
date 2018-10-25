@@ -128,7 +128,7 @@ Boston, MA 02215
  	<li>Nabil Schear, MIT Lincoln Lab</li>
  	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a></span> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Agentless Bare-Metal Introspection</span></span></a> - Apoorve Mohan, NEU/MOC</li>
- 	<li><em>Bolted: A Secure Cloud with Minimal Provider Trust</em> - Amin Mosayyebzadeh, BU/MOC</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Mossayebzedah-Abstract-and-Bio.pdf">Bolted: A Secure Cloud with Minimal Provider Trust </a></span></span>- Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Strong Isolation, Verification, and Control in Future Public Clouds</span></a> - Rushi Patel, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Tikale-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FLOCX: Enabling marketplace at the bottom of the cloud</span> </span></a>- Sahil Tikale, BU/MOC</li>
  	<li>Q&amp;A Panel</li>
