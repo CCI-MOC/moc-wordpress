@@ -38,14 +38,14 @@ Boston University
 Boston, MA 02215
 7:30 AM - 7:00 PM
 <h3><em>Agenda and Schedule </em></h3>
-<table style="width: 1184px;height: 837px">
+<table style="width: 1184px;height: 854px">
 <tbody>
 <tr style="height: 18px">
 <td style="width: 141.067px;height: 18px"><strong>7:30 - 8:00 </strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Check-in and Breakfast </strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>8:00 - 8:50 </strong><strong>
+<td style="width: 141.067px;height: 18px"><strong>8:00 - 8:45</strong><strong>
 </strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Welcome and Overview</strong></td>
 </tr>
@@ -55,13 +55,12 @@ Boston, MA 02215
 <ul>
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
- 	<li>OCX Vision</li>
  	<li>Keynote: <span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
 </ul>
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>8:50 - 10:25 </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>8:45 - 10:30 </strong></td>
 <td style="width: 1031.73px;height: 18px"><b>Micro-talks: What's Coming on the MOC</b></td>
 </tr>
 <tr style="height: 173px">
@@ -70,34 +69,35 @@ Boston, MA 02215
 <ul>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a></span></span> - Jim Culbert, MGHPCC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Deploying OpenStack in <span style="text-decoration: underline">the</span> MOC</span></a> - Lars Kellogg-Stedman, Red Hat</li>
- 	<li><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a></span> - Dave Cohen, Intel</li>
- 	<li>IBM’s Deep Learning Investment in the MOC - Craig Bickerstaff, IBM and Greg Wallace, IBM</li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a></span> - Dave Cohen, Intel - and special announcement</li>
+ 	<li>IBM’s Deep Learning Investment in the MOC - Lori Bucciarelli, IBM</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> </span></span>- Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercè Crosas, Harvard University</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> </span></span>- Sherard Griffin, Red Hat</li>
  	<li><em>Making the MOC self-sustaining</em> - Michael Daitzman, BU/MOC</li>
- 	<li>Q&amp;A Panel</li>
+ 	<li>Q&amp;A Panel - Moderated by Orran Krieger, BU/MOC</li>
 </ul>
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>10:25 - 10:55 </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>10:</strong><strong>30</strong><strong style="font-family: inherit;font-size: inherit"> - 11:00</strong><strong>
+</strong></td>
 <td style="width: 1031.73px;height: 18px"><b>Break</b></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>10:55 - 12:10</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>11:00 - 12:05</strong></td>
 <td style="width: 1031.73px;height: 18px"><b>Micro-talks: Research in an Open Cloud</b></td>
 </tr>
 <tr style="height: 173px">
 <td style="width: 141.067px;height: 163px"><strong> </strong></td>
 <td style="width: 1031.73px;height: 163px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf"><span style="color: #0000ff">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</span></a> - Hugh Brock, Red Hat</li>
- 	<li><span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</a></span> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
- 	<li><em>Asterisms mining: A new way to analyze end-to-end traces</em> - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
+ 	<li><span style="text-decoration: underline"><a href="https://massopen.cloud/wp-content/uploads/2018/10/Brock-Abstract-and-Bio.pdf"><span style="color: #0000ff;text-decoration: underline">Working on an Open Cloud: Red Hat Collaboratory Projects on the Mass Open Cloud</span></a></span> - Hugh Brock, Red Hat</li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/wp-content/uploads/2018/10/Ates-and-Sturmann-Abstract-and-Bio.pdf"><span style="text-decoration: underline">Logging What Matters: Presenting Pythia and Just-in-Time Instrumentation</span></a></span> - Emre Ates, BU &amp; Lily Sturmann, BU/Red Hat</li>
+ 	<li>Asterisms mining: A new way to analyze end-to-end traces - Mania Abdi, NEU/MOC &amp; Golsana Ghaemi, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Benjamin-Kaynar-and-Maredia-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">D3N: A multi-layer cache for improving big-data applications’ performance in data centers with imbalanced networks</span></span></a><em>- </em>Matt Benjamin, Red Hat; Emine Ugur Kaynar, BU/MOC &amp; Ali Marieda, Red Hat</li>
  	<li><span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/wp-content/uploads/2018/10/Sanaullah-Abstract-and-Bio.pdf">Bump-in-the-Wire FPGAs and HPC in the Cloud</a></span> <em>-</em> Ahmed Sanaullah, BU</li>
- 	<li>Q&amp;A Panel</li>
+ 	<li>Q&amp;A Panel - Moderated by Peter Desnoyers, NEU/MOC</li>
 </ul>
 </td>
 </tr>
@@ -158,9 +158,9 @@ Boston, MA 02215
 </ul>
 </td>
 </tr>
-<tr>
-<td style="width: 141.067px"><strong>5:05 - 5:20</strong></td>
-<td style="width: 1031.73px"><strong>Break  (Roundtable leads prepare report outs)</strong></td>
+<tr style="height: 17px">
+<td style="width: 141.067px;height: 17px"><strong>5:05 - 5:20</strong></td>
+<td style="width: 1031.73px;height: 17px"><strong>Break  (Roundtable leads prepare report outs)</strong></td>
 </tr>
 <tr style="height: 18px">
 <td style="width: 141.067px;height: 18px"><strong>5:20 - 5:40</strong></td>
