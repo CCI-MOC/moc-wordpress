@@ -60,7 +60,7 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>8:45 - 10:30 </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>8:45 - 10:35</strong></td>
 <td style="width: 1031.73px;height: 18px"><b>Micro-talks: What's Coming on the MOC</b></td>
 </tr>
 <tr style="height: 173px">
@@ -69,7 +69,7 @@ Boston, MA 02215
 <ul>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a></span></span> - Jim Culbert, MGHPCC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Deploying OpenStack in <span style="text-decoration: underline">the</span> MOC</span></a> - Lars Kellogg-Stedman, Red Hat</li>
- 	<li><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a></span> - Dave Cohen, Intel - and special announcement</li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a></span> - Dave Cohen, Intel</li>
  	<li>IBM’s Deep Learning Investment in the MOC - Lori Bucciarelli, IBM</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> </span></span>- Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li>Harvard Dataverse and the MOC - Mercè Crosas, Harvard University</li>
@@ -80,7 +80,7 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>10:</strong><strong>30</strong><strong style="font-family: inherit;font-size: inherit"> - 11:00</strong><strong>
+<td style="width: 141.067px;height: 18px"><strong>10:</strong><strong>35</strong><strong style="font-family: inherit;font-size: inherit"> - 11:00</strong><strong>
 </strong></td>
 <td style="width: 1031.73px;height: 18px"><b>Break</b></td>
 </tr>
@@ -102,11 +102,23 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>12:10 - 1:30 </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>12:05 - 1:05</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Lunch &amp; Networking</strong></td>
 </tr>
+<tr>
+<td style="width: 141.067px"><strong>1:05 - 1:20</strong></td>
+<td style="width: 1031.73px"><strong>Lunch &amp; Viewing of ChRIS Project Videos</strong></td>
+</tr>
+<tr>
+<td style="width: 141.067px"><strong> </strong></td>
+<td style="width: 1031.73px">
+<ul>
+ 	<li>During the final 15 minutes of lunch, we will share videos on the ChRIS project.</li>
+</ul>
+</td>
+</tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>1:30 - 2:45 </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>1:20 - 2:35 </strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Micro-talks: Elastic Hardware and Security</strong></td>
 </tr>
 <tr style="height: 18px">
@@ -124,7 +136,7 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>2:45 - 3:50 </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>2:35 - 3:40</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Micro-talks: Research on an Open Cloud</strong></td>
 </tr>
 <tr style="height: 135px">
@@ -141,11 +153,11 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>3:50 - 4:20</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>3:40 - 4:10</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Break</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>4:20 - 5:05</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>4:10 - 4:55</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Roundtables (Attendees will pick one to attend)</strong></td>
 </tr>
 <tr style="height: 42px">
@@ -159,19 +171,19 @@ Boston, MA 02215
 </td>
 </tr>
 <tr style="height: 17px">
-<td style="width: 141.067px;height: 17px"><strong>5:05 - 5:20</strong></td>
+<td style="width: 141.067px;height: 17px"><strong>4:55 - 5:10</strong></td>
 <td style="width: 1031.73px;height: 17px"><strong>Break  (Roundtable leads prepare report outs)</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>5:20 - 5:40</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>5:10 - 5:30</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Roundtable Report Outs</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>5:40 - 5:50</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>5:30 - 5:40</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Closing Remarks</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>5:50 - 7:00</strong></td>
+<td style="width: 141.067px;height: 18px"><strong>5:40 - 6:45</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Reception</strong></td>
 </tr>
 </tbody>
