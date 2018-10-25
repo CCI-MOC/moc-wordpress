@@ -145,7 +145,7 @@ Boston, MA 02215
 <td style="width: 1031.73px;height: 18px"><strong>Break</strong></td>
 </tr>
 <tr style="height: 18px">
-<td style="width: 141.067px;height: 18px"><strong>4:20 - 5:20 </strong></td>
+<td style="width: 141.067px;height: 18px"><strong>4:20 - 5:05</strong></td>
 <td style="width: 1031.73px;height: 18px"><strong>Roundtables (Attendees will pick one to attend)</strong></td>
 </tr>
 <tr style="height: 42px">
@@ -157,6 +157,10 @@ Boston, MA 02215
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/NECI-Roundtable.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</span></span></a> - facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University</li>
 </ul>
 </td>
+</tr>
+<tr>
+<td style="width: 141.067px"><strong>5:05 - 5:20</strong></td>
+<td style="width: 1031.73px"><strong>Break  (Roundtable leads prepare report outs)</strong></td>
 </tr>
 <tr style="height: 18px">
 <td style="width: 141.067px;height: 18px"><strong>5:20 - 5:40</strong></td>
