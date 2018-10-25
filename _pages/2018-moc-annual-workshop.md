@@ -164,7 +164,7 @@ Boston, MA 02215
 <td style="width: 141.067px;height: 42px"><strong> </strong></td>
 <td style="width: 1031.73px;height: 42px">
 <ul>
- 	<li>Cloud Research - facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU</li>
+ 	<li>Future Research Opportunities in the MOC  - facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Data-Science-and-the-MOC-Roundtable-1.pdf"><span style="text-decoration: underline;color: #0000ff">Data Science and the MOC</span></a> - facilitated by Merce Crosas, Harvard University &amp; Sherard Griffin, Red Hat</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/NECI-Roundtable.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</span></span></a> - facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University</li>
 </ul>
