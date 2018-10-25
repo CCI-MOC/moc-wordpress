@@ -161,10 +161,10 @@ Boston, MA 02215
 <td style="width: 1031.73px;height: 18px"><strong>Roundtables (Attendees will pick one to attend)</strong></td>
 </tr>
 <tr style="height: 42px">
-<td style="width: 141.067px;height: 42px"><strong> </strong></td>
+<td style="width: 141.067px;height: 42px"><span style="text-decoration: underline;color: #0000ff"><strong> </strong></span></td>
 <td style="width: 1031.73px;height: 42px">
 <ul>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Research-Roundtable.pdf">Future Research Opportunities in the MOC</a> - facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU</li>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Research-Roundtable.pdf">Future Research Opportunities in the MOC</a></span> - facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Data-Science-and-the-MOC-Roundtable-1.pdf"><span style="text-decoration: underline;color: #0000ff">Data Science and the MOC</span></a> - facilitated by Merce Crosas, Harvard University &amp; Sherard Griffin, Red Hat</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/NECI-Roundtable.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</span></span></a> - facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University</li>
 </ul>
@@ -218,7 +218,7 @@ Hariri Institute for Computing
 Seminar Room (in suite 180)
 Boston, MA 02215</p>
 <p style="padding-left: 30px"><strong><u>In Advance of the Tutorial
-</u></strong>Sign up for an MOC account <span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/blog/user-account-request-form/">here.</a></span></p>
+</u></strong>Sign up for an MOC account <span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/blog/user-account-request-form/">here.</a></span></span></p>
 <p style="padding-left: 30px"><strong><u>Bring</u></strong>
 A laptop if you would like to follow along and create an account/set up a VM.</p>
 <p style="padding-left: 30px"><strong><u>If you are interested in learning more before the Tutorials (NOT required)</u></strong>
