@@ -125,7 +125,7 @@ Boston, MA 02215
 <td style="width: 140.025px;height: 18px"><strong> </strong></td>
 <td style="width: 1031.63px;height: 18px">
 <ul>
- 	<li>Nabil Schear, MIT Lincoln Lab</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Schear-Abstract-and-Bio.pdf">Creating Isloation in the Cloud</a></span></span> - Nabil Schear, MIT Lincoln Laboratory</li>
  	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a></span> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Agentless Bare-Metal Introspection</span></span></a> - Apoorve Mohan, NEU/MOC</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Mossayebzedah-Abstract-and-Bio.pdf">Bolted: A Secure Cloud with Minimal Provider Trust </a></span></span>- Amin Mosayyebzadeh, BU/MOC</li>
