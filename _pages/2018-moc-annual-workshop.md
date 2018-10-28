@@ -10,7 +10,7 @@ published: true
 post_date: 2018-07-12 07:26:48
 ---
 <p class="entry-header">The Fourth Annual Mass Open Cloud (MOC) Workshop will be held on October 30-31, 2018 at Boston University. The MOC workshop welcomes users of the MOC, researchers, and startups interested in cloud computing, students, and industry partners.  The workshop provides an opportunity for the MOC's growing and active community to learn about the latest MOC developments, and help shape the priorities of the project moving forward and kick-off new collaborations.</p>
-<strong>Registration will be closed October 24 at 4PM -<span style="text-decoration: underline"><span style="color: #0000ff"> <a style="color: #0000ff;text-decoration: underline" href="https://docs.google.com/forms/d/e/1FAIpQLSfCxHLEwnNFMOeYruGVV6EOIWzg-ON1vpJzJ1VkNreOpz6LpA/viewform?usp=sf_link">Register Today by Clicking here</a></span></span></strong>
+<strong><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://docs.google.com/forms/d/e/1FAIpQLSfCxHLEwnNFMOeYruGVV6EOIWzg-ON1vpJzJ1VkNreOpz6LpA/viewform?usp=sf_link">Register  by clicking here</a></span></span></strong>
 
 <span style="font-weight: 400">The workshop is designed to engage parties with interest in the MOC – it does not matter if you have been a part of the MOC’s development from the start, or are just hearing about it and want to learn more. The workshop segments are described below:</span>
 
