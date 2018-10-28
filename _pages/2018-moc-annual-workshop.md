@@ -74,7 +74,6 @@ Boston, MA 02215
  	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Gilmore-and-Yokel-Abstract-and-Bio.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> </span></span>- Wayne Gilmore, Boston University &amp; Scott Yokel, Harvard University</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Crosas-Abstract-and-Bio.pdf">Harvard Dataverse and the MOC</a></span></span> - Mercè Crosas, Harvard University</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Huels-Abstract-and-bio.pdf">Using the Mass Open Cloud to perform Data Science Experiments</a> </span></span>- Sherard Griffin, Red Hat</li>
- 	<li><em>Making the MOC self-sustaining</em> - Michael Daitzman, BU/MOC</li>
  	<li>Q&amp;A Panel - Moderated by Orran Krieger, BU/MOC</li>
 </ul>
 </td>
@@ -128,7 +127,7 @@ Boston, MA 02215
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Schear-Abstract-and-Bio.pdf">Creating Isloation in the Cloud</a></span></span> - Nabil Schear, MIT Lincoln Laboratory</li>
  	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Ballou-Abstract-and-Bio.pdf">Malleable Metal: Integrating San-booting with Foreman</a></span> - Naved Ansari, BU/MOC &amp; Ian Ballou, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Mohan-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Agentless Bare-Metal Introspection</span></span></a> - Apoorve Mohan, NEU/MOC</li>
- 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Mossayebzedah-Abstract-and-Bio.pdf">Bolted: A Secure Cloud with Minimal Provider Trust </a></span></span>- Amin Mosayyebzadeh, BU/MOC</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff">The Security in Elastic Secure Infrastruture </span></span>- Amin Mosayyebzadeh, BU/MOC</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Patel-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">Strong Isolation, Verification, and Control in Future Public Clouds</span></a> - Rushi Patel, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Tikale-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FLOCX: Enabling marketplace at the bottom of the cloud</span> </span></a>- Sahil Tikale, BU/MOC</li>
  	<li>Q&amp;A Panel - Moderated by Orran Krieger, BU/MOC</li>
