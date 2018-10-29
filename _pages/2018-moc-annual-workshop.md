@@ -145,9 +145,9 @@ Boston, MA 02215
 <ul>
  	<li><span style="text-decoration: underline"><a href="https://massopen.cloud/wp-content/uploads/2018/10/McPherson-and-Pienaar-Abstract-and-Bio-2.pdf"><span style="color: #0000ff;text-decoration: underline">Medical Image Processing on the MOC with ChRIS and OpenShift</span> </a></span>- Dan McPherson, Red Hat &amp; Rudolph Pienaar, Boston Children's Hospital</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Getchell-Abstract-and-Bio.pdf">Secure Multi-Party Computing in the Cloud</a></span></span> - Ben Getchell, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FaaS: Think Outside the Container</span> </span></a>- Tommy Unger, BU</li>
  	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Dong-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">A demonstration of adapting HW to SW needs for network workloads</span></a> - Han Dong, BU</li>
  	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/UKL__A_Unikernel_based_on_Linux.pdf">A Unikernal based on Linux</a></span> - Ali Raza, BU &amp; Parul Sohal, BU</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Unger-Abstract-and-Bio.pdf"><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">FaaS: Think Outside the Container</span> </span></a>- Tommy Unger, BU</li>
  	<li>Q&amp;A Panel - Moderated by Pater Desnoyers, NEU/MOC</li>
 </ul>
 </td>
