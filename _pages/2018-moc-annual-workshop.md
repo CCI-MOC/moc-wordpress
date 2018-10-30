@@ -54,8 +54,8 @@ Boston, MA 02215
 <td style="width: 1029px;height: 72px">
 <ul>
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
+ 	<li>Keynote: <span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
  	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
- 	<li>Keynote: <span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
 </ul>
 </td>
 </tr>
@@ -106,7 +106,7 @@ Boston, MA 02215
 </tr>
 <tr style="height: 17px">
 <td style="width: 139px;height: 17px"><strong>1:05 - 1:20</strong></td>
-<td style="width: 1029px;height: 17px"><strong>Lunch &amp; Viewing of ChRIS Project Videos</strong></td>
+<td style="width: 1029px;height: 17px"><strong>Lunch &amp; Viewing of <span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://www.redhat.com/en/creating-chris?sc_cid=701f2000000RRFgAAO">ChRIS Project Videos</a></span></span></strong></td>
 </tr>
 <tr style="height: 41px">
 <td style="width: 139px;height: 41px"><strong> </strong></td>
