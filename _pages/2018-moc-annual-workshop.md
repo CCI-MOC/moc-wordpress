@@ -68,7 +68,7 @@ Boston, MA 02215
 <td style="width: 1029px;height: 173px">
 <ul>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Culbert-Abstract-and-Bio.pdf">MGHPCC: A Platform for Collaboration</a></span></span> - Jim Culbert, MGHPCC</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio.pdf"><span style="text-decoration: underline;color: #0000ff">The Next Iteration of <span style="text-decoration: underline">the</span> MOC</span></a> - Lars Kellogg-Stedman, Red Hat</li>
+ 	<li><span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/wp-content/uploads/2018/10/Kellogg-Stedman-Abstract-and-Bio-1.pdf">The Next Iteration of the MOC</a></span> - Lars Kellogg-Stedman, Red Hat</li>
  	<li><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Abstract-and-Bio.pdf">Intel’s Data Management Platform @MOC</a></span> - Dave Cohen, Intel</li>
  	<li><span style="color: #0000ff"><a style="color: #0000ff" href="https://massopen.cloud/wp-content/uploads/2018/10/Shepherd-Abstract-and-Bio-1.pdf"><span style="text-decoration: underline">Cisco: Multi-cloud services for the MOC and its users</span></a></span>- Michael Shepherd, Cisco</li>
  	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Crosas-Abstract-and-Bio.pdf">Harvard Dataverse and the MOC</a></span></span> - Mercè Crosas, Harvard University</li>
