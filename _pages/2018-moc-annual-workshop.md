@@ -163,9 +163,21 @@ Boston, MA 02215
 <td style="width: 139px;height: 42px"><span style="text-decoration: underline;color: #0000ff"><strong> </strong></span></td>
 <td style="width: 1029px;height: 42px">
 <ul>
- 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Research-Roundtable-1.pdf">Future Research Opportunities in the MOC </a></span></span>- facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU</li>
- 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Data-Science-and-the-MOC-Roundtable-1.pdf"><span style="text-decoration: underline;color: #0000ff">Data Science and the MOC</span></a> - facilitated by Merce Crosas, Harvard University &amp; Sherard Griffin, Red Hat</li>
- 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/NECI-Roundtable-2.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> </span></span>- facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Research-Roundtable-1.pdf">Future Research Opportunities in the MOC </a></span></span>- facilitated by Ayse Coskun, BU; Raja Sambasivan, BU &amp; Mayank Varia, BU
+<ul>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff;text-decoration: underline">Link to Cloud Research Roundtable Notes</span></span></li>
+</ul>
+</li>
+ 	<li><a href="https://massopen.cloud/wp-content/uploads/2018/10/Data-Science-and-the-MOC-Roundtable-1.pdf"><span style="text-decoration: underline;color: #0000ff">Data Science and the MOC</span></a> - facilitated by Merce Crosas, Harvard University &amp; Sherard Griffin, Red Hat
+<ul>
+ 	<li><span style="text-decoration: underline;color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://docs.google.com/document/d/1FUiv4P64cmqvtgRR2FH52LC3Xr1wkkQCV2A9PpxlXbk/edit?usp=sharing">Link to Data Science Roundtable</a></span></li>
+</ul>
+</li>
+ 	<li><span style="text-decoration: underline"><span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/NECI-Roundtable-2.pdf">Looking towards the computing horizon: A Northeast Cyberinfrastructure Lab</a> </span></span>- facilitated by John Goodhue, MGHPCC &amp; Scott Yokel, Harvard University
+<ul>
+ 	<li><span style="text-decoration: underline"><a href="https://docs.google.com/document/d/1zUAUezQOcWtRmrIUhLHA8LQ0f25dCS0OQ1ZAznR2mMA/edit?usp=sharing">Link to NECI Lab Roundtable Notes</a></span></li>
+</ul>
+</li>
 </ul>
 </td>
 </tr>
