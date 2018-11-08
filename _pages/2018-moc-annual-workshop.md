@@ -32,15 +32,15 @@ Boston, MA 02215
 <tr style="height: 18px">
 <td style="width: 139px;height: 18px"><strong>8:00 - 8:50</strong><strong>
 </strong></td>
-<td style="width: 1029px;height: 18px"><strong>Welcome and Overview</strong></td>
+<td style="width: 1029px;height: 18px"><strong>Welcome and Overview</strong><span style="text-decoration: underline"><span style="color: #0000ff"><em><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/11/Welcome-and-Team-2018.pdf"> slides</a></em></span></span></td>
 </tr>
 <tr style="height: 72px">
 <td style="width: 139px;height: 72px"><strong> </strong></td>
 <td style="width: 1029px;height: 72px">
 <ul>
  	<li>Introductory Remarks -  Gloria Waters, Boston University</li>
- 	<li>Keynote: <span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments</li>
- 	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC</li>
+ 	<li>Keynote: <span style="color: #0000ff"><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/10/Astley-Abstract-and-Bio.pdf">Scaling Challenges at Two Sigma</a></span> - Mark Astley, Head of Reliability Engineering, Two Sigma Investments <span style="text-decoration: underline"><span style="color: #0000ff"><em><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/11/Astley_MOC-Workshop-2018-keynote.pdf">slides</a></em></span></span></li>
+ 	<li>Overview of the Day - Orran Krieger, BU/MOC, and Peter Desnoyers, NEU/MOC <span style="text-decoration: underline"><span style="color: #0000ff"><em><a style="color: #0000ff;text-decoration: underline" href="https://massopen.cloud/wp-content/uploads/2018/11/Kickoff-2018.pdf">slides</a></em></span></span></li>
 </ul>
 </td>
 </tr>
