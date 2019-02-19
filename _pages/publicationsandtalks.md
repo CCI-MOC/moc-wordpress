@@ -121,7 +121,7 @@ post_date: 2016-03-25 18:28:13
 <ul>
  	<li>Mohan, Apoorve, Rohan Garg, Said Taazi, and Gene Cooperman. <a href="https://apoorvemohan.github.io/media/imgs/nens2017.png">“Recycling Lost CPU Cycles: Managing Multiple Many-core Jobs.”</a> 3rd Annual New England Network and Systems Day (NENS 2017).</li>
 </ul>
-<h1>MOC Annual Workshop</h1>
+<h1>MOC Annual Workshops</h1>
 <ul>
- 	<li>2018 workshop videos are listed by speaker on the <a href="https://massopen.cloud/2018-moc-annual-workshop/" target="_blank" rel="noopener">workshop page.</a> They can also be accessed via the <a href="https://www.youtube.com/playlist?list=PLKNUArbT35cAAaJQbcLgkhmr8V6bWZa3f" target="_blank" rel="noopener">YouTube playlist</a>.</li>
+ 	<li>2018 workshop videos are listed by speaker on the <span style="text-decoration: underline; color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://massopen.cloud/2018-moc-annual-workshop/" target="_blank" rel="noopener">workshop page.</a></span> They can also be accessed via the<span style="text-decoration: underline; color: #0000ff;"> <a style="color: #0000ff;" href="https://www.youtube.com/playlist?list=PLKNUArbT35cAAaJQbcLgkhmr8V6bWZa3f" target="_blank" rel="noopener">YouTube playlist</a>.</span></li>
 </ul>
