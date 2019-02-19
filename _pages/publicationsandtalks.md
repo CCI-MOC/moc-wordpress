@@ -55,7 +55,6 @@ post_date: 2016-03-25 18:28:13
 <ul>
  	<li>J. Hennessey, C. Hill, I. Denhardt, V. Venugopal, G. Silvis, O. Krieger, and P. Desnoyers, <a href="https://open.bu.edu/bitstream/handle/2144/11221/haas.pdf?sequence=1&amp;isAllowed=y">“Hardware as a service – enabling dynamic, user-level bare metal provisioning of pools of data center resources.,”</a> in <i>2014 IEEE High Performance Extreme Computing Conference</i>, Waltham, MA, USA, 2014. [<a href="https://open.bu.edu/handle/2144/11221">Open BU</a>].</li>
 </ul>
-&nbsp;
 <h1>Talks</h1>
 <ul>
  	<li>Mosayyebzadeh, Amin, "Bolted:  Security as a Service", 3rd Annual New England Network and Systems Day (NENS 2017). [<a href="http://systems.cs.brown.edu/nens/2017/program/">Video]</a></li>
@@ -116,12 +115,13 @@ post_date: 2016-03-25 18:28:13
 </ul>
 <ul>
  	<li>Desnoyers, P., Hennessey, J., Holden, J., Krieger, O. and Raju, A. (2014). Mass Open Cloud Technical Directions [<a href="https://www.youtube.com/watch?v=cXKmia_iZCA">Video</a>].</li>
-</ul>
-<ul>
  	<li>Desnoyers, P. (2014). Building a "Multi-Landlord" Public Cloud [<a href="https://www.usenix.org/conference/lisa14/conference-program/presentation/desnoyers">Video</a>].</li>
 </ul>
-<h2></h2>
 <h1>Posters</h1>
 <ul>
  	<li>Mohan, Apoorve, Rohan Garg, Said Taazi, and Gene Cooperman. <a href="https://apoorvemohan.github.io/media/imgs/nens2017.png">“Recycling Lost CPU Cycles: Managing Multiple Many-core Jobs.”</a> 3rd Annual New England Network and Systems Day (NENS 2017).</li>
+</ul>
+<h1>MOC Annual Workshop</h1>
+<ul>
+ 	<li>2018 workshop videos are listed by speaker on the <a href="https://massopen.cloud/2018-moc-annual-workshop/" target="_blank" rel="noopener">workshop page.</a> They can also be accessed via the <a href="https://www.youtube.com/playlist?list=PLKNUArbT35cAAaJQbcLgkhmr8V6bWZa3f" target="_blank" rel="noopener">YouTube playlist</a>.</li>
 </ul>
