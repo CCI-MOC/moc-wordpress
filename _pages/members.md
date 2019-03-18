@@ -9,6 +9,7 @@ published: true
 post_date: 2016-03-24 02:16:59
 ---
 <h1>Academia&nbsp;and Nonprofit</h1>
+
 <table>
 <tbody>
 <tr>
@@ -27,8 +28,11 @@ post_date: 2016-03-24 02:16:59
 </tr>
 </tbody>
 </table>
+
 &nbsp;
+
 <h1>Core Partners</h1>
+
 <table style="width: 1200px;">
 <tbody>
 <tr>
@@ -43,8 +47,11 @@ post_date: 2016-03-24 02:16:59
 </tr>
 </tbody>
 </table>
+
 &nbsp;
+
 <h1>Contributors</h1>
+
 <table>
 <tbody>
 <tr>
